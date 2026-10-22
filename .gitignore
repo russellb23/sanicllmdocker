@@ -1,0 +1,4 @@
+# Ignoring parent direcotry loose files
+server.py
+Dockerfile
+requirements.txt

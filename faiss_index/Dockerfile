@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Create app directory
-WORKDIR /home/russellb/developments/DeepLearningNLP/sanicllmdocker
+WORKDIR /home/russellb/developments/DeepLearningNLP/sanicllmdocker/faiss_index
 
 # Copy requirements first for caching
 COPY requirements.txt .

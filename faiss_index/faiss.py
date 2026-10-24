@@ -18,14 +18,7 @@ from llama_index.readers.file import PDFReader
 # DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
 DOCS_DIR="/app/datasrc"
 EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
-# Load documents
-# docs = SimpleDirectoryReader(DOCS_DIR).load_data()
 
-# Create FAISS vector store
-# faiss_store = FaissVectorStore()
-
-# Build index
-# index = VectorStoreIndex.from_documents(docs, vector_store=faiss_store)
 
 # Load embedding model
 embedder = SentenceTransformer(EMBED_MODEL_NAME)
@@ -45,9 +38,6 @@ docs_ = load_pdfs(DOCS_DIR)
 # docums = [dc.json() for dc in docs_]
 # docs = [' '.join(dcs) for dcs in docums]
 
-# print(f"\n\nDocuments: {Document.example()}\n\n")
-# print(f"\n\nDocuments: {docs_[1]}\n\n")
-
 # Pipeline of transformation
 pipeline = IngestionPipeline(
         transformations=[
@@ -58,27 +48,14 @@ pipeline = IngestionPipeline(
 
 nodes = pipeline.run(documents=docs_)
 
-# Document embeddings
-# doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
-#                                  normalize_embeddings=True)
-# dims = doc_embeddings.shape[1]
-# faiss_index = faiss.IndexFlatIP(dims)
-# vector_store = FaissVectorStore(faiss_index=faiss_index)
-# storage_context = StorageContext.from_defaults(vector_store=vector_store)
-
-# index = VectorStoreIndex(nodes)
-
-# print("==============================")
-# print(f"\n\n\nIndex: {index}\n\n\n")
-# print("FAISS Vector store index created successfully!")
-# print("==============================")
-
-
 app = Sanic("SanicFAISS")
 
 @app.get("/faiss")
 async def faiss_index(request):
-    return text(nodes[0].get_text())
+    return json({
+        "text": nodes[0].get_text(),
+        "embedding": nodes[0].embedding
+        })
 
 
 if __name__ == "__main__":

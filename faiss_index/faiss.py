@@ -15,7 +15,8 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.readers.file import PDFReader
 
 
-DOCS_DIR="../datasrc"
+# DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
+DOCS_DIR="/app/datasrc"
 EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 # Load documents
 # docs = SimpleDirectoryReader(DOCS_DIR).load_data()
@@ -31,8 +32,8 @@ embedder = SentenceTransformer(EMBED_MODEL_NAME)
 
 def load_pdfs(path_name: str) -> dict:
     docs = []
-    for file in os.listdir(DOCS_DIR):
-        path = os.path.join(DOCS_DIR, file)
+    for file in os.listdir(path_name):
+        path = os.path.join(path_name, file)
         if file.lower().endswith(".pdf"):
             docs.extend(PDFReader().load_data(file=path))
         else:
@@ -41,11 +42,11 @@ def load_pdfs(path_name: str) -> dict:
 
 # Process document text as json
 docs_ = load_pdfs(DOCS_DIR)
-docums = [dc.json() for dc in docs_]
-docs = [' '.join(dcs) for dcs in docums]
+# docums = [dc.json() for dc in docs_]
+# docs = [' '.join(dcs) for dcs in docums]
 
-print(f"\n\nDocuments: {Document.example()}\n\n")
-print(f"\n\nDocuments: {docs_[1]}\n\n")
+# print(f"\n\nDocuments: {Document.example()}\n\n")
+# print(f"\n\nDocuments: {docs_[1]}\n\n")
 
 # Pipeline of transformation
 pipeline = IngestionPipeline(

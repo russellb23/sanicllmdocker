@@ -1,7 +1,11 @@
 sanic
 sanic-ext
 llama-index==0.14.25
-faiss-cpu==1.7.4
+faiss-gpu
 numpy
 sentence-transformers
+llama-index-vector-stores-faiss
+llama-index-embeddings-huggingface
+llama-index-readers-file
+huggingface_hub
 

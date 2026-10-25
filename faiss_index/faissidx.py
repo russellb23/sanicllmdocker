@@ -3,6 +3,7 @@ from sanic.response import json, text
 
 import os 
 import faiss
+import aiohttp
 
 from sentence_transformers import SentenceTransformer
 
@@ -16,8 +17,9 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.readers.file import PDFReader
 
 
-DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
-# DOCS_DIR="/app/datasrc"
+MAX_CTX_TOKENS=2048
+# DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
+DOCS_DIR="/app/datasrc"
 EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 
 
@@ -36,6 +38,11 @@ def load_pdfs(path_name: str) -> dict:
 
 # Process document text as json
 docs_ = load_pdfs(DOCS_DIR)
+documents_ = [dc.json() for dc in docs_]
+documents = [' '.join(dcs) for dcs in documents_]
+
+doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
+                                 normalize_embeddings=True)
 
 # Settings Sentence splitter
 Settings.text_splitter = SentenceSplitter(
@@ -45,32 +52,40 @@ Settings.text_splitter = SentenceSplitter(
         paragraph_separator="\n\n")
 
 # Settings embedding
-Settings.embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL_NAME)
+# Settings.embed_model = SentenceTransformer(EMBED_MODEL_NAME)
 
 # Faiss vector store initialization
 dimension = 384
 faiss_index = faiss.IndexFlatIP(dimension)
+faiss_index.add(doc_embeddings)
+
 vector_store = FaissVectorStore(faiss_index=faiss_index)
 storage_context = StorageContext.from_defaults(
         vector_store=vector_store)
 
 # Index construction
-index = VectorStoreIndex.from_documents(docs_,
-                        storage_context=storage_context)
+# index = VectorStoreIndex.from_documents(docs_,
+#                         storage_context=storage_context)
 
 
-scores, indices = index.search()
+# Sanic application
 app = Sanic("SanicFAISS")
 
-@app.get("/faiss")
-async def faiss_index(request):
+app.config.RESPONSE_TIMEOUT = 12000
+app.config.REQUEST_TIMEOUT = 12000
+
+@app.post("/faiss")
+async def search_faiss(request):
     query = request.json["query"]
-    query_embedding = HuggingFaceEmbedding(mode_name=EMBED_MODEL_NAME).encode(
+    print(f"Query: {query}")
+    query_embedding = embedder.encode(
             [query], convert_to_numpy=True, normalize_embeddings=True)
-    scores, indices = index.search(query_embedding, 3)
-    retrieved_docs = [documents[i] for i in indices[0]]
+    scores, indices = faiss_index.search(query_embedding, 3)
+    retrieved_docs = [documents[i][:MAX_CTX_TOKENS] for i in indices[0]]
+    print(f"\n\n{indices[0]}\n\n")
     # Build prompt
     context = "\n\n".join(retrieved_docs)
+
     # Constructing prompt
     prompt=f"""You are a helpful scientific assistant. Use the following
     scientific context to answer the following question.
@@ -80,7 +95,13 @@ async def faiss_index(request):
 
     Question: {query}
     Answer"""
-    return text("This should go to the LLM-endpoint")
+    async with aiohttp.ClientSession() as session:
+        async with session.post("http://samy:8001/infer", json={"query": prompt}) as resp:
+            result = await resp.json()
+            print(f"RESULT: {context}")
 
+    return json(result)
+
+# Execute the application
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8002, single_process=True, debug=True) 

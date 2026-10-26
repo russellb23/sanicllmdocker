@@ -8,4 +8,4 @@ llama-index-vector-stores-faiss
 llama-index-embeddings-huggingface
 llama-index-readers-file
 huggingface_hub
-
+aiohttp

@@ -96,7 +96,7 @@ async def search_faiss(request):
     Question: {query}
     Answer"""
     async with aiohttp.ClientSession() as session:
-        async with session.post("http://samy:8001/infer", json={"query": prompt}) as resp:
+        async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
             result = await resp.json()
             print(f"RESULT: {context}")
 

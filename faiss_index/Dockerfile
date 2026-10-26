@@ -26,5 +26,5 @@ COPY . .
 EXPOSE 8002
 
 # Default command
-CMD ["python", "faiss.py"]
+CMD ["python", "faissidx.py"]
 

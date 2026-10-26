@@ -9,7 +9,7 @@ print("[INFO] Loading local LLaMA model . . .")
 llm = Llama(
         model_path=MODEL_PATH,
         n_gpu_layers=-1,
-        n_ctx=4096,
+        n_ctx=8192,
         device_map="0:cuda",
         verbose=False)
 

@@ -71,8 +71,8 @@ storage_context = StorageContext.from_defaults(
 # Sanic application
 app = Sanic("SanicFAISS")
 
-app.config.RESPONSE_TIMEOUT = 12000
-app.config.REQUEST_TIMEOUT = 12000
+app.config.RESPONSE_TIMEOUT = 240
+app.config.REQUEST_TIMEOUT = 240
 
 @app.post("/faiss")
 async def search_faiss(request):
@@ -88,7 +88,9 @@ async def search_faiss(request):
 
     # Constructing prompt
     prompt=f"""You are a helpful scientific assistant. Use the following
-    scientific context to answer the following question.
+    scientific context and only the context to answer the following question.
+    If the answer is not in the given context say I could not find the answer
+    in the context.
 
     Context:
     {context}

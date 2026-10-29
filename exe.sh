@@ -1,7 +1,11 @@
 #!/bin/zsh
 
 SERVER="./llm_server"
-FAISS="./faissidx"
+FAISS="./faiss_index"
+
+# Stop and remove containers before starting
+echo "Stoppping if containers in use already ..."
+echo `docker container stop server && docker container rm server && docker container stop faiss && docker container rm faiss`
 
 # BUild and run docker for server
 echo "Building server..."
@@ -9,22 +13,28 @@ cd $SERVER
 echo `docker build -t llm-gpu-image . \
 	&& docker run --name server -v /opt/llamacpp:/models \
 	-p 8001:8001 -d llm-gpu-image`
+cd ../
 
 sleep 30
 
 echo "Building faiss index ..."
-cd ../$FAISS
+cd $FAISS
 echo `docker build -t sanic-image . \
 	&& docker run --name faiss \
 	-v /home/russellb/developments/DeepLearningNLP/sanicllmdocker:/app \
 	-p 8002:8002 -d sanic-image`
 
-sleep 180
+sleep 240
+
+echo "Stopping network if in use already ..."
+echo `docker network rm llm-net`
 
 echo "Creating network ..."
 echo `docker network create llm-net && \
 	docker network connect llm-net server && \
 	docker network connect llm-net faiss`
+
+sleep 180
 
 echo "Sending curl request for testing..."
 echo `curl -X POST http://localhost:8002/faiss \

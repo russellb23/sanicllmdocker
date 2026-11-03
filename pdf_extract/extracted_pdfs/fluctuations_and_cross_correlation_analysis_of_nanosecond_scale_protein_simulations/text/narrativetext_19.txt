@@ -1,0 +1,1 @@
+(2) Is agreement between the X-ray derived and simulated B-factors a good indicator for the quality of a simulation of a protein in solution?

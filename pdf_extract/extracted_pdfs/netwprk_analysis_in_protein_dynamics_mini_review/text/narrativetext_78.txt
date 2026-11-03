@@ -1,0 +1,1 @@
+discriminate between ‘easy folder’ proteins from those, which have a large number of folding traps and to have a deeper understanding of protein dynamics.

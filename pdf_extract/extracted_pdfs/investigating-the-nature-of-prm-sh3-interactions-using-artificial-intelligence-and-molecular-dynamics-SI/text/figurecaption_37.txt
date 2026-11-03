@@ -1,0 +1,1 @@
+Figure $7. Contact map differences of PRM P11A, PRM P8AP11A, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A. Contact map difference was calculated by subtracting the contact map of each WT from that of each complex.

@@ -1,0 +1,1 @@
+For all experiments, protein concentrations were controlled by mea- suring the sample absorbance at \ = 280 nm, whereas peptide concentra- tions were established using their absorbance at \ = 205 nm (NanoDrop One‘, ThermoFisher).

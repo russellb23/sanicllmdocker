@@ -1,0 +1,1 @@
+behind the scale-free degree distribution of macromolecular assemblies is that macromolecules (e.g. proteins) have much less constraints to increase their contact surface, and are not restricted to simultaneous binding only, since they may leave their partners and bind to different neighbors. Similar assump- tions (to a greater extent) hold to us while forming social net- works.

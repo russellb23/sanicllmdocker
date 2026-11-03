@@ -1,0 +1,1 @@
+solution condition change, we use the change in entropic force between the solute and buffer with the following equation

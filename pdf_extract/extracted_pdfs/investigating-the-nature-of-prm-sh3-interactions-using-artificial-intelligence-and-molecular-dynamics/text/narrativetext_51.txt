@@ -1,0 +1,1 @@
+3.1. PRM WT Analysis. Figure 1a shows the representative structures of the PRM wild-type (WT) peptide in its unbound and bound forms. Thermal fluctuations are observed across all regions in the unbound form, while in the bound form, the C- terminal region exhibits smaller fluctuations due to its interaction with SH3. The average RMSD is significantly

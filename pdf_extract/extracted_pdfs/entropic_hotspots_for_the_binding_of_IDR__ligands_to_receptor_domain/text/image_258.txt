@@ -1,0 +1,1 @@
+L159 (nSH3:PRM“S"4) 08 N146 in nSH3-unbound NSIA G177 (nSH3:PRM ) K189 (nSH3:PRM‘S" 0.6 Cit) cAI 04 A762 (PRM™"-complex) 135 (nSH3-unbound) 02 L214 (PRM™*"-unbound) 758 (PRM‘ complex) 1 0 50 100 150 Time (ns)

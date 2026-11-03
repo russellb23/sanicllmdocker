@@ -1,0 +1,1 @@
+Table 1. Data collection and refinement statistics for the Lyn SH3 domain. Values in parentheses correspond to the highest resolution shell. For data collection, this corresponds to 1.22-1.20 A resolution. For refinement, this corre- sponds to 1.26-1.20 A resolution. Data are >95% complete at 1.45 A resolution.

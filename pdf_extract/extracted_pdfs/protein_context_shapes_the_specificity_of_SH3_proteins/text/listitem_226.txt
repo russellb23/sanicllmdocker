@@ -1,0 +1,1 @@
+66. Rappsilber, J, Mann, M. & Ishihama, Y. Protocol for micro-purification, enrichment, pre-fractionation and storage of peptides for proteomics using StageTips. Nat. Protoc. 2, 1896-1906 (2007).

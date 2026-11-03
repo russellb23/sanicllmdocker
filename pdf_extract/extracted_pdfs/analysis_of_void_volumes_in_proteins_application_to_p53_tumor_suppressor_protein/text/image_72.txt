@@ -1,0 +1,1 @@
+3500 5 3000 4 —~ 2500 + 2000 + 1500 4 Void volume (A* S 3 ro) n 500 | —<— Largest void volume —©— Total void volume 0 T T T T T T 1 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 Probe radius (A)

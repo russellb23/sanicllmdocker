@@ -1,0 +1,1 @@
+the data points in the Scatchard analysis were 0.9035 and 0.9256, respectively.

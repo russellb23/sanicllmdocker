@@ -1,0 +1,1 @@
+compaction of the ensemble in the repulsive solution, and the ensemble change is correlated with protein:solvent interaction strength (Figure 6A). To quantify how AS changes with

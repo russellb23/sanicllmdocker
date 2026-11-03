@@ -1,0 +1,1 @@
+For all simulation models, a MD integration time step of 2 fs was used. Distances used for the onset of switching function for nonbonded interaction, the cutoff for nonbonded interactions, and the cutoff for nonbonded list generation were 20, 22, and 25 A, respectively. Covalent bonds between the heavy atoms and hydrogens were constrained by the SHAKE algorithm.*°

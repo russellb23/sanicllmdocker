@@ -1,0 +1,1 @@
+Peptide residue 5 MKKKKTAATPPKRS 30 1M K K 25 K 5K = 1 208 fA 8 A 155 9T 2 P P 1.0 K 188 05

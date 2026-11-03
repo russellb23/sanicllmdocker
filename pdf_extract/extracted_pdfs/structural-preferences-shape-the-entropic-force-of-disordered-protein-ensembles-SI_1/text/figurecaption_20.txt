@@ -1,0 +1,1 @@
+Figure S4. Entropic force as a function of average asphericity. The black line represents the length-independent asphericity of GS repeats shown in Fig. S3. Each marker represents a single IDR, color-coded as in Fig. 5A , with stronger purple (green) markers showing a stronger (weaker) entropic force compared to the GS repeat of the same size.

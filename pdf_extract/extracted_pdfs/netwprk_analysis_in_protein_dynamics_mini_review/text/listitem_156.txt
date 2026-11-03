@@ -1,0 +1,1 @@
+[64] Samudrala, R. and Moult, J. (1998) A graph-theoretic algorithm for comparative modeling of protein structure. J. Mol. Biol. 279, 287-302.

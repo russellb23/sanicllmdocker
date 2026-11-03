@@ -1,0 +1,1 @@
+models of binding, differences in the dynamics between free and bound protein, side-chain motions in enzymatic reactions, allosteric enzyme regulation, interrelationship between different crystallographic conformers, and conformational changes occuring upon thermal unfolding of a protein. A non-exhaus- tive list of such studies can be found in Table 1.

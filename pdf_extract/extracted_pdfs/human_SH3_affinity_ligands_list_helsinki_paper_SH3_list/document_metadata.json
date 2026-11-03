@@ -1,0 +1,1952 @@
+{
+  "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+  "extraction_date": "2026-11-03T15:13:20.160234",
+  "statistics": {
+    "text_blocks": 58,
+    "titles": 0,
+    "images": 0,
+    "tables": 0
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156489",
+      "coordinates": {
+        "points": [
+          [
+            149.49591064453125,
+            -155.10519409179688
+          ],
+          [
+            149.49591064453125,
+            1543.03369140625
+          ],
+          [
+            2193.228759765625,
+            1543.03369140625
+          ],
+          [
+            2193.228759765625,
+            -155.10519409179688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a45f0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><tbody><tr><td>Clone no.</td><td>Protein</td><td>| SH3no</td><td>| Alternative gene name</td><td>AA sequence</td><td>Vector ID</td></tr><tr><td>1</td><td>53BP2</td><td></td><td>TP53BP2, ASPP2</td><td>ev rYALoYEPONDDELPMKEGDCMTTTHREDEDETENNWARLNDKEGYVPRNLLGLYP</td><td>73</td></tr><tr><td>2</td><td>7A5</td><td></td><td></td><td></td><td>272</td></tr><tr><td>3</td><td>Abit</td><td></td><td>E3B1, NAP1BP, SSH3BP1</td><td>EKVVAIYDYTKDKDDELSFNEGAI IYVIKKNDDGHYEGVCNRVIGLFPGNYVESIM</td><td>99</td></tr><tr><td>4</td><td>Abi2</td><td></td><td>AbIBP3, ABI2B, AIP-1, SSH3BP2, ArgBPIA</td><td>EKVVATYDYTADKEDELSFORGATIYVIKENDDGHYEGVUNGVIGLFPGNYVESIM</td><td>268</td></tr><tr><td>5</td><td>Abl</td><td></td><td></td><td></td><td>28</td></tr><tr><td>6</td><td>Ack</td><td></td><td></td><td></td><td>5</td></tr><tr><td>7</td><td>AHI-1</td><td></td><td></td><td></td><td>174</td></tr><tr><td>8</td><td>alpha1-6FucT</td><td></td><td></td><td></td><td>205</td></tr><tr><td>9</td><td>Amphiphysin</td><td></td><td>MAP, RUSC3</td><td>YKVETLHDF EAANSDELTLORGDVVLVVPSDSEADQDAGWLVGVKESDWLQYRDLATYKGLFPENFTRRL|</td><td>179</td></tr><tr><td>10</td><td>Amphiphysin-ll</td><td></td><td>BIN1, SH3P9</td><td>FKVQAQHDYTATDTDELOLKAGDVVLVIPFONPEEQDEGWLMGVKESDWNOHKELEKCRGVFPENFTERV|</td><td>180</td></tr><tr><td>11</td><td>Arg</td><td></td><td>AbI2. AbiL</td><td>NLFVALYDFVASGDNTLSITKGEKLRVLGYNONGEWSEVRSKNGQGWVPSNYITPVN</td><td>38</td></tr><tr><td>12</td><td>ArgBP2</td><td></td><td>ArgBP2A</td><td>|LPAKAVYDFKAQTSKELSFKKGDTVY ILRK IDONWYEGEHHGRVGIFPISYVEKLT</td><td>134</td></tr><tr><td>13</td><td>ArgBP2</td><td></td><td>[ArgBP2A</td><td>SEATAKYNFNADTNVELSLREGDRVILLKRVDONWYEGKIDGTNRQGIFPVSYVEWE</td><td>130</td></tr><tr><td>14</td><td>ArgBP2</td><td></td><td></td><td></td><td>244</td></tr><tr><td>15</td><td>2</td><td></td><td>PRMT2</td><td></td><td>147</td></tr><tr><td></td><td>Arginine N-methyltransferase</td><td></td><td>HRMT1L1,</td><td>EEF VAIADYAATDETQLSFLRGEKILILRQTTADWWWGERAGCCGYIPANHVGKHV</td><td></td></tr><tr><td>16</td><td>JARHGAP12</td><td></td><td></td><td></td><td>262</td></tr><tr><td>17</td><td>ARHGAP9</td><td></td><td>10C, RGL1</td><td>SQLCALYAFTYTGADGQQVSLAEGDRFLLLRKTNSDWWLARRLEAPSTSRPIFVPAAYMIEES</td><td>66</td></tr><tr><td>18</td><td>IARHGEF19</td><td></td><td></td><td></td><td>264</td></tr><tr><td>19</td><td>ARHGEF9</td><td></td><td>PEM2, HPEM-2, COLLYBISTIN</td><td>\\VSARAVWDHVTMANRELAFKAGDVIKVLDASNKDNWNGOLDDEEGWEPASFVRLNY</td><td>144</td></tr><tr><td>20</td><td>Asef</td><td></td><td>ARHGEF4, GEF4, STM6</td><td>\\VCABALNDEYTMDDQELGFKAGDVTEVMDATNREWNNGRVADGEGWEPASFVRLRV</td><td>142</td></tr><tr><td>21</td><td>ASPP11</td><td></td><td>PPP1R13B, p85, p53BP2-like</td><td>GVAYALWDYBAQNSDELSFHEGDALTILRRKDESETEWWWARLGDREGYVPKNLLGLYP</td><td>74</td></tr><tr><td>22</td><td>BAIAP2</td><td></td><td>BAP2, IRSp53</td><td>MRVKAIF SHAAGDNSTLLSFKEGDLITLLVPEARDGWHYGESEKTKMRGWEPFSYTRVLD</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>23</td><td>BAIAP2L1</td><td></td><td></td><td></td><td>108</td></tr><tr><td>24</td><td>BAIAP2L2</td><td></td><td>BAI1-associated protein 2-like 2</td><td>RRVRALVSHSEGANHTLLRF SAGDVVEVLVPEAQNGWLYGKLEGSSASGWF PEAYVKALE</td><td>109</td></tr><tr><td>25</td><td>Blk</td><td></td><td></td><td></td><td>41</td></tr><tr><td>26</td><td>BPAG1</td><td></td><td>CATX-15</td><td>_|</td><td>278</td></tr><tr><td></td><td></td><td></td><td>DST, dystonin, BPA, BP240, MACF2,</td><td>rprxarcovaorerrrveppecvLaNNsHRaKwkvISPTGNEAMVPSVCFTVPP</td><td></td></tr><tr><td>27</td><td>Brk</td><td></td><td></td><td></td><td>49</td></tr><tr><td>28</td><td>Btk</td><td></td><td>ATK, BPK, XLA</td><td>KKVVALYDYMPMNANDLOLRKGDEYFILEESNLPWWRARDKNGQEGYIPSNYVTEAE</td><td>246</td></tr><tr><td>29</td><td>ICAB1</td><td></td><td>CCB1, CACNB1, CCHLB1, CACNLB1</td><td>FAVRTNVGYNPSPGDEVPVOGVATTFEPKDFLHTKEK YNNDMNTGRLVKEGCEVGFIPSPVKLDS</td><td>42</td></tr><tr><td>30</td><td>ICAB2</td><td></td><td>CCB2, CACNB2, MYSB, CACNLB2</td><td>PAVRTNVSYSAAHEDDVPVPGMATSFEAKDFLHVKEXENNDWWTGRLVKEGCEIGFIPSPVKLEN</td><td>154</td></tr><tr><td>31</td><td>ICAB3</td><td></td><td>CCB3, CACNB3, CACNLB3</td><td>FAVRTNVSYCGVLDEECPVQGSGVNFEAKDFLHIKEKYSNDWWIGRLVKEGGDIAFIPSPQRLES</td><td>281</td></tr><tr><td>32</td><td>ICAB4</td><td></td><td>CCB4, CACNB4, EJM, CACNLB4</td><td>FAVKTNVS¥CGALDEDVPVPSTAISFDAKDFLHIKEKYNNDUWIGRLVKEGCEIGF IPSPLRLENI</td><td>23</td></tr><tr><td>33</td><td>Cask</td><td></td><td></td><td></td><td>160</td></tr><tr><td>34</td><td>ICASKIN1</td><td></td><td></td><td></td><td>15</td></tr><tr><td>35</td><td>CASKIN2</td><td></td><td></td><td></td><td>114</td></tr><tr><td>36</td><td>CD2BP1</td><td></td><td>PSTPIP1, H-PIP, PAPAS</td><td>on vRALYDYTAQNPDELDLSAGDILEVILEGEDGWWTVERNGORGFVPGSYLEKL</td><td>98</td></tr><tr><td>37</td><td>CIN85</td><td></td><td>SH3KBP1, MIG18</td><td>\\VEAIVEFDYQAQHDDELTISVGE I ITNIRKEDGGWWEGQINGRRGLFPDNFVREIK</td><td>165</td></tr><tr><td>38</td><td>CIN85</td><td></td><td>SH3KBP1, MIG18</td><td>RRCQVAF SYLPONDDELELKVGDI IEVVGEVEEGWWEGVLNGKTGMF PSNF IKELS</td><td>163</td></tr><tr><td>39</td><td>CIN85</td><td></td><td>SH3KBP1, MIG18</td><td>DYCKVIFPYEAQNDDEL/TIKEGDIVTLINKDCIDVGWNEGELNGRRGVF PDNFVKLLP</td><td>14</td></tr><tr><td>40</td><td>CMS</td><td></td><td>CD2AP</td><td>{voy 1VEYDYDAVHDDEL/TIRVGET IRNVKKLQBEGNLEGELNGRRGMFPDNEVKEIK</td><td>166</td></tr><tr><td></td><td></td><td></td><td>CD2AP</td><td>ELK</td><td></td></tr><tr><td>41</td><td>CMS</td><td></td><td></td><td>ROCKVLPBYTPONEDEL VGDIIDINEEVBEGWHSGTLNNKLGL#PSNFVKELE</td><td>164</td></tr><tr><td>42</td><td>CMS</td><td></td><td>CD2AP.</td><td>EYCRTLFAYEGTNEDELTFKEGEI IHLISKETGEAGWWRGELNGKEGVFPDNFAVQIN</td><td>167</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-1-1.jpg",
+      "detection_class_prob": 0.8764352202415466,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156671",
+      "coordinates": {
+        "points": [
+          [
+            229.0,
+            1548.0
+          ],
+          [
+            229.0,
+            1563.0
+          ],
+          [
+            252.0,
+            1563.0
+          ],
+          [
+            252.0,
+            1548.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a4fb0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156742",
+      "coordinates": {
+        "points": [
+          [
+            333.0,
+            1547.0
+          ],
+          [
+            333.0,
+            1564.0
+          ],
+          [
+            367.0,
+            1564.0
+          ],
+          [
+            367.0,
+            1547.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a4650>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156799",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1534.0
+          ],
+          [
+            1351.0,
+            1576.0
+          ],
+          [
+            2153.0,
+            1576.0
+          ],
+          [
+            2153.0,
+            1534.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a50d0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156851",
+      "coordinates": {
+        "points": [
+          [
+            150.93263244628906,
+            -171.83497619628906
+          ],
+          [
+            150.93263244628906,
+            1542.395751953125
+          ],
+          [
+            2203.76806640625,
+            1542.395751953125
+          ],
+          [
+            2203.76806640625,
+            -171.83497619628906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a40b0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><tbody><tr><td>49</td><td>Dbs</td><td></td><td></td><td>|GKYTVVADHEKGGPDALRVRSGDVVELVQEGDEGLWYVRDPTTGKEGWVPASSLSVRL</td><td>287</td></tr><tr><td>52</td><td>DLG1</td><td></td><td></td><td>/LYVRALFDYDKTKDSGLPSQGLNFKF GD ILHVINASDDEWNQAROVTPDGESDEVGVIPSKRRVEKK</td><td>47</td></tr><tr><td>53</td><td>DLG2</td><td></td><td></td><td>LYVRAMFDYDKSKDSGLPSQGLSFKYGDILHVINASDDEWWQARRVMLEGDSEEMGVIPSKRRVERK</td><td>151</td></tr><tr><td>54</td><td>DLG3</td><td></td><td></td><td>LYVRALFDYDRTRDSCLPSOGLSF S¥GDILHVINASDDEWWQARLVTPHGESEQIGVIPSKKRVEKK</td><td>152</td></tr><tr><td>55</td><td>DLG4</td><td></td><td></td><td>FY IRALFDYDKTKDCGFLSQALSFRFGDVLHVIDASDEEWWQARRVHSDSETDDIGFIPSKRRVERR</td><td>150</td></tr><tr><td>58</td><td>DOCK2</td><td>ee</td><td></td><td></td><td>211</td></tr><tr><td></td><td></td><td></td><td></td><td>IRHGVAIYNFQGSGAPQLSLOTGDVVRIQETCGDWYRGYLIKHKMLOGIFPKSFIHIKE</td><td></td></tr><tr><td>59</td><td>DOCK3</td><td></td><td></td><td>KYGVVICSFRGSVPQGLVLEIGETVQILEKCEGWYRGVSTKKPNVKGIFPANYIHLKK</td><td>265</td></tr><tr><td>60</td><td>DOCK4</td><td></td><td>ee</td><td></td><td>289</td></tr><tr><td></td><td></td><td></td><td></td><td>KYGVVIASFRGTVPYGLSLEIGDTVQTLEKCDGWYRGFALKNPNIKGIFPSSYVHLKN</td><td></td></tr><tr><td>61</td><td>Duet</td><td></td><td></td><td>ELITVVLODF SAGHSSELITT QVGQTVELLERDSERPGHCLVRTTERSPPLEGLVPSSALCISH</td><td>280</td></tr><tr><td>62</td><td>Duet</td><td></td><td></td><td>SSMAVIKDYYALKENE ICVSQGEVVOVLAVNOQONMCLVY QPASDHSPAAEGWVPGSILAPLTKATAAESS|</td><td>279</td></tr><tr><td>64</td><td>EEN-B1</td><td></td><td></td><td>PCCRALYDFEPENEGELGFKEGDITTLINOTDENWYEGNLHUGHSGFFPINYVEILV</td><td>116</td></tr><tr><td>65</td><td>EEN-B2</td><td></td><td></td><td></td><td>117</td></tr><tr><td></td><td></td><td></td><td></td><td>PCCRGLYDFEPENQGELGFKEGDI ITLTNQIDENWYEGMIHGESGFFPINYVEVIV</td><td></td></tr><tr><td></td><td>B2</td><td></td><td></td><td>RRARVLYDYEAADSSELALLADELTTVYSLPGNDPDWLIGERGNKKGKVEVTYLELLS</td><td></td></tr><tr><td>67</td><td>Endophilin</td><td></td><td></td><td></td><td>97</td></tr><tr><td>70</td><td>Eps8L2</td><td></td><td></td><td>KY VKTLYDP TARNANEL SVLKDEVLEVLEDGROWWKLRSRSGQAGYVPCNILGEAR</td><td>51</td></tr><tr><td>72</td><td>Erythroid alpha spectrin</td><td></td><td></td><td>ORVMALYDFQARSPREVTMKKGDVLTLLSS INKDWWKVEAADHQGIVPAVYVRRLA</td><td>110</td></tr><tr><td>75</td><td>Eve-1</td><td></td><td></td><td>SRCVARFEYIGEQKDELSFSEGEII ILKEYVNEEWARGEVRGRTGIFPLNFVEPVE</td><td>214</td></tr><tr><td></td><td>FBP17</td><td></td><td></td><td></td><td></td></tr><tr><td>78</td><td></td><td></td><td></td><td>|GTCKALYTFEGQNEGTISVVEGETLYVIEEDKGDGWTRIRRNEDEEGYVPTSYVEVCL</td><td>58</td></tr><tr><td>80</td><td>FCHSD1</td><td></td><td></td><td>FLAQALYSYTGQSAEELSFPEGALIRLLPRAQDGVDDGFWRGEFGGRVGVFPSLLVEELL</td><td>102</td></tr><tr><td>84</td><td>FISH</td><td></td><td></td><td>EQYVVVSNYKKQENSELSLOQAGEVVDVIEKNESGWWFVSTSEEQGWVPATYLEAQN</td><td>90</td></tr><tr><td>86</td><td>FISH</td><td></td><td>SH3MD1</td><td>VEYYTIAEFQSCISDGISFRGGQKAEVIDKNSGGWWYVOIGEKEGWAPASYIDKRK</td><td>88</td></tr><tr><td>87</td><td>FISH</td><td></td><td>SH3MD1</td><td>ITSYMTCSAYQKVQDSEISF PAGVEVQVLEKQESGWWYVRFGELEGWAPSHYLVLDE</td><td>22</td></tr><tr><td>88</td><td>FISH</td><td></td><td>SH3MD1</td><td>DVYVS L[ADYEGDEETAGF QEGVSMEVLERNPNGWWYCOTLDGVKPFKGWVPSNYLEKKN</td><td>93</td></tr><tr><td>89</td><td>FISH2</td><td></td><td>FLJ20831, KIAA1295</td><td>EQVVVVANYQKORSSEISLSVGQVVDITEENESGHWFVSTARROGHVPATCLEGOD</td><td>293</td></tr><tr><td>90</td><td>FISH2</td><td></td><td>FLJ20831, KIAA1295</td><td>EKYTVIYPYTARDODEMNLERGAVVEVIQKNLEGHWKTRYQGKEGHAPASYLKKNS</td><td>302</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-2-2.jpg",
+      "detection_class_prob": 0.8912166357040405,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156905",
+      "coordinates": {
+        "points": [
+          [
+            229.0,
+            1538.0
+          ],
+          [
+            229.0,
+            1554.0
+          ],
+          [
+            248.0,
+            1554.0
+          ],
+          [
+            248.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a5130>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.156956",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1538.0
+          ],
+          [
+            334.0,
+            1555.0
+          ],
+          [
+            394.0,
+            1555.0
+          ],
+          [
+            394.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afc50>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157033",
+      "coordinates": {
+        "points": [
+          [
+            229.0,
+            1573.0
+          ],
+          [
+            229.0,
+            1589.0
+          ],
+          [
+            252.0,
+            1589.0
+          ],
+          [
+            252.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5affb0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157082",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1573.0
+          ],
+          [
+            334.0,
+            1590.0
+          ],
+          [
+            394.0,
+            1590.0
+          ],
+          [
+            394.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afe30>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157130",
+      "coordinates": {
+        "points": [
+          [
+            229.0,
+            1607.0
+          ],
+          [
+            229.0,
+            1623.0
+          ],
+          [
+            252.0,
+            1623.0
+          ],
+          [
+            252.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afdd0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157184",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1607.0
+          ],
+          [
+            334.0,
+            1623.0
+          ],
+          [
+            364.0,
+            1623.0
+          ],
+          [
+            364.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e40650>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157232",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1536.0
+          ],
+          [
+            856.0,
+            1555.0
+          ],
+          [
+            1060.0,
+            1555.0
+          ],
+          [
+            1060.0,
+            1536.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43470>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157281",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1527.0
+          ],
+          [
+            1351.0,
+            1591.0
+          ],
+          [
+            2147.0,
+            1591.0
+          ],
+          [
+            2147.0,
+            1527.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e42cf0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157330",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1571.0
+          ],
+          [
+            856.0,
+            1590.0
+          ],
+          [
+            1060.0,
+            1590.0
+          ],
+          [
+            1060.0,
+            1571.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700774d0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157379",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1607.0
+          ],
+          [
+            856.0,
+            1626.0
+          ],
+          [
+            1005.0,
+            1626.0
+          ],
+          [
+            1005.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700772f0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157429",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1603.0
+          ],
+          [
+            1351.0,
+            1630.0
+          ],
+          [
+            2147.0,
+            1630.0
+          ],
+          [
+            2147.0,
+            1603.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075310>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157482",
+      "coordinates": {
+        "points": [
+          [
+            150.52833557128906,
+            -156.91871643066406
+          ],
+          [
+            150.52833557128906,
+            1539.315185546875
+          ],
+          [
+            2193.262939453125,
+            1539.315185546875
+          ],
+          [
+            2193.262939453125,
+            -156.91871643066406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077350>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><tbody><tr><td></td><td>Fyb</td><td></td><td>ADAP, SLAP-130</td><td>HLAKACCDVKGGKNELSFKOGEQIEI IRITDNPEGKWLGRTARGSYGYIKTTAVEIDY</td><td></td></tr><tr><td>95</td><td>Fyn</td><td></td><td></td><td>|TLFVALYDYEARTEDDLSFHKGEKFQ1LNSSEGDWWEARSLTTGETGY IPSNYVAPVD</td><td>228</td></tr><tr><td>96</td><td>GADS</td><td></td><td>Grap2, Mona, GRID, GRPL, GrbX, GRB2L,</td><td>GRBL(mzavaxrprTascEDELSFHTGDVLKILSNQEEWFKAELGSQEGYVPKNFIDIQF</td><td>68</td></tr><tr><td>98</td><td>Gas7</td><td></td><td>ee</td><td>JARCRTLYPF SGERHGQGLRF AAGEL I TLLOVPDGGWWEGEKEDGLRGWF PASYVOLLE</td><td>292</td></tr><tr><td>101</td><td>Graf-related</td><td></td><td>P__frcacannyscxantisitn</td><td>si PQGATE SNVYPSVEPGHLKATYEGKTCLVPENYVEL</td><td>286</td></tr><tr><td>108</td><td>HEFL</td><td>ee</td><td></td><td>[LLARALYDNCPDCSDELAF SRGDILTILEQHVPESEGWWKCLLHGROGLAPANRLQILT</td><td>86</td></tr><tr><td>110</td><td>Homology to Fyb SH3-like region</td><td></td><td></td><td>INTAVACSNNSRNGIFDLPISPGEELEVIDTTEQNLVICRNSKGKYGYVLIEHLDFKH</td><td>303</td></tr><tr><td>111</td><td>Homology to PRAX1</td><td></td><td></td><td>KIFNAQYNYNPFEGPNDHPEGELPLTAGDYIYIF GDUDEDGFYEGELEDGRRGLVPSNFVEQIP</td><td>199</td></tr><tr><td>113</td><td>Homology to PRAX1</td><td></td><td></td><td>K IMIAALDYDPGDGOMGGOGKGRLALRAGDVVMVYGPMDDOGF YY¥GELGGHRGLVPAHLLDHMS</td><td>201</td></tr><tr><td>114</td><td>Intersectin 1</td><td></td><td></td><td>VYYRALYPFESRSHDEITIQPGDIVMVDESQTGEPGWLGGELKGKTGWFPANYAEKIP</td><td>125</td></tr><tr><td>115</td><td>Intersectin 1</td><td></td><td></td><td>/LQAQAL YPWRAKKDNHLNENKNDV1TVLEQODMWWFGEVQGOKGWFPKSYVKLIS</td><td>113</td></tr><tr><td>116</td><td>Intersectin 1</td><td></td><td></td><td>EEF IAMYTYESSEQGDLTFQQGDVILVTKKDGDWWIGTVGDKAGVFPSNYVRLKD</td><td>208</td></tr><tr><td>117</td><td>Intersectin 1</td><td></td><td></td><td>BIAQVIASYTATGPEQLTLAPGOLILIRKKNPGGHWEGELOARGKKRQUGMF PANYVKLLS</td><td>146</td></tr><tr><td>118</td><td>Intersectin 1</td><td></td><td></td><td>|COVIGMYDY TAQNDDELAFNKGQT INVLNKEDPDWWKGEVNGQVGLFPSNYVKLTT</td><td>176</td></tr><tr><td>119</td><td>Intersectin 1, long form</td><td></td><td></td><td>VYYRALYPFESRSHDEITIQPGDIVMVKGEWVDESQTGEPGWLGGELKGKTGWFPANYAEKIP</td><td>124</td></tr><tr><td>120</td><td>Intersectin 2</td><td></td><td></td><td>I QVDEKTVGEPGWLYGSFQGNFGWFPCNYVEKMP</td><td>126</td></tr><tr><td></td><td></td><td></td><td></td><td>VNYRALYPFEARNHDEMSFNSGDI</td><td></td></tr><tr><td>122</td><td>Intersectin 2</td><td></td><td></td><td>EEYIALYPYSSVEPGDLTFTEGEEILVTQKDGEWWTGSIGDRSGIFPSNYVKPKD</td><td>207</td></tr><tr><td>124</td><td>Intersectin 2</td><td></td><td></td><td>INGVIGLF PSNYVKMTT</td><td>175</td></tr><tr><td></td><td></td><td></td><td></td><td>|COVIAMYDYAANNEDELSFSKGQLINVMNKDDPDWWQGE</td><td></td></tr><tr><td>130</td><td>Lck</td><td>Ee</td><td></td><td>NLVIALHSYEPSHDGDLGFEKGEQLRILEQSGEWWKAQSLTTGQEGF I PENFVAKAN</td><td>225</td></tr><tr><td>131</td><td>LckBP1</td><td></td><td></td><td>ISAVALYDYQGEGSDELSFDPDDVITDIEMVDEGWWRGRCHGHFGLFPANYVKLLE</td><td>107</td></tr><tr><td>133</td><td>Matk</td><td></td><td></td><td>TOCITKCEHTRPKPGELAFRKGDVVTILEACENKSWYRVKHHTSGOQEGLLAAGALRERE</td><td>35</td></tr><tr><td>136</td><td>Mik1</td><td></td><td></td><td>PYWTAVFEYEAAGEDELTLRLGDVVEVLSKDSQVSGDEGWWTGQLNORVGIFPSNYVTPRS</td><td>11</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-3-3.jpg",
+      "detection_class_prob": 0.888367772102356,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157533",
+      "coordinates": {
+        "points": [
+          [
+            224.0,
+            1538.0
+          ],
+          [
+            224.0,
+            1554.0
+          ],
+          [
+            258.0,
+            1554.0
+          ],
+          [
+            258.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076210>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_17.txt"
+    },
+    {
+      "element_index": 18,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157581",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1538.0
+          ],
+          [
+            334.0,
+            1554.0
+          ],
+          [
+            377.0,
+            1554.0
+          ],
+          [
+            377.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075730>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157629",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1538.0
+          ],
+          [
+            1351.0,
+            1604.0
+          ],
+          [
+            2147.0,
+            1604.0
+          ],
+          [
+            2147.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076b70>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157675",
+      "coordinates": {
+        "points": [
+          [
+            224.0,
+            1573.0
+          ],
+          [
+            224.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076090>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157724",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1573.0
+          ],
+          [
+            334.0,
+            1589.0
+          ],
+          [
+            377.0,
+            1589.0
+          ],
+          [
+            377.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077530>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157771",
+      "coordinates": {
+        "points": [
+          [
+            153.68701171875,
+            -186.9641876220703
+          ],
+          [
+            153.68701171875,
+            1545.2410888671875
+          ],
+          [
+            2202.912109375,
+            1545.2410888671875
+          ],
+          [
+            2202.912109375,
+            -186.9641876220703
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077110>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><thead><tr><th></th><th>MPP2</th><th>DLG2</th><th>| VFVKCHFDYDPARDSLIPCKEAGLRFNAGDLLQIVNODDANWWQACHVEGGSAGLIPSQLLEEKR</th><th></th></tr></thead><tbody><tr><td>142</td><td>MPP3</td><td></td><td></td><td>157</td></tr><tr><td>143</td><td>MPP4</td><td></td><td></td><td>155</td></tr><tr><td>144</td><td>MPP4/ ALS2CR5</td><td></td><td></td><td>156</td></tr><tr><td>145</td><td>MPP5</td><td></td><td></td><td>162</td></tr><tr><td>146</td><td>MPP6</td><td>VAM1, PALS2</td><td>| VFVKCHFDYNPYNDNLIPCKEAGLKFSKGEILQIVNREDPNWWQASHVKEGGSAGLIPSQFLEEKR</td><td>159</td></tr><tr><td>147</td><td>MPP7</td><td></td><td></td><td>158</td></tr><tr><td>148</td><td>Myosin IE</td><td>MYO1E, MYO1C</td><td>PQCKALYAYDAQDTDELSFNANDI IDI IKEDPSGWWIGRLRGKPGLFPNNYVIKI</td><td>103</td></tr><tr><td>149</td><td>Myosin IF</td><td>MYO1F</td><td>PRCRALYQYVGQDVDELSFNVNEVIEILMEDPSGWWKGRLHGQEGLFPGNYVEKI</td><td>104</td></tr><tr><td>150</td><td>Myosin VIIA</td><td>MYO7A, DFNB2, USH1B, DFNA11</td><td>eVVALQDNPNPAGEESGFLSFAKGDLTILDHDTGEOVINSGNANGINERTKORGDFPTDCVIVMP</td><td>69</td></tr><tr><td>151</td><td>Myosin VIIB</td><td></td><td></td><td>258</td></tr><tr><td>152</td><td>Myosin XVA</td><td>MYO15, DFNB3</td><td>|DYVVAVRNFLPEDPALLAFHKGDI IHLQPLEPPRVGYSAGCVVRRKVVYLEELRRRGPDFGWRFGTIHGR|</td><td>282</td></tr><tr><td>153</td><td>Myosin XVB</td><td>MYO15BP</td><td>|GYVIALRSYITDNCSLLSFHRGDLIKLLPVATLEPGWOFGSAGGRSGLFPADIVQPAA</td><td>217</td></tr><tr><td>154</td><td>Nek-o</td><td>Nek1</td><td>{vwwvAKeDYVAQQEOSLDIKKNERT.WLLDDSKSWNRVRNSNNCTGFVPSNYVERKN</td><td>223</td></tr><tr><td>155</td><td>Neck-o</td><td>Nck1</td><td></td><td>239</td></tr><tr><td>156</td><td>Neck-o</td><td></td><td>MPAYVKFNYMAEREDELSLIKGTKVIVMEKCSDGWWRGSYNGOVGWEPSNYVTEEG</td><td>231</td></tr><tr><td></td><td></td><td>Nck1</td><td>/HVVOALYPF SSSNDEELNFEKGDVMDVIEKPENDPEWWKCRK INGMVGLVPKNYVTVMQ</td><td></td></tr><tr><td>157</td><td>Nek-B</td><td></td><td></td><td>269</td></tr><tr><td>158</td><td>Nek-B</td><td></td><td></td><td>168</td></tr><tr><td>159</td><td>Nek-B</td><td></td><td></td><td>75</td></tr><tr><td>160</td><td>Nebulette</td><td>NEBL, LNEBL</td><td>RTYRAMYDY SAQDEDEVSFRDGDY I VNVOP IDDGWMYGTVORTGRTGMLPANY IEFVN</td><td>232</td></tr><tr><td>161</td><td>Nebulin</td><td>NEB, NEM2</td><td>K FRAMYDYMAADADEVSFKDGDA I INVOAIDEGWMYGTVORTGRTGMLPANYVEAL</td><td>81</td></tr><tr><td>162</td><td>Nephrocystin</td><td>NPHP1, NPH1; SLSN1</td><td>BEY TAVGDF TAQOVGDLTFEKGEILLVIEKKPDGWNITAKDAKGNEGLVPRTYLEPYS</td><td>61</td></tr><tr><td>163</td><td>NESH</td><td>Abi3, SSH3BP3</td><td>EKVVTLYPYTSQKDNELSF SEGTVICVIRRYSDGWCEGVSSEGTGFFPGNYVEPSC</td><td>100</td></tr><tr><td>164</td><td>Neuroblastoma</td><td>NBL1, NB, DAN, NO3, DAND1</td><td>PQVETTEAFFAKQADEVTLQQADVVLVLQQEDGNLYGERLRDGETGHEPEDPARFIT</td><td>185</td></tr><tr><td>165</td><td>Neuronal GEF</td><td>NGEF, EPHEXIN</td><td>PQVOCVHPYVAQQPDELTLELADILNILDKTDDGWIFGERLHDOERGWFPSSMTEEIL</td><td>252</td></tr><tr><td>166</td><td>Non-erythroid alpha spectrin</td><td>SPTAN1, (o)ll-spectrin</td><td>ELVLALYDYQEKSPREVIMKKGDILTLLNSTNKDWAKVEVNDROGFVPAAYVEKLD</td><td>111</td></tr><tr><td>167</td><td>Non-erythroid alpha spectrin</td><td>SPTAN1, ()ll-spectrin</td><td>ELVLALYDYOEKSPREVINKKGDILTLLNSTNKARHREWLCDNNKVEVNDROGE VPAAYVKKLD</td><td>290</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>168</td><td>Nostrin</td><td></td><td></td><td>127</td></tr><tr><td>169</td><td>Obscurin</td><td>OBSCN, UNC89</td><td>|DIYVVTADYLPLGAEQDAITLREGOYVEVLDAAHPLRWLVRTKPTKSSPSROGWVSPAYLDRRL</td><td>64</td></tr><tr><td>170</td><td>OSTF1</td><td>OSF, SH3P2</td><td>KVFRALYTFEPRTPDELYFEEGDIIYITDMSDTNWWKGTSKGRTGLIPSNYVAEQA</td><td>206</td></tr><tr><td>171</td><td></td><td>OTOR, FDP, MIAL1</td><td>SLASAQEDYNAPDCRF INVKKGQQIYVYSKLVKENGAGEFWAGSVYGDGQDEMGVVGYFPRNLVKEOR</td><td>172</td></tr><tr><td></td><td>Otoraplin</td><td></td><td></td><td></td></tr><tr><td>172</td><td>p130Cas</td><td>BCAR1, CRKAS</td><td>| VLAKALYDNVAESPDELSFRKGDIMTVLEQDTOGLDGWWLCSLHGROGIVPGNRLKILV</td><td>233</td></tr><tr><td>173</td><td>p40-phox</td><td>NCF4</td><td>PRAEALFDF TGNSKLELNFKAGDVIFLLSRINKDWLEGTVRGATGIFPLSFVKILK</td><td>139</td></tr><tr><td>174</td><td>p41NOX</td><td>NOxO1</td><td>OSLRCLOPF CTODTRDRPF QAQAQESLDVLLRHPSGWWLVENEDROTAWFPAPYLEEAA</td><td>92</td></tr><tr><td>175</td><td>p41NOX</td><td>NOxO1</td><td>PQFCASRAYESSRADELSVPAGARVRVLETSDRGWWLCRYGDRAGLLPAVLLRPEG</td><td>266</td></tr><tr><td>176</td><td>[p47-phox</td><td>NCF1, NOXO2</td><td>]OTYRAIADYEKTSGSEMALSTGDVVEVVEKSESGWWFCOMKAKRGWIPASFLEPLD</td><td>91</td></tr><tr><td>177</td><td>[p47-phox</td><td>NCF1, NOXO2</td><td>EPYVAIKAYTAVEGDEVSLLEGEAVEVIHKLLDGWWVIRKDDVTGYFPSMYLOKSG</td><td>95</td></tr><tr><td>178</td><td>p51NOX</td><td>NOXA1, Antigen NY-CO-31, SDCCAG31</td><td>YOVVAQHSYSAQGPEDLGFROGDTVDVLCEEPDVPLAVDQAWLEGHCDGRIGIFPKCFVVPAG</td><td>267</td></tr><tr><td>179</td><td>p51NOX</td><td>NOXA1, Antigen NY-CO-31, SDCCAG31</td><td>YQVVAQHSYSAQGPEDLGFROGDTVDVLCEVDQAWLEGHCDGRIGIFPKCFVVPAG</td><td>215</td></tr><tr><td>180</td><td>|p67-phox</td><td>NCF2, NOXA2</td><td>EAHRVLFGFVPETKEELOVMPGNIVFVLKKGNDNWATVMENGQKGLVPCNYLEPVE</td><td>196</td></tr><tr><td>181</td><td>|p67-phox</td><td>NCF2, NOXA2</td><td>SQVEALFSYEATOPEDLEFQEGDI ILVLSKVNEEWLEGECKGKVGIFPKVFVEDCA.</td><td>32</td></tr><tr><td>182</td><td>P85A</td><td></td><td></td><td>235</td></tr><tr><td>183</td><td>P85B</td><td>p85-B</td><td>FQYRALYPFRRERPEDLELLPGDVLVVSRAALQALGVAEGGERCPQSVGWMPGLNERTRORGDFPGTYVE</td><td>24</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-4-4.jpg",
+      "detection_class_prob": 0.8844953775405884,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157861",
+      "coordinates": {
+        "points": [
+          [
+            225.0,
+            1573.0
+          ],
+          [
+            225.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076810>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157938",
+      "coordinates": {
+        "points": [
+          [
+            334.0,
+            1573.0
+          ],
+          [
+            334.0,
+            1589.0
+          ],
+          [
+            426.0,
+            1589.0
+          ],
+          [
+            426.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075a30>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.157994",
+      "coordinates": {
+        "points": [
+          [
+            667.0,
+            1559.0
+          ],
+          [
+            667.0,
+            1599.0
+          ],
+          [
+            844.0,
+            1599.0
+          ],
+          [
+            844.0,
+            1559.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700767b0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158045",
+      "coordinates": {
+        "points": [
+          [
+            1347.0,
+            1569.0
+          ],
+          [
+            1347.0,
+            1599.0
+          ],
+          [
+            2147.0,
+            1599.0
+          ],
+          [
+            2147.0,
+            1569.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075d90>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158094",
+      "coordinates": {
+        "points": [
+          [
+            148.9331512451172,
+            -201.38037109375
+          ],
+          [
+            148.9331512451172,
+            1540.9906005859375
+          ],
+          [
+            2192.859619140625,
+            1540.9906005859375
+          ],
+          [
+            2192.859619140625,
+            -201.38037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075eb0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><tbody><tr><td></td><td>a-PIX</td><td></td><td>Cool2, ARHGEF6</td><td>LIVKARFNFKOTNEDELSVCKGDIIYVTRVEEGGHWEGTLNGRTGWFPSNYVREIK</td><td></td></tr><tr><td></td><td>B-PIX</td><td></td><td></td><td>LVVRAKFNF QOTNEDELSFSKGDVIHVTRVEEGGWWEGTLNGRTGWF PSNYVREVK</td><td>241</td></tr><tr><td>190</td><td>PLC-y1</td><td></td><td></td><td>CAVKALEDYKAQREDELTFIKSATTONVEKQEGGNNRGDYGGKKOLNEPSNYVEEMY</td><td>170</td></tr><tr><td>191</td><td>PLC-2</td><td></td><td></td><td>RTVKALYDYKAKRSDELSFCRGALTHNVSKEPGGHNKGDYGTRIQOYFPSNYVEDIS</td><td>169</td></tr><tr><td>196</td><td>POSH</td><td></td><td></td><td>POCKALYDF EVKDKEADKDCLPF AKDDVLTVIRRVDENWAEGMLADKIGIFPISYVEFNS</td><td>115</td></tr><tr><td>200</td><td>POSH2</td><td></td><td></td><td>OGKAL YDF EMKDKDQDKDCLTF TKDETL/TVLRRVDENWABGMLGDKIGIFPLLYVELN</td><td>296</td></tr><tr><td>201</td><td>POSH2</td><td></td><td></td><td>NVYLALYAYKPOQKSDELELHKGEMYRVLEKCQDGWFKGASLRTGVSGVF PGNYVTPVS</td><td>256</td></tr><tr><td>202</td><td>POSH2</td><td></td><td></td><td>ERYRVVVSYPPQSEAEIELKEGDIVF VHKKREDGWYKGTLORNGRTGLFPGSFVESF</td><td>257</td></tr><tr><td>204</td><td>PRAM-1</td><td></td><td>ee</td><td>REFRKKFKF EGE I VVHTKMMIDPNAKTRRGGGKHLGIRRGE ILEVIEF TSNEEMLCRDPKGKYGYVPRTA</td><td>254</td></tr><tr><td>205</td><td>PRAX-1</td><td></td><td></td><td>oveLARYSYNPFEGPNENPEABLPLTAGEYIYIY GNMDEDGFFEGELMDGRRGLVPSNFVERVS</td><td>3</td></tr><tr><td>206</td><td>PRAX-1</td><td></td><td></td><td>RIF VALFDYDPVSMSPNPDAGEEELPFREGQILKVFGDKDADGFYQGEGGGRTGY IPCNMVAEVA</td><td>204</td></tr><tr><td>207</td><td>PRAX-1</td><td></td><td></td><td>/HSMVAAFDYNPQESSPNMDVEAELPFRAGDVITVFGGMDDDGF Y¥GELNGORGLVPSNFLEGPG</td><td>200</td></tr><tr><td>208</td><td>Predicted RhoGEFprotein</td><td></td><td></td><td>BLY QAKRKCNTORYDINLLEGDLVAVIEQKDPLGSTSRNLVDTGNVKGYVYSSFLKPYN</td><td>271</td></tr><tr><td>209</td><td>Predicted RhoGEF protein</td><td></td><td></td><td>0TF YAVHAFOARSDHELSLQEYORVHTLRF CDLSGNKEWNLAEAQGOKGYVPANYLGKMT</td><td>273</td></tr><tr><td>211</td><td>RBP2</td><td></td><td></td><td>HLCVARYS YNPFDGPNENPEAELPLTAGKYLYVYGDMDEDGF YEGELLDGORGLVPSNFVDFVQ</td><td>198</td></tr><tr><td>214</td><td>RelA associated inhibitor</td><td></td><td></td><td>|GAVYALWDYSAEF GDELSFREGESVTVLRRDGPEETDWWWAALHGQEGYVPRNYFGLEP</td><td>19</td></tr><tr><td>215</td><td>RhoGAP</td><td></td><td></td><td>|GAAHVIKRYTARAPDELTLEVGD1IVSVIDMPPKVLSTWWRGKHGF QVGLFPGHCVELIN</td><td>283</td></tr><tr><td>216</td><td>RhoGAP4</td><td></td><td></td><td>| VEAVACFAYTGRTAQELSFRRGDVLRLHERASSDWWRGEHNGMRGLIPHKYITLPA</td><td>129</td></tr><tr><td>218</td><td>RUSC2</td><td>ee</td><td></td><td>|CEVQALCHHLATGPGQLSFHKGD ILRVLGRAGGDWLRCSRGPDSGLVPLAYVTLTP</td><td>77</td></tr><tr><td>222</td><td>SGEF</td><td></td><td></td><td>TOVEIVRSFTAKQPDELSLOVADWVLI YORVSDGWYEGERLRDGERGWFPMECAKEIT</td><td>186</td></tr><tr><td>224</td><td>ISH3RF2</td><td></td><td></td><td>PRAKALCNYRGOQNPGDLRFNRGDI ILLRROLDENWYQGEISGISGNFPASSVEVIK</td><td>259</td></tr><tr><td>226</td><td>ISH3RF2</td><td></td><td></td><td>NMFVALHSY SAHGPDELDLOKGEGVRVLGKCODGWLRGVSLVTGRVGIFPNNYVIPIF</td><td>261</td></tr><tr><td>227</td><td>SH3TC1</td><td>ee</td><td></td><td>|GLASALADF QGSGPEEMTFRGGDLIEILGAQVPSLPWCVGRHAASGRVGFVRSSLISMQG</td><td>138</td></tr><tr><td>228</td><td>SH3TC2</td><td></td><td></td><td>|CRCKALTGYEPGEKDELNF YOGESIEI IGFVIPGLOWF IGKSTSSGQVGFVPTRNIDPDS</td><td>288</td></tr><tr><td>230</td><td>Shank1</td><td></td><td></td><td>RSFMAVKSYQAQAEGEISLSKGEK IKVLS IGEGGFWEGQVKGRVGWFPSDCLEEVA</td><td>20</td></tr><tr><td>231</td><td>Shank3</td><td></td><td>PSAP2, PROSAP2, SPANK-2</td><td>RKF TAVKAHSPQGEGETPLURGBAVKVLSTGEGGFWEGTVKGRTGNEPADCVEEVO</td><td>274</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-5-5.jpg",
+      "detection_class_prob": 0.8856186270713806,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158146",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1538.0
+          ],
+          [
+            856.0,
+            1554.0
+          ],
+          [
+            986.0,
+            1554.0
+          ],
+          [
+            986.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075670>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158196",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1538.0
+          ],
+          [
+            1351.0,
+            1556.0
+          ],
+          [
+            2153.0,
+            1556.0
+          ],
+          [
+            2153.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075610>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158244",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1573.0
+          ],
+          [
+            856.0,
+            1589.0
+          ],
+          [
+            986.0,
+            1589.0
+          ],
+          [
+            986.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796f90>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158293",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1579.0
+          ],
+          [
+            1351.0,
+            1633.0
+          ],
+          [
+            2153.0,
+            1633.0
+          ],
+          [
+            2153.0,
+            1579.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796f30>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158433",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1538.0
+          ],
+          [
+            223.0,
+            1555.0
+          ],
+          [
+            258.0,
+            1555.0
+          ],
+          [
+            258.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797a10>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158510",
+      "coordinates": {
+        "points": [
+          [
+            333.0,
+            1538.0
+          ],
+          [
+            333.0,
+            1559.0
+          ],
+          [
+            650.0,
+            1559.0
+          ],
+          [
+            650.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797e90>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158567",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1573.0
+          ],
+          [
+            223.0,
+            1590.0
+          ],
+          [
+            258.0,
+            1590.0
+          ],
+          [
+            258.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e027969f0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158620",
+      "coordinates": {
+        "points": [
+          [
+            333.0,
+            1573.0
+          ],
+          [
+            333.0,
+            1594.0
+          ],
+          [
+            650.0,
+            1594.0
+          ],
+          [
+            650.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796330>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158671",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1607.0
+          ],
+          [
+            223.0,
+            1624.0
+          ],
+          [
+            258.0,
+            1624.0
+          ],
+          [
+            258.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797530>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158721",
+      "coordinates": {
+        "points": [
+          [
+            333.0,
+            1607.0
+          ],
+          [
+            333.0,
+            1628.0
+          ],
+          [
+            650.0,
+            1628.0
+          ],
+          [
+            650.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797cb0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158837",
+      "coordinates": {
+        "points": [
+          [
+            2118.0,
+            1573.0
+          ],
+          [
+            2118.0,
+            1590.0
+          ],
+          [
+            2153.0,
+            1590.0
+          ],
+          [
+            2153.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796b70>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158913",
+      "coordinates": {
+        "points": [
+          [
+            856.0,
+            1607.0
+          ],
+          [
+            856.0,
+            1623.0
+          ],
+          [
+            986.0,
+            1623.0
+          ],
+          [
+            986.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796b10>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.158969",
+      "coordinates": {
+        "points": [
+          [
+            148.08856201171875,
+            -171.284423828125
+          ],
+          [
+            148.08856201171875,
+            1544.6085205078125
+          ],
+          [
+            2202.864990234375,
+            1544.6085205078125
+          ],
+          [
+            2202.864990234375,
+            -171.284423828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796d50>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><tbody><tr><td></td><td>Similar to EEN</td><td></td><td></td><td></td></tr><tr><td></td><td>Similar to mouse MIA3</td><td>AAAP6077,</td><td>YRGEALEDF TGPDCRF VNFKKGDPVYVYYKLARGWPEVWAGSVGRTFGYFPKDLIOQVVH</td><td>299</td></tr><tr><td>237</td><td>Similar to rat P-Rex1</td><td>FLJ41603</td><td>KLYQVTSNISGTGTLDLTLPRGQIVAILONKDTKGNSGRWLVDTGGHRGYVPAGKLOLYH</td><td>294</td></tr><tr><td>238</td><td>Similar to rat P-Rex1</td><td></td><td></td><td>295</td></tr><tr><td>239</td><td>Similar to Shank2</td><td>LOC399921</td><td>RLF VAVKPYQPOVDGE IPLHRGDRVKVLSIGEGGFWEGSARGHIGWEFPAECVEEVQ</td><td>285</td></tr><tr><td>240</td><td>Sin</td><td>Efs, HEFS</td><td>| OLARALYDNTAESPQELSFRRGDVLRVLOREGAGGLDGWCLCSLHGQQGIVPANRVKLLP</td><td>26</td></tr><tr><td>241</td><td>SKAP55</td><td>SCAP1</td><td>SYYQGLWDCHGDQPDELSFQRGDLIRILSKEYNMYGWWVGELNSLVGIVPKEYLTTAF</td><td>72</td></tr><tr><td>242</td><td>SKAP55R</td><td>SCAP2, PRAP, RA70, SAPS</td><td>nF YOGLNDCTGA SDELSFKRGDVIYILSKEYNRYGHNVGENKGAIGLVPKAYIMEMY</td><td>71</td></tr><tr><td>243</td><td>SLAP</td><td></td><td></td><td></td></tr><tr><td>244</td><td>SLAP2</td><td></td><td></td><td>13</td></tr><tr><td>245</td><td>SLY</td><td>CXorf9, 753P9</td><td>|CRARVHTDFTPSPYDHDSLKLOKGDVIQI IEKPPVGTWLGLLNGKVGSFKF IYVDVLP</td><td>137</td></tr><tr><td>246</td><td>Sorting nexin 18</td><td>SNAG1, SNX18</td><td>| LRARALYDFRSENPGE ISLREHEVLSLCSEQDIEGWLEGVNSRGDRGLFPASYVOVIR</td><td>121</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>247</td><td>Sorting nexin 26</td><td>SNX26, TCGAP</td><td>JAAAHVIKRYTAQAPDELSFEVGDIVSVIDMPPTEDRSWWRGKRGFOQVGFFPSECVELFT</td><td>284</td></tr><tr><td>248</td><td>nexin 30</td><td>SNX30, Predicted MGC32065</td><td>LKGRALYDFHSENKEE SETSLDGWLOGONSRGETGLFPASYVEIVR</td><td>253</td></tr><tr><td></td><td>Sorting</td><td>protein</td><td>ISI QQDEDLVIF</td><td></td></tr><tr><td>249</td><td>Sorting nexin 9</td><td>SNX9, SDP1, WISP,MST155, SH3PX1, MSTP155]</td><td>rxarvierDraaEPGNNELTVNEGEIITITNPDVGGGHLEGRNIKGERGLVPTDYVEILP</td><td>122</td></tr><tr><td>250</td><td>SPATA13.</td><td>FLJ31208, Asef-like</td><td>| VCAEALWDHVTMDDQELGFKAGDVIQVLEASNKDWWWGRSEDKEAWFPASFVRLRV</td><td>143</td></tr><tr><td></td><td></td><td></td><td>RAL</td><td></td></tr><tr><td>251</td><td>SPINSO</td><td>NCKIPSD</td><td>VAPRGAEPNALAPAAGETFLVLERSSAHWWLAARARSGETGYVPPAYLRRLQ</td><td>65</td></tr><tr><td>252</td><td>Src</td><td>DIP1, WISH, AF3P21, WASLBP</td><td>PTF VALYDYESRTRTDLSFKKGERLOIVNNTEGDNWLAHSLSTGOTGYIPSNYVAPSD</td><td>31</td></tr><tr><td>253</td><td>N-Src</td><td></td><td></td><td>219</td></tr><tr><td>254</td><td>SRGAP1</td><td>AARHGAP13</td><td>IEAIAKFDYVGRSARELSFKKGASLLLYHRASEDWWEGRHNGIDGLVPHOYIVVOQD</td><td>236</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>255</td><td>SRGAP2</td><td>FNBP2</td><td>1EATAKFDYVGRTARELSFKGASLLLYQRASDDAWEGRHNGIDGLIPHOYIVVOD</td><td>128</td></tr><tr><td>256</td><td>SRGAP3</td><td>[ARHGAP14, WRP, MEGAP</td><td>TEATAKFDYMGRSPRELSFEKGASLLLYHRASEDNWEGRENGVDGLIPHOVIVVOD</td><td>237</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Srm</td><td></td><td></td><td></td></tr><tr><td>257</td><td></td><td>SRMS</td><td>OLFLALYDFTARCGGELSVRRGDRLCALEEGGGY IF ARRLSGOPSAGLVPITHVAKAS</td><td>12</td></tr><tr><td>258</td><td>STAC1</td><td></td><td></td><td>210</td></tr><tr><td>259</td><td>STAC1</td><td></td><td></td><td>300</td></tr><tr><td>260</td><td>STAC2</td><td>24b2</td><td>IMLVDDSNEDWWKGK</td><td>275</td></tr><tr><td></td><td></td><td></td><td>YSYVALYKFLPQENNDLALQPGDR IGDRVGFFPANFVORVR</td><td></td></tr><tr><td>261</td><td>STAC2</td><td>24b2</td><td>INVWRCCQPFSGNKEQGYMSLKENQICVGVGRSKDADGF IRVSSGKKRGLVPVDALTEIT</td><td>301</td></tr><tr><td>262</td><td>STAC3</td><td></td><td></td><td>209</td></tr><tr><td>263</td><td>STAC3</td><td>MGC2793</td><td>RVHRVTRSFVGNRE IGQTTLKKDQIVVOKGDEAGGYVKVYTGRKVGLFPTDFLEET</td><td>193</td></tr><tr><td>264</td><td>STAM1</td><td></td><td></td><td>181</td></tr><tr><td>265</td><td>STAM2</td><td></td><td></td><td>182</td></tr><tr><td>266</td><td>STS1</td><td></td><td></td><td>191</td></tr><tr><td>267</td><td>Tec</td><td></td><td></td><td>36</td></tr><tr><td>268</td><td>TIM</td><td>JARHGEF5</td><td>PQVOCLRAYKPRENDELALEKADVVMVTQQSSDGWLEGVRLSDGERGWFPVQQVEFIS</td><td>187</td></tr><tr><td>269</td><td>Tnk1</td><td></td><td></td><td>183</td></tr><tr><td>270</td><td>Tnk1 long splice variant</td><td></td><td></td><td>276</td></tr><tr><td>271</td><td>TOCA1</td><td>FNBP1L</td><td>|GHCKAIYPFDGHNEGTLAMKEGEVLY I TEEDKGDGWTRARRONGEEGYVPTSYIDVTL</td><td>56</td></tr><tr><td>272</td><td>Trio</td><td></td><td></td><td>62</td></tr><tr><td>273</td><td>Trio</td><td></td><td></td><td>63</td></tr><tr><td>274</td><td>TRIP-10</td><td>CIP4</td><td>CHCVAIYHF EGSSEGTISMAEGEDLSLMEEDKGDGWTRVRRKEGGEGYVPTSYLRVTL</td><td>57</td></tr><tr><td>275</td><td>Tuba</td><td>DNMBP.</td><td>SVVRALFDFCPSVSEELPLFVGDI IEVLAVVDEFWLLGKKEDVTGOFPSSFVEIVT</td><td>249</td></tr><tr><td>276</td><td>Tuba</td><td>DNMBP.</td><td>RLF VCICEFTSQELDNLPLHRGDLVILDGIPTAGWLOGRSCWGARGFFPSSCVRELC</td><td>250</td></tr><tr><td>277</td><td>Tuba</td><td>DNMBP</td><td>GOARALMGLSAQLDEELDFREGDVITIIGVPEPGWFEGELEGRRGIFPEGFVELLG</td><td>251</td></tr><tr><td>278</td><td>Tuba</td><td>|__4/6___[DNMBP</td><td>ic \\VALYRF QALEPNELDFEVGDK IRILATLEDGWLEGSLKGRTGIFPYRFVKLCP</td><td>247</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-6-6.jpg",
+      "detection_class_prob": 0.886572003364563,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159022",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1538.0
+          ],
+          [
+            223.0,
+            1554.0
+          ],
+          [
+            258.0,
+            1554.0
+          ],
+          [
+            258.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797230>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159073",
+      "coordinates": {
+        "points": [
+          [
+            332.0,
+            1538.0
+          ],
+          [
+            332.0,
+            1555.0
+          ],
+          [
+            382.0,
+            1555.0
+          ],
+          [
+            382.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e027978f0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159189",
+      "coordinates": {
+        "points": [
+          [
+            738.0,
+            1538.0
+          ],
+          [
+            738.0,
+            1555.0
+          ],
+          [
+            779.0,
+            1555.0
+          ],
+          [
+            779.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6390>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159265",
+      "coordinates": {
+        "points": [
+          [
+            1351.0,
+            1545.0
+          ],
+          [
+            1351.0,
+            1634.0
+          ],
+          [
+            1949.0,
+            1634.0
+          ],
+          [
+            1949.0,
+            1545.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7350>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159322",
+      "coordinates": {
+        "points": [
+          [
+            2119.0,
+            1538.0
+          ],
+          [
+            2119.0,
+            1554.0
+          ],
+          [
+            2153.0,
+            1554.0
+          ],
+          [
+            2153.0,
+            1538.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7c50>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159374",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1573.0
+          ],
+          [
+            223.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1589.0
+          ],
+          [
+            258.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6690>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159485",
+      "coordinates": {
+        "points": [
+          [
+            332.0,
+            1573.0
+          ],
+          [
+            332.0,
+            1590.0
+          ],
+          [
+            382.0,
+            1590.0
+          ],
+          [
+            382.0,
+            1573.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f71d0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159563",
+      "coordinates": {
+        "points": [
+          [
+            2124.0,
+            1574.0
+          ],
+          [
+            2124.0,
+            1589.0
+          ],
+          [
+            2147.0,
+            1589.0
+          ],
+          [
+            2147.0,
+            1574.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7d70>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159619",
+      "coordinates": {
+        "points": [
+          [
+            223.0,
+            1607.0
+          ],
+          [
+            223.0,
+            1623.0
+          ],
+          [
+            254.0,
+            1623.0
+          ],
+          [
+            254.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f60f0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159671",
+      "coordinates": {
+        "points": [
+          [
+            333.0,
+            1607.0
+          ],
+          [
+            333.0,
+            1623.0
+          ],
+          [
+            367.0,
+            1623.0
+          ],
+          [
+            367.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7650>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "Text",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159720",
+      "coordinates": {
+        "points": [
+          [
+            2124.0,
+            1607.0
+          ],
+          [
+            2124.0,
+            1623.0
+          ],
+          [
+            2147.0,
+            1623.0
+          ],
+          [
+            2147.0,
+            1607.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6030>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/text_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "Table",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159768",
+      "coordinates": {
+        "points": [
+          [
+            142.3256072998047,
+            7.799122333526611
+          ],
+          [
+            142.3256072998047,
+            529.2266235351562
+          ],
+          [
+            2182.100830078125,
+            529.2266235351562
+          ],
+          [
+            2182.100830078125,
+            7.799122333526611
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7770>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><thead><tr><th>a</th><th>PKMEVFQEYYGLPPPPGAIGPFLRLNPGDIVELTKAEAEQNWWEGRNTSTNEIGWFPCNRVKPYV</th><th>245</th></tr></thead><tbody><tr><td>7</td><td>|GTAKARYDFCARDRSELSLKEGDI IK ILNKKGQQGWWRGEIYGRVGWF PANYVEEDY</td><td>238</td></tr><tr><td>a</td><td>PKMVAVQNYHGNPAPPGKPVLTFOTGDVLELLRGDPESPWWEGRLVOTRKSGYFPSSSVKPCP</td><td>221</td></tr><tr><td>[2a</td><td>|GTAVARYNFAARDMRELSLREGDVVRIYSRIGGDQGWWKGETNGR IGWFPSTYVEEEG</td><td>140</td></tr><tr><td>a</td><td>PKMOQVIRNYSGTPPPALHEGPPLOLQAGDTVELLKGDAHSLFWQGRNLASGEVGFFPSDAVKPCP</td><td>220</td></tr><tr><td>7</td><td>|GIALARYDF CARDMRELSLLKGDVVK IY TKMSANGWWRGEVNGRVGWE PSTYVEEDE</td><td>141</td></tr><tr><td></td><td>KAARLKFDFQAQSPKELTLOKGDIVY IHKEVDKNWLEGEHHGRLGIFPANYVEVLP</td><td>133</td></tr><tr><td></td><td>|CEAVAQYTFKGDLEVELSFRKGEHICLIRKVNENWYEGRITGTGROGIFPASYVOVSR</td><td>132</td></tr><tr><td></td><td>[TPYRAMYOYRPQNEDELELREGDRVDVMQQCDDGWF VGVSRRTOKFGTFPGNYVAPV</td><td>27</td></tr><tr><td>a</td><td>ITIFVALYDYEARTTEDLSFKKGERFQI INNTEGDWNEARSIATGKNGY IPSNYVAPAD</td><td>29</td></tr><tr><td></td><td>VRYKVIEDYSGACCPLNKGIKTFFTSPCTEEPRIQLOKGEF ILATRGLRYWLYGDKILDDSFIEGVSRIR|</td><td>222</td></tr><tr><td></td><td>FYIRTHFEYEKESPYGLSFNKGEVFRAVDTLYNGKLGSWLAIRIGKNHKEVERGI IPNKNRAEQL</td><td>44</td></tr><tr><td></td><td>FF [RSHFECEKETPQSLAFTRGEVFRVVDTLYDGKLGNWLAVRIGNELEKGLIPNKSRAEQM</td><td>148</td></tr><tr><td></td><td>FY IRTHFELEPSPPSGLGFTRGDVFHVLDTLHPGPGQSHARGGHWLAVRMGRDLREQERGI IPNQSRAEQ|</td><td></td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/images/table-7-7.jpg",
+      "detection_class_prob": 0.912339985370636,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/table_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "NarrativeText",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159844",
+      "coordinates": {
+        "points": [
+          [
+            159.94248962402344,
+            630.8428344726562
+          ],
+          [
+            159.94248962402344,
+            694.4957275390625
+          ],
+          [
+            1932.268798828125,
+            694.4957275390625
+          ],
+          [
+            1932.268798828125,
+            630.8428344726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6d50>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8969117999076843,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/narrativetext_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "NarrativeText",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159925",
+      "coordinates": {
+        "points": [
+          [
+            153.447509765625,
+            734.8213500976562
+          ],
+          [
+            153.447509765625,
+            762.4365844726562
+          ],
+          [
+            1804.100830078125,
+            762.4365844726562
+          ],
+          [
+            1804.100830078125,
+            734.8213500976562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754173385eb0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.808363139629364,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/narrativetext_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "NarrativeText",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.159982",
+      "coordinates": {
+        "points": [
+          [
+            158.4296875,
+            804.7288818359375
+          ],
+          [
+            158.4296875,
+            865.9501953125
+          ],
+          [
+            1552.7640380859375,
+            865.9501953125
+          ],
+          [
+            1552.7640380859375,
+            804.7288818359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754173385f10>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8344115018844604,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/narrativetext_55.txt"
+    },
+    {
+      "element_index": 56,
+      "element_type": "NarrativeText",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.160049",
+      "coordinates": {
+        "points": [
+          [
+            162.3857879638672,
+            909.8923950195312
+          ],
+          [
+            162.3857879638672,
+            935.6327514648438
+          ],
+          [
+            1230.427734375,
+            935.6327514648438
+          ],
+          [
+            1230.427734375,
+            909.8923950195312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7950>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.698124349117279,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/narrativetext_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "human_SH3_affinity_ligands_list_helsinki_paper_SH3_list.pdf",
+      "extraction_date": "2026-11-03T15:13:20.160148",
+      "coordinates": {
+        "points": [
+          [
+            146.01834106445312,
+            977.3292236328125
+          ],
+          [
+            146.01834106445312,
+            1041.3961181640625
+          ],
+          [
+            1746.049072265625,
+            1041.3961181640625
+          ],
+          [
+            1746.049072265625,
+            977.3292236328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dccdd0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8850163817405701,
+      "content_path": "extracted_pdfs/human_SH3_affinity_ligands_list_helsinki_paper_SH3_list/text/narrativetext_57.txt"
+    }
+  ]
+}

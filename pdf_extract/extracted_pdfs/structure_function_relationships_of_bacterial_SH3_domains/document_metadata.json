@@ -1,0 +1,6226 @@
+{
+  "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+  "extraction_date": "2026-11-03T15:03:07.188669",
+  "statistics": {
+    "text_blocks": 170,
+    "titles": 13,
+    "images": 0,
+    "tables": 0
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.175369",
+      "coordinates": {
+        "points": [
+          [
+            148.2414093017578,
+            164.5813751220703
+          ],
+          [
+            148.2414093017578,
+            261.7012023925781
+          ],
+          [
+            766.6875,
+            261.7012023925781
+          ],
+          [
+            766.6875,
+            164.5813751220703
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7d70>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.4960983693599701,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.175773",
+      "coordinates": {
+        "points": [
+          [
+            148.0892333984375,
+            327.20977783203125
+          ],
+          [
+            148.0892333984375,
+            353.90606689453125
+          ],
+          [
+            636.0581665039062,
+            353.90606689453125
+          ],
+          [
+            636.0581665039062,
+            327.20977783203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f5cd0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5093581676483154,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.175866",
+      "coordinates": {
+        "points": [
+          [
+            148.5355987548828,
+            534.1580200195312
+          ],
+          [
+            148.5355987548828,
+            1055.0963134765625
+          ],
+          [
+            1072.082275390625,
+            1055.0963134765625
+          ],
+          [
+            1072.082275390625,
+            534.1580200195312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7350>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9439396858215332,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.175931",
+      "coordinates": {
+        "points": [
+          [
+            144.47190856933594,
+            1091.607666015625
+          ],
+          [
+            144.47190856933594,
+            1188.1029052734375
+          ],
+          [
+            1075.181640625,
+            1188.1029052734375
+          ],
+          [
+            1075.181640625,
+            1091.607666015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5da30>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9281187057495117,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.175985",
+      "coordinates": {
+        "points": [
+          [
+            151.28091430664062,
+            1281.0054931640625
+          ],
+          [
+            151.28091430664062,
+            1310.80419921875
+          ],
+          [
+            380.1767883300781,
+            1310.80419921875
+          ],
+          [
+            380.1767883300781,
+            1281.0054931640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5ec90>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.828384518623352,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176158",
+      "coordinates": {
+        "points": [
+          [
+            140.16970825195312,
+            1359.342529296875
+          ],
+          [
+            140.16970825195312,
+            1454.8740234375
+          ],
+          [
+            1077.952392578125,
+            1454.8740234375
+          ],
+          [
+            1077.952392578125,
+            1359.342529296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5d7f0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9317027926445007,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "Footer",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176245",
+      "coordinates": {
+        "points": [
+          [
+            147.931396484375,
+            1510.795654296875
+          ],
+          [
+            147.931396484375,
+            1532.1190185546875
+          ],
+          [
+            442.2867126464844,
+            1532.1190185546875
+          ],
+          [
+            442.2867126464844,
+            1510.795654296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5e0f0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6671319007873535,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/footer_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176306",
+      "coordinates": {
+        "points": [
+          [
+            144.12710571289062,
+            1538.7142333984375
+          ],
+          [
+            144.12710571289062,
+            1588.8021240234375
+          ],
+          [
+            1037.71875,
+            1588.8021240234375
+          ],
+          [
+            1037.71875,
+            1538.7142333984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5e990>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5433052182197571,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176360",
+      "coordinates": {
+        "points": [
+          [
+            150.0,
+            1595.0
+          ],
+          [
+            150.0,
+            1616.0
+          ],
+          [
+            510.0,
+            1616.0
+          ],
+          [
+            510.0,
+            1595.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5c9b0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176419",
+      "coordinates": {
+        "points": [
+          [
+            150.52574157714844,
+            1648.13671875
+          ],
+          [
+            150.52574157714844,
+            1669.60595703125
+          ],
+          [
+            670.5010986328125,
+            1669.60595703125
+          ],
+          [
+            670.5010986328125,
+            1648.13671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5fd70>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6642233729362488,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176471",
+      "coordinates": {
+        "points": [
+          [
+            152.9515838623047,
+            1676.4747314453125
+          ],
+          [
+            152.9515838623047,
+            1698.7286376953125
+          ],
+          [
+            826.667236328125,
+            1698.7286376953125
+          ],
+          [
+            826.667236328125,
+            1676.4747314453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5e570>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5328105092048645,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176603",
+      "coordinates": {
+        "points": [
+          [
+            1048.0,
+            1649.0
+          ],
+          [
+            1048.0,
+            1665.0
+          ],
+          [
+            1068.0,
+            1665.0
+          ],
+          [
+            1068.0,
+            1649.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5ef90>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176732",
+      "coordinates": {
+        "points": [
+          [
+            149.6846923828125,
+            101.87918090820312
+          ],
+          [
+            149.6846923828125,
+            122.29884338378906
+          ],
+          [
+            173.60662841796875,
+            122.29884338378906
+          ],
+          [
+            173.60662841796875,
+            101.87918090820312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5cef0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.822424590587616,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176810",
+      "coordinates": {
+        "points": [
+          [
+            797.5555419921875,
+            101.3579330444336
+          ],
+          [
+            797.5555419921875,
+            122.51514434814453
+          ],
+          [
+            1068.5712890625,
+            122.51514434814453
+          ],
+          [
+            1068.5712890625,
+            101.3579330444336
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5e6f0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6356745362281799,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176873",
+      "coordinates": {
+        "points": [
+          [
+            150.03912353515625,
+            162.78233337402344
+          ],
+          [
+            150.03912353515625,
+            356.5029602050781
+          ],
+          [
+            1069.8763427734375,
+            356.5029602050781
+          ],
+          [
+            1069.8763427734375,
+            162.78233337402344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5fcb0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9493263363838196,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176928",
+      "coordinates": {
+        "points": [
+          [
+            150.739013671875,
+            364.41387939453125
+          ],
+          [
+            150.739013671875,
+            753.2169799804688
+          ],
+          [
+            1073.0577392578125,
+            753.2169799804688
+          ],
+          [
+            1073.0577392578125,
+            364.41387939453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5d130>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9490390419960022,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.176984",
+      "coordinates": {
+        "points": [
+          [
+            150.3837890625,
+            763.6898803710938
+          ],
+          [
+            150.3837890625,
+            1153.2894287109375
+          ],
+          [
+            1073.3421630859375,
+            1153.2894287109375
+          ],
+          [
+            1073.3421630859375,
+            763.6898803710938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5f0b0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.947791576385498,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177039",
+      "coordinates": {
+        "points": [
+          [
+            149.23043823242188,
+            1163.119873046875
+          ],
+          [
+            149.23043823242188,
+            1652.93408203125
+          ],
+          [
+            1073.445556640625,
+            1652.93408203125
+          ],
+          [
+            1073.445556640625,
+            1163.119873046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5ce30>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9425888657569885,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_17.txt"
+    },
+    {
+      "element_index": 18,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177092",
+      "coordinates": {
+        "points": [
+          [
+            150.4246368408203,
+            103.38108825683594
+          ],
+          [
+            150.4246368408203,
+            121.92593383789062
+          ],
+          [
+            713.072509765625,
+            121.92593383789062
+          ],
+          [
+            713.072509765625,
+            103.38108825683594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5ddf0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7694470882415771,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177142",
+      "coordinates": {
+        "points": [
+          [
+            228.3646697998047,
+            170.03152465820312
+          ],
+          [
+            228.3646697998047,
+            425.07940673828125
+          ],
+          [
+            902.321044921875,
+            425.07940673828125
+          ],
+          [
+            902.321044921875,
+            170.03152465820312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5f2f0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-3-1.jpg",
+      "detection_class_prob": 0.8010008335113525,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177194",
+      "coordinates": {
+        "points": [
+          [
+            273.6983947753906,
+            464.7298278808594
+          ],
+          [
+            273.6983947753906,
+            673.3739013671875
+          ],
+          [
+            485.97991943359375,
+            673.3739013671875
+          ],
+          [
+            485.97991943359375,
+            464.7298278808594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5ee10>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-3-2.jpg",
+      "detection_class_prob": 0.6698042154312134,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177239",
+      "coordinates": {
+        "points": [
+          [
+            194.21336364746094,
+            592.7394409179688
+          ],
+          [
+            194.21336364746094,
+            1300.8963623046875
+          ],
+          [
+            1029.38330078125,
+            1300.8963623046875
+          ],
+          [
+            1029.38330078125,
+            592.7394409179688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af350>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-3-3.jpg",
+      "detection_class_prob": 0.4267972707748413,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177293",
+      "coordinates": {
+        "points": [
+          [
+            265.0,
+            1337.0
+          ],
+          [
+            265.0,
+            1372.0
+          ],
+          [
+            416.0,
+            1372.0
+          ],
+          [
+            416.0,
+            1337.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afb30>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177346",
+      "coordinates": {
+        "points": [
+          [
+            553.0,
+            1293.0
+          ],
+          [
+            553.0,
+            1310.0
+          ],
+          [
+            567.0,
+            1310.0
+          ],
+          [
+            567.0,
+            1293.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afdd0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177396",
+      "coordinates": {
+        "points": [
+          [
+            508.0,
+            1359.0
+          ],
+          [
+            508.0,
+            1372.0
+          ],
+          [
+            621.0,
+            1372.0
+          ],
+          [
+            621.0,
+            1359.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afd10>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177452",
+      "coordinates": {
+        "points": [
+          [
+            735.0,
+            1306.0
+          ],
+          [
+            735.0,
+            1380.0
+          ],
+          [
+            877.0,
+            1380.0
+          ],
+          [
+            877.0,
+            1306.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afa10>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177502",
+      "coordinates": {
+        "points": [
+          [
+            963.0,
+            1346.0
+          ],
+          [
+            963.0,
+            1376.0
+          ],
+          [
+            965.0,
+            1376.0
+          ],
+          [
+            965.0,
+            1346.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af890>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177555",
+      "coordinates": {
+        "points": [
+          [
+            414.0,
+            1374.0
+          ],
+          [
+            414.0,
+            1382.0
+          ],
+          [
+            419.0,
+            1382.0
+          ],
+          [
+            419.0,
+            1374.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af8f0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177605",
+      "coordinates": {
+        "points": [
+          [
+            142.14883422851562,
+            1415.1409912109375
+          ],
+          [
+            142.14883422851562,
+            1685.193359375
+          ],
+          [
+            1076.17431640625,
+            1685.193359375
+          ],
+          [
+            1076.17431640625,
+            1415.1409912109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afad0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8850792050361633,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177659",
+      "coordinates": {
+        "points": [
+          [
+            1046.3740234375,
+            102.29217529296875
+          ],
+          [
+            1046.3740234375,
+            122.05008697509766
+          ],
+          [
+            1070.985107421875,
+            122.05008697509766
+          ],
+          [
+            1070.985107421875,
+            102.29217529296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8d5c2f0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7593806982040405,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177745",
+      "coordinates": {
+        "points": [
+          [
+            150.20420837402344,
+            101.9198226928711
+          ],
+          [
+            150.20420837402344,
+            121.0985336303711
+          ],
+          [
+            172.6615753173828,
+            121.0985336303711
+          ],
+          [
+            172.6615753173828,
+            101.9198226928711
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afef0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.768841564655304,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177824",
+      "coordinates": {
+        "points": [
+          [
+            123.68641662597656,
+            179.9489288330078
+          ],
+          [
+            123.68641662597656,
+            1470.5255126953125
+          ],
+          [
+            574.4641723632812,
+            1470.5255126953125
+          ],
+          [
+            574.4641723632812,
+            179.9489288330078
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af9b0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-4-4.jpg",
+      "detection_class_prob": 0.5567774176597595,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177890",
+      "coordinates": {
+        "points": [
+          [
+            202.0,
+            1519.0
+          ],
+          [
+            202.0,
+            1594.0
+          ],
+          [
+            216.0,
+            1594.0
+          ],
+          [
+            216.0,
+            1519.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700752b0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.177946",
+      "coordinates": {
+        "points": [
+          [
+            228.0,
+            1492.0
+          ],
+          [
+            228.0,
+            1603.0
+          ],
+          [
+            236.0,
+            1603.0
+          ],
+          [
+            236.0,
+            1492.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a5010>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178018",
+      "coordinates": {
+        "points": [
+          [
+            255.0,
+            1467.0
+          ],
+          [
+            255.0,
+            1595.0
+          ],
+          [
+            405.0,
+            1595.0
+          ],
+          [
+            405.0,
+            1467.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02794350>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178122",
+      "coordinates": {
+        "points": [
+          [
+            395.0,
+            1467.0
+          ],
+          [
+            395.0,
+            1595.0
+          ],
+          [
+            479.0,
+            1595.0
+          ],
+          [
+            479.0,
+            1467.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02794050>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178211",
+      "coordinates": {
+        "points": [
+          [
+            492.0,
+            1440.0
+          ],
+          [
+            492.0,
+            1600.0
+          ],
+          [
+            501.0,
+            1600.0
+          ],
+          [
+            501.0,
+            1440.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a4470>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178279",
+      "coordinates": {
+        "points": [
+          [
+            519.0,
+            1467.0
+          ],
+          [
+            519.0,
+            1491.0
+          ],
+          [
+            547.0,
+            1491.0
+          ],
+          [
+            547.0,
+            1467.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a45f0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178356",
+      "coordinates": {
+        "points": [
+          [
+            519.0,
+            1518.0
+          ],
+          [
+            519.0,
+            1526.0
+          ],
+          [
+            529.0,
+            1526.0
+          ],
+          [
+            529.0,
+            1518.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a4650>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178444",
+      "coordinates": {
+        "points": [
+          [
+            576.0,
+            1465.0
+          ],
+          [
+            576.0,
+            1545.0
+          ],
+          [
+            587.0,
+            1545.0
+          ],
+          [
+            587.0,
+            1465.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a40b0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178588",
+      "coordinates": {
+        "points": [
+          [
+            596.0,
+            822.0
+          ],
+          [
+            596.0,
+            1561.0
+          ],
+          [
+            802.0,
+            1561.0
+          ],
+          [
+            802.0,
+            822.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a4fb0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178686",
+      "coordinates": {
+        "points": [
+          [
+            797.252685546875,
+            103.74795532226562
+          ],
+          [
+            797.252685546875,
+            121.69209289550781
+          ],
+          [
+            1070.8045654296875,
+            121.69209289550781
+          ],
+          [
+            1070.8045654296875,
+            103.74795532226562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afe30>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6671949625015259,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178748",
+      "coordinates": {
+        "points": [
+          [
+            836.0,
+            216.0
+          ],
+          [
+            836.0,
+            1593.0
+          ],
+          [
+            941.0,
+            1593.0
+          ],
+          [
+            941.0,
+            216.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a5130>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178804",
+      "coordinates": {
+        "points": [
+          [
+            149.37950134277344,
+            99.2096939086914
+          ],
+          [
+            149.37950134277344,
+            123.41172790527344
+          ],
+          [
+            714.0215454101562,
+            123.41172790527344
+          ],
+          [
+            714.0215454101562,
+            99.2096939086914
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076030>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5928198099136353,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178859",
+      "coordinates": {
+        "points": [
+          [
+            149.44573974609375,
+            162.78846740722656
+          ],
+          [
+            149.44573974609375,
+            551.0618286132812
+          ],
+          [
+            1071.0491943359375,
+            551.0618286132812
+          ],
+          [
+            1071.0491943359375,
+            162.78846740722656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076930>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9498794674873352,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178910",
+      "coordinates": {
+        "points": [
+          [
+            147.44921875,
+            561.48095703125
+          ],
+          [
+            147.44921875,
+            689.0012817382812
+          ],
+          [
+            1071.8021240234375,
+            689.0012817382812
+          ],
+          [
+            1071.8021240234375,
+            561.48095703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700762d0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9458174705505371,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.178959",
+      "coordinates": {
+        "points": [
+          [
+            147.4088134765625,
+            781.2265014648438
+          ],
+          [
+            147.4088134765625,
+            813.0499877929688
+          ],
+          [
+            857.8922119140625,
+            813.0499877929688
+          ],
+          [
+            857.8922119140625,
+            781.2265014648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700758b0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7994255423545837,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179008",
+      "coordinates": {
+        "points": [
+          [
+            149.98013305664062,
+            849.5238037109375
+          ],
+          [
+            149.98013305664062,
+            879.09033203125
+          ],
+          [
+            490.9988098144531,
+            879.09033203125
+          ],
+          [
+            490.9988098144531,
+            849.5238037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700760f0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7703644633293152,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179070",
+      "coordinates": {
+        "points": [
+          [
+            150.7093963623047,
+            934.1611938476562
+          ],
+          [
+            150.7093963623047,
+            1482.65185546875
+          ],
+          [
+            1073.977294921875,
+            1482.65185546875
+          ],
+          [
+            1073.977294921875,
+            934.1611938476562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077170>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9450697898864746,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179120",
+      "coordinates": {
+        "points": [
+          [
+            148.0148162841797,
+            1493.740478515625
+          ],
+          [
+            148.0148162841797,
+            1620.39111328125
+          ],
+          [
+            1073.703369140625,
+            1620.39111328125
+          ],
+          [
+            1073.703369140625,
+            1493.740478515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076e10>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9380835890769958,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179170",
+      "coordinates": {
+        "points": [
+          [
+            1046.751953125,
+            101.52400207519531
+          ],
+          [
+            1046.751953125,
+            122.55054473876953
+          ],
+          [
+            1070.9268798828125,
+            122.55054473876953
+          ],
+          [
+            1070.9268798828125,
+            101.52400207519531
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700757f0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7739337086677551,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179221",
+      "coordinates": {
+        "points": [
+          [
+            150.0364227294922,
+            102.47024536132812
+          ],
+          [
+            150.0364227294922,
+            121.71221923828125
+          ],
+          [
+            173.71510314941406,
+            121.71221923828125
+          ],
+          [
+            173.71510314941406,
+            102.47024536132812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077110>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7643007636070251,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179555",
+      "coordinates": {
+        "points": [
+          [
+            798.675048828125,
+            103.6030044555664
+          ],
+          [
+            798.675048828125,
+            121.56147766113281
+          ],
+          [
+            1068.86083984375,
+            121.56147766113281
+          ],
+          [
+            1068.86083984375,
+            103.6030044555664
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700753d0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9063146710395813,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179667",
+      "coordinates": {
+        "points": [
+          [
+            715.89794921875,
+            165.70526123046875
+          ],
+          [
+            715.89794921875,
+            179.82376098632812
+          ],
+          [
+            876.3052978515625,
+            179.82376098632812
+          ],
+          [
+            876.3052978515625,
+            165.70526123046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700774d0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7710779309272766,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179757",
+      "coordinates": {
+        "points": [
+          [
+            138.47198486328125,
+            179.95681762695312
+          ],
+          [
+            138.47198486328125,
+            682.58154296875
+          ],
+          [
+            1065.8291015625,
+            682.58154296875
+          ],
+          [
+            1065.8291015625,
+            179.95681762695312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075250>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-6-5.jpg",
+      "detection_class_prob": 0.9053727388381958,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179843",
+      "coordinates": {
+        "points": [
+          [
+            139.60537719726562,
+            719.398681640625
+          ],
+          [
+            139.60537719726562,
+            1069.0439453125
+          ],
+          [
+            1075.3497314453125,
+            1069.0439453125
+          ],
+          [
+            1075.3497314453125,
+            719.398681640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077650>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.932815670967102,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_55.txt"
+    },
+    {
+      "element_index": 56,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.179935",
+      "coordinates": {
+        "points": [
+          [
+            150.49085998535156,
+            1123.225830078125
+          ],
+          [
+            150.49085998535156,
+            1610.466064453125
+          ],
+          [
+            1074.0443115234375,
+            1610.466064453125
+          ],
+          [
+            1074.0443115234375,
+            1123.225830078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075bb0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9447306990623474,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180006",
+      "coordinates": {
+        "points": [
+          [
+            150.1141357421875,
+            99.44369506835938
+          ],
+          [
+            150.1141357421875,
+            122.91716766357422
+          ],
+          [
+            712.853515625,
+            122.91716766357422
+          ],
+          [
+            712.853515625,
+            99.44369506835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076270>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8349711298942566,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180119",
+      "coordinates": {
+        "points": [
+          [
+            152.08570861816406,
+            161.26632690429688
+          ],
+          [
+            152.08570861816406,
+            238.12881469726562
+          ],
+          [
+            848.3652954101562,
+            238.12881469726562
+          ],
+          [
+            848.3652954101562,
+            161.26632690429688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075c70>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7611553072929382,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180206",
+      "coordinates": {
+        "points": [
+          [
+            147.4338836669922,
+            282.3353271484375
+          ],
+          [
+            147.4338836669922,
+            608.6265869140625
+          ],
+          [
+            1072.8223876953125,
+            608.6265869140625
+          ],
+          [
+            1072.8223876953125,
+            282.3353271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075eb0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9521295428276062,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180267",
+      "coordinates": {
+        "points": [
+          [
+            147.56256103515625,
+            616.8438720703125
+          ],
+          [
+            147.56256103515625,
+            841.4669189453125
+          ],
+          [
+            1071.448974609375,
+            841.4669189453125
+          ],
+          [
+            1071.448974609375,
+            616.8438720703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075730>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9515984654426575,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180370",
+      "coordinates": {
+        "points": [
+          [
+            147.50840759277344,
+            850.346923828125
+          ],
+          [
+            147.50840759277344,
+            1008.9849853515625
+          ],
+          [
+            1072.7232666015625,
+            1008.9849853515625
+          ],
+          [
+            1072.7232666015625,
+            850.346923828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077530>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9482752680778503,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180447",
+      "coordinates": {
+        "points": [
+          [
+            205.3972625732422,
+            1083.463623046875
+          ],
+          [
+            205.3972625732422,
+            1480.0550537109375
+          ],
+          [
+            1014.6099853515625,
+            1480.0550537109375
+          ],
+          [
+            1014.6099853515625,
+            1083.463623046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075a30>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-7-6.jpg",
+      "detection_class_prob": 0.9286338090896606,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180506",
+      "coordinates": {
+        "points": [
+          [
+            148.9143829345703,
+            1518.1971435546875
+          ],
+          [
+            148.9143829345703,
+            1650.222900390625
+          ],
+          [
+            1072.744873046875,
+            1650.222900390625
+          ],
+          [
+            1072.744873046875,
+            1518.1971435546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075850>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9106187224388123,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_63.txt"
+    },
+    {
+      "element_index": 64,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180561",
+      "coordinates": {
+        "points": [
+          [
+            1046.676025390625,
+            101.23344421386719
+          ],
+          [
+            1046.676025390625,
+            122.421630859375
+          ],
+          [
+            1070.4447021484375,
+            122.421630859375
+          ],
+          [
+            1070.4447021484375,
+            101.23344421386719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075910>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7923396229743958,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180615",
+      "coordinates": {
+        "points": [
+          [
+            149.879150390625,
+            101.66117858886719
+          ],
+          [
+            149.879150390625,
+            122.2120590209961
+          ],
+          [
+            173.0266876220703,
+            122.2120590209961
+          ],
+          [
+            173.0266876220703,
+            101.66117858886719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700761b0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8105987310409546,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180667",
+      "coordinates": {
+        "points": [
+          [
+            797.8412475585938,
+            101.08677673339844
+          ],
+          [
+            797.8412475585938,
+            122.58499908447266
+          ],
+          [
+            1068.13916015625,
+            122.58499908447266
+          ],
+          [
+            1068.13916015625,
+            101.08677673339844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076210>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6245541572570801,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180782",
+      "coordinates": {
+        "points": [
+          [
+            149.70269775390625,
+            161.8629608154297
+          ],
+          [
+            149.70269775390625,
+            356.4474792480469
+          ],
+          [
+            1069.0633544921875,
+            356.4474792480469
+          ],
+          [
+            1069.0633544921875,
+            161.8629608154297
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075fd0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9502151012420654,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180859",
+      "coordinates": {
+        "points": [
+          [
+            151.554443359375,
+            369.31341552734375
+          ],
+          [
+            151.554443359375,
+            1040.48779296875
+          ],
+          [
+            1072.1025390625,
+            1040.48779296875
+          ],
+          [
+            1072.1025390625,
+            369.31341552734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075af0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9324161410331726,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180920",
+      "coordinates": {
+        "points": [
+          [
+            345.0,
+            1030.0
+          ],
+          [
+            345.0,
+            1055.0
+          ],
+          [
+            398.0,
+            1055.0
+          ],
+          [
+            398.0,
+            1030.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4410>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.180976",
+      "coordinates": {
+        "points": [
+          [
+            150.1529998779297,
+            1060.739990234375
+          ],
+          [
+            150.1529998779297,
+            1320.733154296875
+          ],
+          [
+            1069.7279052734375,
+            1320.733154296875
+          ],
+          [
+            1069.7279052734375,
+            1060.739990234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075970>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9506256580352783,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181118",
+      "coordinates": {
+        "points": [
+          [
+            147.8088836669922,
+            1412.813720703125
+          ],
+          [
+            147.8088836669922,
+            1443.806396484375
+          ],
+          [
+            731.8997802734375,
+            1443.806396484375
+          ],
+          [
+            731.8997802734375,
+            1412.813720703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075670>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8348349332809448,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_71.txt"
+    },
+    {
+      "element_index": 72,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181191",
+      "coordinates": {
+        "points": [
+          [
+            147.5170440673828,
+            1490.889892578125
+          ],
+          [
+            147.5170440673828,
+            1653.9814453125
+          ],
+          [
+            1071.41064453125,
+            1653.9814453125
+          ],
+          [
+            1071.41064453125,
+            1490.889892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4350>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9482374787330627,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181255",
+      "coordinates": {
+        "points": [
+          [
+            148.8740234375,
+            99.57369232177734
+          ],
+          [
+            148.8740234375,
+            123.28563690185547
+          ],
+          [
+            714.1644287109375,
+            123.28563690185547
+          ],
+          [
+            714.1644287109375,
+            99.57369232177734
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df48f0>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5624486804008484,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181310",
+      "coordinates": {
+        "points": [
+          [
+            146.45166015625,
+            163.6627197265625
+          ],
+          [
+            146.45166015625,
+            323.6863708496094
+          ],
+          [
+            1068.9417724609375,
+            323.6863708496094
+          ],
+          [
+            1068.9417724609375,
+            163.6627197265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4230>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9441307783126831,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_74.txt"
+    },
+    {
+      "element_index": 75,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181363",
+      "coordinates": {
+        "points": [
+          [
+            147.67599487304688,
+            332.13018798828125
+          ],
+          [
+            147.67599487304688,
+            688.4242553710938
+          ],
+          [
+            1072.22607421875,
+            688.4242553710938
+          ],
+          [
+            1072.22607421875,
+            332.13018798828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df46b0>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.946892499923706,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_75.txt"
+    },
+    {
+      "element_index": 76,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181416",
+      "coordinates": {
+        "points": [
+          [
+            149.89312744140625,
+            700.2080688476562
+          ],
+          [
+            149.89312744140625,
+            1220.08349609375
+          ],
+          [
+            1071.4544677734375,
+            1220.08349609375
+          ],
+          [
+            1071.4544677734375,
+            700.2080688476562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4710>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9390116333961487,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_76.txt"
+    },
+    {
+      "element_index": 77,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181472",
+      "coordinates": {
+        "points": [
+          [
+            149.3072509765625,
+            1311.8907470703125
+          ],
+          [
+            149.3072509765625,
+            1344.575927734375
+          ],
+          [
+            823.56689453125,
+            1344.575927734375
+          ],
+          [
+            823.56689453125,
+            1311.8907470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4d70>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8102494478225708,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_77.txt"
+    },
+    {
+      "element_index": 78,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181524",
+      "coordinates": {
+        "points": [
+          [
+            140.8706817626953,
+            1392.875
+          ],
+          [
+            140.8706817626953,
+            1486.6484375
+          ],
+          [
+            1075.91748046875,
+            1486.6484375
+          ],
+          [
+            1075.91748046875,
+            1392.875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4590>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9295197129249573,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181576",
+      "coordinates": {
+        "points": [
+          [
+            143.53675842285156,
+            1571.861572265625
+          ],
+          [
+            143.53675842285156,
+            1652.112060546875
+          ],
+          [
+            1074.1112060546875,
+            1652.112060546875
+          ],
+          [
+            1074.1112060546875,
+            1571.861572265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4890>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8889525532722473,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_79.txt"
+    },
+    {
+      "element_index": 80,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181630",
+      "coordinates": {
+        "points": [
+          [
+            1047.347900390625,
+            101.39693450927734
+          ],
+          [
+            1047.347900390625,
+            122.05596160888672
+          ],
+          [
+            1071.060302734375,
+            122.05596160888672
+          ],
+          [
+            1071.060302734375,
+            101.39693450927734
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4050>"
+      },
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7855541110038757,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181682",
+      "coordinates": {
+        "points": [
+          [
+            149.07913208007812,
+            102.33077239990234
+          ],
+          [
+            149.07913208007812,
+            121.4494400024414
+          ],
+          [
+            173.9304962158203,
+            121.4494400024414
+          ],
+          [
+            173.9304962158203,
+            102.33077239990234
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4fb0>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7777403593063354,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_81.txt"
+    },
+    {
+      "element_index": 82,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181731",
+      "coordinates": {
+        "points": [
+          [
+            796.5206909179688,
+            103.71212768554688
+          ],
+          [
+            796.5206909179688,
+            121.39633178710938
+          ],
+          [
+            1070.518798828125,
+            121.39633178710938
+          ],
+          [
+            1070.518798828125,
+            103.71212768554688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df44d0>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5954538583755493,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181780",
+      "coordinates": {
+        "points": [
+          [
+            202.585205078125,
+            162.0727081298828
+          ],
+          [
+            202.585205078125,
+            604.14453125
+          ],
+          [
+            1010.3568115234375,
+            604.14453125
+          ],
+          [
+            1010.3568115234375,
+            162.0727081298828
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4ad0>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-10-7.jpg",
+      "detection_class_prob": 0.9260185956954956,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181830",
+      "coordinates": {
+        "points": [
+          [
+            150.3420867919922,
+            633.9564208984375
+          ],
+          [
+            150.3420867919922,
+            735.4996948242188
+          ],
+          [
+            1066.4075927734375,
+            735.4996948242188
+          ],
+          [
+            1066.4075927734375,
+            633.9564208984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4e90>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9435892701148987,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181881",
+      "coordinates": {
+        "points": [
+          [
+            148.56932067871094,
+            795.5506591796875
+          ],
+          [
+            148.56932067871094,
+            1182.1416015625
+          ],
+          [
+            1073.5120849609375,
+            1182.1416015625
+          ],
+          [
+            1073.5120849609375,
+            795.5506591796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df47d0>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.949215829372406,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.181984",
+      "coordinates": {
+        "points": [
+          [
+            149.05331420898438,
+            1197.2335205078125
+          ],
+          [
+            149.05331420898438,
+            1652.5780029296875
+          ],
+          [
+            1072.2462158203125,
+            1652.5780029296875
+          ],
+          [
+            1072.2462158203125,
+            1197.2335205078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4650>"
+      },
+      "page_number": 10,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9462724328041077,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182067",
+      "coordinates": {
+        "points": [
+          [
+            150.3445281982422,
+            102.62834930419922
+          ],
+          [
+            150.3445281982422,
+            122.15089416503906
+          ],
+          [
+            711.4561157226562,
+            122.15089416503906
+          ],
+          [
+            711.4561157226562,
+            102.62834930419922
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5070>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8232978582382202,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182127",
+      "coordinates": {
+        "points": [
+          [
+            168.41281127929688,
+            169.62368774414062
+          ],
+          [
+            168.41281127929688,
+            538.2000122070312
+          ],
+          [
+            583.1384887695312,
+            538.2000122070312
+          ],
+          [
+            583.1384887695312,
+            169.62368774414062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df51f0>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-11-8.jpg",
+      "detection_class_prob": 0.8669360280036926,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "Text",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182185",
+      "coordinates": {
+        "points": [
+          [
+            608.0,
+            170.0
+          ],
+          [
+            608.0,
+            193.0
+          ],
+          [
+            640.0,
+            193.0
+          ],
+          [
+            640.0,
+            170.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5490>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/text_89.txt"
+    },
+    {
+      "element_index": 90,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182240",
+      "coordinates": {
+        "points": [
+          [
+            284.9744567871094,
+            546.5377197265625
+          ],
+          [
+            284.9744567871094,
+            561.297607421875
+          ],
+          [
+            474.3707580566406,
+            561.297607421875
+          ],
+          [
+            474.3707580566406,
+            546.5377197265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5130>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.3283712863922119,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182294",
+      "coordinates": {
+        "points": [
+          [
+            161.2769317626953,
+            618.8010864257812
+          ],
+          [
+            161.2769317626953,
+            989.2730102539062
+          ],
+          [
+            1062.4124755859375,
+            989.2730102539062
+          ],
+          [
+            1062.4124755859375,
+            618.8010864257812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5250>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-11-9.jpg",
+      "detection_class_prob": 0.7721271514892578,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_91.txt"
+    },
+    {
+      "element_index": 92,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182346",
+      "coordinates": {
+        "points": [
+          [
+            147.7565155029297,
+            1019.7546997070312
+          ],
+          [
+            147.7565155029297,
+            1264.80126953125
+          ],
+          [
+            1071.7911376953125,
+            1264.80126953125
+          ],
+          [
+            1071.7911376953125,
+            1019.7546997070312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4770>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9066923260688782,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_92.txt"
+    },
+    {
+      "element_index": 93,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182398",
+      "coordinates": {
+        "points": [
+          [
+            143.40960693359375,
+            1322.0806884765625
+          ],
+          [
+            143.40960693359375,
+            1446.97412109375
+          ],
+          [
+            1076.593505859375,
+            1446.97412109375
+          ],
+          [
+            1076.593505859375,
+            1322.0806884765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5190>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9310619831085205,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_93.txt"
+    },
+    {
+      "element_index": 94,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182450",
+      "coordinates": {
+        "points": [
+          [
+            147.85958862304688,
+            1454.3179931640625
+          ],
+          [
+            147.85958862304688,
+            1647.6138916015625
+          ],
+          [
+            1072.6544189453125,
+            1647.6138916015625
+          ],
+          [
+            1072.6544189453125,
+            1454.3179931640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df56d0>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9454914927482605,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_94.txt"
+    },
+    {
+      "element_index": 95,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182506",
+      "coordinates": {
+        "points": [
+          [
+            1046.3170166015625,
+            102.53178405761719
+          ],
+          [
+            1046.3170166015625,
+            121.60787200927734
+          ],
+          [
+            1070.1185302734375,
+            121.60787200927734
+          ],
+          [
+            1070.1185302734375,
+            102.53178405761719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5010>"
+      },
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7474839091300964,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_95.txt"
+    },
+    {
+      "element_index": 96,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182559",
+      "coordinates": {
+        "points": [
+          [
+            149.02078247070312,
+            101.43869018554688
+          ],
+          [
+            149.02078247070312,
+            122.27359771728516
+          ],
+          [
+            173.39178466796875,
+            122.27359771728516
+          ],
+          [
+            173.39178466796875,
+            101.43869018554688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df40b0>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8063942193984985,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_96.txt"
+    },
+    {
+      "element_index": 97,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182609",
+      "coordinates": {
+        "points": [
+          [
+            797.8849487304688,
+            101.22154235839844
+          ],
+          [
+            797.8849487304688,
+            122.5572509765625
+          ],
+          [
+            1068.0379638671875,
+            122.5572509765625
+          ],
+          [
+            1068.0379638671875,
+            101.22154235839844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5a90>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5915241837501526,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_97.txt"
+    },
+    {
+      "element_index": 98,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182658",
+      "coordinates": {
+        "points": [
+          [
+            147.979736328125,
+            163.53013610839844
+          ],
+          [
+            147.979736328125,
+            555.9917602539062
+          ],
+          [
+            1073.5531005859375,
+            555.9917602539062
+          ],
+          [
+            1073.5531005859375,
+            163.53013610839844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5670>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9511489272117615,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_98.txt"
+    },
+    {
+      "element_index": 99,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182708",
+      "coordinates": {
+        "points": [
+          [
+            147.4159393310547,
+            648.7863159179688
+          ],
+          [
+            147.4159393310547,
+            679.8060913085938
+          ],
+          [
+            447.1806335449219,
+            679.8060913085938
+          ],
+          [
+            447.1806335449219,
+            648.7863159179688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5a30>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8290132284164429,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_99.txt"
+    },
+    {
+      "element_index": 100,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182796",
+      "coordinates": {
+        "points": [
+          [
+            150.36599731445312,
+            737.5451049804688
+          ],
+          [
+            150.36599731445312,
+            1314.8773193359375
+          ],
+          [
+            1074.26611328125,
+            1314.8773193359375
+          ],
+          [
+            1074.26611328125,
+            737.5451049804688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5550>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9385433793067932,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_100.txt"
+    },
+    {
+      "element_index": 101,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182879",
+      "coordinates": {
+        "points": [
+          [
+            149.41957092285156,
+            1327.72705078125
+          ],
+          [
+            149.41957092285156,
+            1553.4481201171875
+          ],
+          [
+            1072.418701171875,
+            1553.4481201171875
+          ],
+          [
+            1072.418701171875,
+            1327.72705078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5970>"
+      },
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.94844651222229,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_101.txt"
+    },
+    {
+      "element_index": 102,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182941",
+      "coordinates": {
+        "points": [
+          [
+            149.40167236328125,
+            103.70848083496094
+          ],
+          [
+            149.40167236328125,
+            121.74586486816406
+          ],
+          [
+            712.9196166992188,
+            121.74586486816406
+          ],
+          [
+            712.9196166992188,
+            103.70848083496094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df54f0>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8028939962387085,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_102.txt"
+    },
+    {
+      "element_index": 103,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.182998",
+      "coordinates": {
+        "points": [
+          [
+            216.28160095214844,
+            179.4617156982422
+          ],
+          [
+            216.28160095214844,
+            731.9534912109375
+          ],
+          [
+            999.5421142578125,
+            731.9534912109375
+          ],
+          [
+            999.5421142578125,
+            179.4617156982422
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5d30>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-13-10.jpg",
+      "detection_class_prob": 0.9249390959739685,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_103.txt"
+    },
+    {
+      "element_index": 104,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183052",
+      "coordinates": {
+        "points": [
+          [
+            153.56478881835938,
+            764.4223022460938
+          ],
+          [
+            153.56478881835938,
+            897.3194580078125
+          ],
+          [
+            1068.640869140625,
+            897.3194580078125
+          ],
+          [
+            1068.640869140625,
+            764.4223022460938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5c70>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9466205835342407,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_104.txt"
+    },
+    {
+      "element_index": 105,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183108",
+      "coordinates": {
+        "points": [
+          [
+            149.87428283691406,
+            955.9288330078125
+          ],
+          [
+            149.87428283691406,
+            1379.5301513671875
+          ],
+          [
+            1073.9979248046875,
+            1379.5301513671875
+          ],
+          [
+            1073.9979248046875,
+            955.9288330078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5cd0>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9478615522384644,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_105.txt"
+    },
+    {
+      "element_index": 106,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183159",
+      "coordinates": {
+        "points": [
+          [
+            143.33900451660156,
+            1388.8333740234375
+          ],
+          [
+            143.33900451660156,
+            1580.6923828125
+          ],
+          [
+            1076.06005859375,
+            1580.6923828125
+          ],
+          [
+            1076.06005859375,
+            1388.8333740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5df0>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9449114799499512,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_106.txt"
+    },
+    {
+      "element_index": 107,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183211",
+      "coordinates": {
+        "points": [
+          [
+            1046.10400390625,
+            102.33120727539062
+          ],
+          [
+            1046.10400390625,
+            121.71806335449219
+          ],
+          [
+            1070.7169189453125,
+            121.71806335449219
+          ],
+          [
+            1070.7169189453125,
+            102.33120727539062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5c10>"
+      },
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7947919964790344,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_107.txt"
+    },
+    {
+      "element_index": 108,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183262",
+      "coordinates": {
+        "points": [
+          [
+            148.8946990966797,
+            101.24168395996094
+          ],
+          [
+            148.8946990966797,
+            122.10829162597656
+          ],
+          [
+            173.0911865234375,
+            122.10829162597656
+          ],
+          [
+            173.0911865234375,
+            101.24168395996094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5f70>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8085132241249084,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_108.txt"
+    },
+    {
+      "element_index": 109,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183313",
+      "coordinates": {
+        "points": [
+          [
+            797.358642578125,
+            101.46556854248047
+          ],
+          [
+            797.358642578125,
+            122.38546752929688
+          ],
+          [
+            1069.6658935546875,
+            122.38546752929688
+          ],
+          [
+            1069.6658935546875,
+            101.46556854248047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df58b0>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5950199365615845,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_109.txt"
+    },
+    {
+      "element_index": 110,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183362",
+      "coordinates": {
+        "points": [
+          [
+            149.33863830566406,
+            165.12506103515625
+          ],
+          [
+            149.33863830566406,
+            196.40029907226562
+          ],
+          [
+            801.0596313476562,
+            196.40029907226562
+          ],
+          [
+            801.0596313476562,
+            165.12506103515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5eb0>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7704050540924072,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_110.txt"
+    },
+    {
+      "element_index": 111,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183466",
+      "coordinates": {
+        "points": [
+          [
+            149.6226348876953,
+            233.52200317382812
+          ],
+          [
+            149.6226348876953,
+            263.4014892578125
+          ],
+          [
+            706.26416015625,
+            263.4014892578125
+          ],
+          [
+            706.26416015625,
+            233.52200317382812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6450>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8040615320205688,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_111.txt"
+    },
+    {
+      "element_index": 112,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183540",
+      "coordinates": {
+        "points": [
+          [
+            146.3024139404297,
+            312.0531005859375
+          ],
+          [
+            146.3024139404297,
+            471.865478515625
+          ],
+          [
+            1071.352294921875,
+            471.865478515625
+          ],
+          [
+            1071.352294921875,
+            312.0531005859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5d90>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9474694728851318,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_112.txt"
+    },
+    {
+      "element_index": 113,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183608",
+      "coordinates": {
+        "points": [
+          [
+            145.90628051757812,
+            479.8674011230469
+          ],
+          [
+            145.90628051757812,
+            836.7720336914062
+          ],
+          [
+            1073.1207275390625,
+            836.7720336914062
+          ],
+          [
+            1073.1207275390625,
+            479.8674011230469
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6090>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9515003561973572,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_113.txt"
+    },
+    {
+      "element_index": 114,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183671",
+      "coordinates": {
+        "points": [
+          [
+            138.0918426513672,
+            845.606201171875
+          ],
+          [
+            138.0918426513672,
+            937.0379028320312
+          ],
+          [
+            1078.5379638671875,
+            937.0379028320312
+          ],
+          [
+            1078.5379638671875,
+            845.606201171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df62d0>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9337419867515564,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_114.txt"
+    },
+    {
+      "element_index": 115,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183724",
+      "coordinates": {
+        "points": [
+          [
+            150.63546752929688,
+            1003.2648315429688
+          ],
+          [
+            150.63546752929688,
+            1411.28125
+          ],
+          [
+            1065.5074462890625,
+            1411.28125
+          ],
+          [
+            1065.5074462890625,
+            1003.2648315429688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6270>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-14-11.jpg",
+      "detection_class_prob": 0.9100736379623413,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_115.txt"
+    },
+    {
+      "element_index": 116,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183777",
+      "coordinates": {
+        "points": [
+          [
+            142.5266571044922,
+            1452.052734375
+          ],
+          [
+            142.5266571044922,
+            1555.7139892578125
+          ],
+          [
+            1073.13037109375,
+            1555.7139892578125
+          ],
+          [
+            1073.13037109375,
+            1452.052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6150>"
+      },
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8682341575622559,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_116.txt"
+    },
+    {
+      "element_index": 117,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183827",
+      "coordinates": {
+        "points": [
+          [
+            150.75357055664062,
+            100.18427276611328
+          ],
+          [
+            150.75357055664062,
+            122.96556091308594
+          ],
+          [
+            712.0120239257812,
+            122.96556091308594
+          ],
+          [
+            712.0120239257812,
+            100.18427276611328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6cf0>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5226150155067444,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_117.txt"
+    },
+    {
+      "element_index": 118,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183878",
+      "coordinates": {
+        "points": [
+          [
+            150.1556854248047,
+            165.67979431152344
+          ],
+          [
+            150.1556854248047,
+            686.7706298828125
+          ],
+          [
+            1069.8929443359375,
+            686.7706298828125
+          ],
+          [
+            1069.8929443359375,
+            165.67979431152344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6630>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9430267810821533,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_118.txt"
+    },
+    {
+      "element_index": 119,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.183929",
+      "coordinates": {
+        "points": [
+          [
+            151.6506805419922,
+            780.8505859375
+          ],
+          [
+            151.6506805419922,
+            848.7166137695312
+          ],
+          [
+            952.8975830078125,
+            848.7166137695312
+          ],
+          [
+            952.8975830078125,
+            780.8505859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df67b0>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8285158276557922,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_119.txt"
+    },
+    {
+      "element_index": 120,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184011",
+      "coordinates": {
+        "points": [
+          [
+            146.27748107910156,
+            900.1307373046875
+          ],
+          [
+            146.27748107910156,
+            1092.39111328125
+          ],
+          [
+            1075.204345703125,
+            1092.39111328125
+          ],
+          [
+            1075.204345703125,
+            900.1307373046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6810>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9515701532363892,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_120.txt"
+    },
+    {
+      "element_index": 121,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184119",
+      "coordinates": {
+        "points": [
+          [
+            149.32943725585938,
+            1103.07421875
+          ],
+          [
+            149.32943725585938,
+            1522.8323974609375
+          ],
+          [
+            1073.9639892578125,
+            1522.8323974609375
+          ],
+          [
+            1073.9639892578125,
+            1103.07421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6870>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9494880437850952,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_121.txt"
+    },
+    {
+      "element_index": 122,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184181",
+      "coordinates": {
+        "points": [
+          [
+            1046.422607421875,
+            101.39276885986328
+          ],
+          [
+            1046.422607421875,
+            122.2830581665039
+          ],
+          [
+            1070.805908203125,
+            122.2830581665039
+          ],
+          [
+            1070.805908203125,
+            101.39276885986328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df4950>"
+      },
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7858119010925293,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_122.txt"
+    },
+    {
+      "element_index": 123,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184303",
+      "coordinates": {
+        "points": [
+          [
+            149.13890075683594,
+            102.14054870605469
+          ],
+          [
+            149.13890075683594,
+            121.66731262207031
+          ],
+          [
+            173.4375457763672,
+            121.66731262207031
+          ],
+          [
+            173.4375457763672,
+            102.14054870605469
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6bd0>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7980278730392456,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_123.txt"
+    },
+    {
+      "element_index": 124,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184391",
+      "coordinates": {
+        "points": [
+          [
+            796.44970703125,
+            103.76481628417969
+          ],
+          [
+            796.44970703125,
+            121.49371337890625
+          ],
+          [
+            1070.519287109375,
+            121.49371337890625
+          ],
+          [
+            1070.519287109375,
+            103.76481628417969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6510>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5342106819152832,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_124.txt"
+    },
+    {
+      "element_index": 125,
+      "element_type": "Image",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184452",
+      "coordinates": {
+        "points": [
+          [
+            204.50091552734375,
+            157.9165802001953
+          ],
+          [
+            204.50091552734375,
+            640.9112548828125
+          ],
+          [
+            1002.2245483398438,
+            640.9112548828125
+          ],
+          [
+            1002.2245483398438,
+            157.9165802001953
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6ab0>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/images/figure-16-12.jpg",
+      "detection_class_prob": 0.9312951564788818,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/image_125.txt"
+    },
+    {
+      "element_index": 126,
+      "element_type": "FigureCaption",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184502",
+      "coordinates": {
+        "points": [
+          [
+            143.77903747558594,
+            670.9898071289062
+          ],
+          [
+            143.77903747558594,
+            718.978515625
+          ],
+          [
+            1076.3359375,
+            718.978515625
+          ],
+          [
+            1076.3359375,
+            670.9898071289062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6f90>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8649099469184875,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/figurecaption_126.txt"
+    },
+    {
+      "element_index": 127,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184553",
+      "coordinates": {
+        "points": [
+          [
+            148.21969604492188,
+            778.03125
+          ],
+          [
+            148.21969604492188,
+            809.3392944335938
+          ],
+          [
+            359.66937255859375,
+            809.3392944335938
+          ],
+          [
+            359.66937255859375,
+            778.03125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6d50>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8349997997283936,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_127.txt"
+    },
+    {
+      "element_index": 128,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184605",
+      "coordinates": {
+        "points": [
+          [
+            151.4461669921875,
+            865.5977172851562
+          ],
+          [
+            151.4461669921875,
+            1543.9356689453125
+          ],
+          [
+            1074.37158203125,
+            1543.9356689453125
+          ],
+          [
+            1074.37158203125,
+            865.5977172851562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6b70>"
+      },
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9286099672317505,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_128.txt"
+    },
+    {
+      "element_index": 129,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184661",
+      "coordinates": {
+        "points": [
+          [
+            151.0997314453125,
+            99.87554168701172
+          ],
+          [
+            151.0997314453125,
+            122.88508605957031
+          ],
+          [
+            712.422119140625,
+            122.88508605957031
+          ],
+          [
+            712.422119140625,
+            99.87554168701172
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6f30>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6943853497505188,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_129.txt"
+    },
+    {
+      "element_index": 130,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184713",
+      "coordinates": {
+        "points": [
+          [
+            148.34619140625,
+            162.95228576660156
+          ],
+          [
+            148.34619140625,
+            290.4966735839844
+          ],
+          [
+            1071.01318359375,
+            290.4966735839844
+          ],
+          [
+            1071.01318359375,
+            162.95228576660156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6c90>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9455809593200684,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_130.txt"
+    },
+    {
+      "element_index": 131,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184797",
+      "coordinates": {
+        "points": [
+          [
+            141.9950408935547,
+            327.6095886230469
+          ],
+          [
+            141.9950408935547,
+            432.93463134765625
+          ],
+          [
+            1077.139892578125,
+            432.93463134765625
+          ],
+          [
+            1077.139892578125,
+            327.6095886230469
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df70b0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9368978142738342,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_131.txt"
+    },
+    {
+      "element_index": 132,
+      "element_type": "Title",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184883",
+      "coordinates": {
+        "points": [
+          [
+            148.8284149169922,
+            526.1492919921875
+          ],
+          [
+            148.8284149169922,
+            554.6339721679688
+          ],
+          [
+            304.3692321777344,
+            554.6339721679688
+          ],
+          [
+            304.3692321777344,
+            526.1492919921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7230>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8474040031433105,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/title_132.txt"
+    },
+    {
+      "element_index": 133,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184943",
+      "coordinates": {
+        "points": [
+          [
+            143.25900268554688,
+            602.8032836914062
+          ],
+          [
+            143.25900268554688,
+            679.88232421875
+          ],
+          [
+            1082.166015625,
+            679.88232421875
+          ],
+          [
+            1082.166015625,
+            602.8032836914062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7170>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9266875982284546,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_133.txt"
+    },
+    {
+      "element_index": 134,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.184996",
+      "coordinates": {
+        "points": [
+          [
+            139.4261016845703,
+            686.5545043945312
+          ],
+          [
+            139.4261016845703,
+            733.9573364257812
+          ],
+          [
+            1074.3994140625,
+            733.9573364257812
+          ],
+          [
+            1074.3994140625,
+            686.5545043945312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df71d0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9183547496795654,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_134.txt"
+    },
+    {
+      "element_index": 135,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185049",
+      "coordinates": {
+        "points": [
+          [
+            147.63296508789062,
+            742.1200561523438
+          ],
+          [
+            147.63296508789062,
+            843.8118896484375
+          ],
+          [
+            1077.7010498046875,
+            843.8118896484375
+          ],
+          [
+            1077.7010498046875,
+            742.1200561523438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7650>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9415464401245117,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_135.txt"
+    },
+    {
+      "element_index": 136,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185101",
+      "coordinates": {
+        "points": [
+          [
+            138.92034912109375,
+            851.714599609375
+          ],
+          [
+            138.92034912109375,
+            927.2158203125
+          ],
+          [
+            1074.7420654296875,
+            927.2158203125
+          ],
+          [
+            1074.7420654296875,
+            851.714599609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7410>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.923947811126709,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_136.txt"
+    },
+    {
+      "element_index": 137,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185162",
+      "coordinates": {
+        "points": [
+          [
+            140.89340209960938,
+            934.14697265625
+          ],
+          [
+            140.89340209960938,
+            984.3297119140625
+          ],
+          [
+            1073.8231201171875,
+            984.3297119140625
+          ],
+          [
+            1073.8231201171875,
+            934.14697265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7470>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9081559777259827,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_137.txt"
+    },
+    {
+      "element_index": 138,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185244",
+      "coordinates": {
+        "points": [
+          [
+            143.1308135986328,
+            990.015380859375
+          ],
+          [
+            143.1308135986328,
+            1066.0804443359375
+          ],
+          [
+            1079.0411376953125,
+            1066.0804443359375
+          ],
+          [
+            1079.0411376953125,
+            990.015380859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7530>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9275888800621033,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_138.txt"
+    },
+    {
+      "element_index": 139,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185304",
+      "coordinates": {
+        "points": [
+          [
+            135.79232788085938,
+            1073.271728515625
+          ],
+          [
+            135.79232788085938,
+            1121.4383544921875
+          ],
+          [
+            1078.417724609375,
+            1121.4383544921875
+          ],
+          [
+            1078.417724609375,
+            1073.271728515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df75f0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9160028696060181,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_139.txt"
+    },
+    {
+      "element_index": 140,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185361",
+      "coordinates": {
+        "points": [
+          [
+            146.34207153320312,
+            1129.1397705078125
+          ],
+          [
+            146.34207153320312,
+            1202.53271484375
+          ],
+          [
+            1078.9180908203125,
+            1202.53271484375
+          ],
+          [
+            1078.9180908203125,
+            1129.1397705078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df78f0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9276172518730164,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_140.txt"
+    },
+    {
+      "element_index": 141,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185465",
+      "coordinates": {
+        "points": [
+          [
+            141.9347381591797,
+            1210.738037109375
+          ],
+          [
+            141.9347381591797,
+            1259.2061767578125
+          ],
+          [
+            1073.8328857421875,
+            1259.2061767578125
+          ],
+          [
+            1073.8328857421875,
+            1210.738037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7710>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9044409394264221,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_141.txt"
+    },
+    {
+      "element_index": 142,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185517",
+      "coordinates": {
+        "points": [
+          [
+            144.27590942382812,
+            1266.8577880859375
+          ],
+          [
+            144.27590942382812,
+            1342.9705810546875
+          ],
+          [
+            1077.9287109375,
+            1342.9705810546875
+          ],
+          [
+            1077.9287109375,
+            1266.8577880859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df77d0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9160942435264587,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_142.txt"
+    },
+    {
+      "element_index": 143,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185603",
+      "coordinates": {
+        "points": [
+          [
+            145.44908142089844,
+            1348.25439453125
+          ],
+          [
+            145.44908142089844,
+            1398.243896484375
+          ],
+          [
+            1071.900146484375,
+            1398.243896484375
+          ],
+          [
+            1071.900146484375,
+            1348.25439453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7950>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9053628444671631,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_143.txt"
+    },
+    {
+      "element_index": 144,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185684",
+      "coordinates": {
+        "points": [
+          [
+            145.88531494140625,
+            1405.3431396484375
+          ],
+          [
+            145.88531494140625,
+            1452.0706787109375
+          ],
+          [
+            1078.1358642578125,
+            1452.0706787109375
+          ],
+          [
+            1078.1358642578125,
+            1405.3431396484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df79b0>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9126093983650208,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_144.txt"
+    },
+    {
+      "element_index": 145,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185741",
+      "coordinates": {
+        "points": [
+          [
+            148.1859893798828,
+            1461.7247314453125
+          ],
+          [
+            148.1859893798828,
+            1506.1357421875
+          ],
+          [
+            1076.88427734375,
+            1506.1357421875
+          ],
+          [
+            1076.88427734375,
+            1461.7247314453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7a70>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9015110731124878,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_145.txt"
+    },
+    {
+      "element_index": 146,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185796",
+      "coordinates": {
+        "points": [
+          [
+            146.7775421142578,
+            1515.189453125
+          ],
+          [
+            146.7775421142578,
+            1591.2808837890625
+          ],
+          [
+            1079.88330078125,
+            1591.2808837890625
+          ],
+          [
+            1079.88330078125,
+            1515.189453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7b30>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9318968057632446,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_146.txt"
+    },
+    {
+      "element_index": 147,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185850",
+      "coordinates": {
+        "points": [
+          [
+            1046.5115966796875,
+            101.33092498779297
+          ],
+          [
+            1046.5115966796875,
+            122.13143920898438
+          ],
+          [
+            1070.6663818359375,
+            122.13143920898438
+          ],
+          [
+            1070.6663818359375,
+            101.33092498779297
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6930>"
+      },
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8018226623535156,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_147.txt"
+    },
+    {
+      "element_index": 148,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185908",
+      "coordinates": {
+        "points": [
+          [
+            149.0924072265625,
+            101.48753356933594
+          ],
+          [
+            149.0924072265625,
+            122.09603118896484
+          ],
+          [
+            172.71298217773438,
+            122.09603118896484
+          ],
+          [
+            172.71298217773438,
+            101.48753356933594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7e90>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7992103695869446,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_148.txt"
+    },
+    {
+      "element_index": 149,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.185961",
+      "coordinates": {
+        "points": [
+          [
+            799.6104736328125,
+            103.22724914550781
+          ],
+          [
+            799.6104736328125,
+            121.74825286865234
+          ],
+          [
+            1070.2432861328125,
+            121.74825286865234
+          ],
+          [
+            1070.2432861328125,
+            103.22724914550781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df5610>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8132413029670715,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_149.txt"
+    },
+    {
+      "element_index": 150,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186015",
+      "coordinates": {
+        "points": [
+          [
+            138.06195068359375,
+            165.2090301513672
+          ],
+          [
+            138.06195068359375,
+            240.5449981689453
+          ],
+          [
+            1074.371826171875,
+            240.5449981689453
+          ],
+          [
+            1074.371826171875,
+            165.2090301513672
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7d70>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.920821487903595,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_150.txt"
+    },
+    {
+      "element_index": 151,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186071",
+      "coordinates": {
+        "points": [
+          [
+            142.2079620361328,
+            248.81275939941406
+          ],
+          [
+            142.2079620361328,
+            323.1284484863281
+          ],
+          [
+            1080.2142333984375,
+            323.1284484863281
+          ],
+          [
+            1080.2142333984375,
+            248.81275939941406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7ef0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9272684454917908,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_151.txt"
+    },
+    {
+      "element_index": 152,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186123",
+      "coordinates": {
+        "points": [
+          [
+            142.89239501953125,
+            332.3636474609375
+          ],
+          [
+            142.89239501953125,
+            406.1737365722656
+          ],
+          [
+            1079.8958740234375,
+            406.1737365722656
+          ],
+          [
+            1079.8958740234375,
+            332.3636474609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7e30>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9241622090339661,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_152.txt"
+    },
+    {
+      "element_index": 153,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186194",
+      "coordinates": {
+        "points": [
+          [
+            142.55935668945312,
+            414.21697998046875
+          ],
+          [
+            142.55935668945312,
+            490.7973937988281
+          ],
+          [
+            1085.255859375,
+            490.7973937988281
+          ],
+          [
+            1085.255859375,
+            414.21697998046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7c50>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9225124716758728,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_153.txt"
+    },
+    {
+      "element_index": 154,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186259",
+      "coordinates": {
+        "points": [
+          [
+            143.75074768066406,
+            497.7297058105469
+          ],
+          [
+            143.75074768066406,
+            575.2806396484375
+          ],
+          [
+            1079.987060546875,
+            575.2806396484375
+          ],
+          [
+            1079.987060546875,
+            497.7297058105469
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df6e10>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9136467576026917,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_154.txt"
+    },
+    {
+      "element_index": 155,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186315",
+      "coordinates": {
+        "points": [
+          [
+            149.8607940673828,
+            579.9002075195312
+          ],
+          [
+            149.8607940673828,
+            601.9507446289062
+          ],
+          [
+            832.2957153320312,
+            601.9507446289062
+          ],
+          [
+            832.2957153320312,
+            579.9002075195312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8df7bf0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8200865983963013,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_155.txt"
+    },
+    {
+      "element_index": 156,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186370",
+      "coordinates": {
+        "points": [
+          [
+            144.46275329589844,
+            607.9911499023438
+          ],
+          [
+            144.46275329589844,
+            681.7451171875
+          ],
+          [
+            1082.113525390625,
+            681.7451171875
+          ],
+          [
+            1082.113525390625,
+            607.9911499023438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0470>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9247840642929077,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_156.txt"
+    },
+    {
+      "element_index": 157,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186427",
+      "coordinates": {
+        "points": [
+          [
+            143.6601104736328,
+            690.9891357421875
+          ],
+          [
+            143.6601104736328,
+            765.2593994140625
+          ],
+          [
+            1080.76611328125,
+            765.2593994140625
+          ],
+          [
+            1080.76611328125,
+            690.9891357421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd02f0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9275378584861755,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_157.txt"
+    },
+    {
+      "element_index": 158,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186480",
+      "coordinates": {
+        "points": [
+          [
+            139.54051208496094,
+            773.1657104492188
+          ],
+          [
+            139.54051208496094,
+            849.8233032226562
+          ],
+          [
+            1078.647216796875,
+            849.8233032226562
+          ],
+          [
+            1078.647216796875,
+            773.1657104492188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd03b0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9246073961257935,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_158.txt"
+    },
+    {
+      "element_index": 159,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186537",
+      "coordinates": {
+        "points": [
+          [
+            137.84652709960938,
+            855.9991455078125
+          ],
+          [
+            137.84652709960938,
+            931.8440551757812
+          ],
+          [
+            1075.078369140625,
+            931.8440551757812
+          ],
+          [
+            1075.078369140625,
+            855.9991455078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd01d0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9210559129714966,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_159.txt"
+    },
+    {
+      "element_index": 160,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186591",
+      "coordinates": {
+        "points": [
+          [
+            136.7963104248047,
+            938.198974609375
+          ],
+          [
+            136.7963104248047,
+            988.8753662109375
+          ],
+          [
+            1071.2039794921875,
+            988.8753662109375
+          ],
+          [
+            1071.2039794921875,
+            938.198974609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0530>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.894255518913269,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_160.txt"
+    },
+    {
+      "element_index": 161,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186644",
+      "coordinates": {
+        "points": [
+          [
+            145.89422607421875,
+            992.752197265625
+          ],
+          [
+            145.89422607421875,
+            1016.29248046875
+          ],
+          [
+            1045.43603515625,
+            1016.29248046875
+          ],
+          [
+            1045.43603515625,
+            992.752197265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd05f0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7275119423866272,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_161.txt"
+    },
+    {
+      "element_index": 162,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.186696",
+      "coordinates": {
+        "points": [
+          [
+            140.07101440429688,
+            1021.9822998046875
+          ],
+          [
+            140.07101440429688,
+            1096.5787353515625
+          ],
+          [
+            1081.1326904296875,
+            1096.5787353515625
+          ],
+          [
+            1081.1326904296875,
+            1021.9822998046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd06b0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8991857171058655,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_162.txt"
+    },
+    {
+      "element_index": 163,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187066",
+      "coordinates": {
+        "points": [
+          [
+            143.51205444335938,
+            1104.5770263671875
+          ],
+          [
+            143.51205444335938,
+            1180.36474609375
+          ],
+          [
+            1078.6435546875,
+            1180.36474609375
+          ],
+          [
+            1078.6435546875,
+            1104.5770263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0770>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9311217665672302,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_163.txt"
+    },
+    {
+      "element_index": 164,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187157",
+      "coordinates": {
+        "points": [
+          [
+            146.8808135986328,
+            1188.4708251953125
+          ],
+          [
+            146.8808135986328,
+            1236.4075927734375
+          ],
+          [
+            1080.7705078125,
+            1236.4075927734375
+          ],
+          [
+            1080.7705078125,
+            1188.4708251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0830>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9134753942489624,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_164.txt"
+    },
+    {
+      "element_index": 165,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187218",
+      "coordinates": {
+        "points": [
+          [
+            145.69924926757812,
+            1243.9102783203125
+          ],
+          [
+            145.69924926757812,
+            1318.771240234375
+          ],
+          [
+            1078.4171142578125,
+            1318.771240234375
+          ],
+          [
+            1078.4171142578125,
+            1243.9102783203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd08f0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9194724559783936,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_165.txt"
+    },
+    {
+      "element_index": 166,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187272",
+      "coordinates": {
+        "points": [
+          [
+            144.27529907226562,
+            1325.9287109375
+          ],
+          [
+            144.27529907226562,
+            1400.669189453125
+          ],
+          [
+            1079.587890625,
+            1400.669189453125
+          ],
+          [
+            1079.587890625,
+            1325.9287109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd09b0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9136137962341309,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_166.txt"
+    },
+    {
+      "element_index": 167,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187324",
+      "coordinates": {
+        "points": [
+          [
+            144.19122314453125,
+            1409.2508544921875
+          ],
+          [
+            144.19122314453125,
+            1457.258544921875
+          ],
+          [
+            1076.7757568359375,
+            1457.258544921875
+          ],
+          [
+            1076.7757568359375,
+            1409.2508544921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0a70>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9170346856117249,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_167.txt"
+    },
+    {
+      "element_index": 168,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187374",
+      "coordinates": {
+        "points": [
+          [
+            144.7477264404297,
+            1463.1536865234375
+          ],
+          [
+            144.7477264404297,
+            1539.748291015625
+          ],
+          [
+            1079.7313232421875,
+            1539.748291015625
+          ],
+          [
+            1079.7313232421875,
+            1463.1536865234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0b30>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9302560687065125,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_168.txt"
+    },
+    {
+      "element_index": 169,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187431",
+      "coordinates": {
+        "points": [
+          [
+            135.376220703125,
+            1547.32763671875
+          ],
+          [
+            135.376220703125,
+            1624.78076171875
+          ],
+          [
+            1078.6676025390625,
+            1624.78076171875
+          ],
+          [
+            1078.6676025390625,
+            1547.32763671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0bf0>"
+      },
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9274001717567444,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_169.txt"
+    },
+    {
+      "element_index": 170,
+      "element_type": "NarrativeText",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187482",
+      "coordinates": {
+        "points": [
+          [
+            150.64208984375,
+            100.01604461669922
+          ],
+          [
+            150.64208984375,
+            122.93695831298828
+          ],
+          [
+            713.2998046875,
+            122.93695831298828
+          ],
+          [
+            713.2998046875,
+            100.01604461669922
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1190>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6128402948379517,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/narrativetext_170.txt"
+    },
+    {
+      "element_index": 171,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187535",
+      "coordinates": {
+        "points": [
+          [
+            134.10833740234375,
+            165.5717010498047
+          ],
+          [
+            134.10833740234375,
+            296.09405517578125
+          ],
+          [
+            1085.7894287109375,
+            296.09405517578125
+          ],
+          [
+            1085.7894287109375,
+            165.5717010498047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0e30>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9347351789474487,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_171.txt"
+    },
+    {
+      "element_index": 172,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187587",
+      "coordinates": {
+        "points": [
+          [
+            147.72796630859375,
+            303.01055908203125
+          ],
+          [
+            147.72796630859375,
+            378.5992736816406
+          ],
+          [
+            1077.626953125,
+            378.5992736816406
+          ],
+          [
+            1077.626953125,
+            303.01055908203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0fb0>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9296296834945679,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_172.txt"
+    },
+    {
+      "element_index": 173,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187734",
+      "coordinates": {
+        "points": [
+          [
+            144.88612365722656,
+            387.0211486816406
+          ],
+          [
+            144.88612365722656,
+            462.3946228027344
+          ],
+          [
+            1081.1837158203125,
+            462.3946228027344
+          ],
+          [
+            1081.1837158203125,
+            387.0211486816406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1010>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9247127771377563,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_173.txt"
+    },
+    {
+      "element_index": 174,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187849",
+      "coordinates": {
+        "points": [
+          [
+            140.34959411621094,
+            469.0140380859375
+          ],
+          [
+            140.34959411621094,
+            519.2954711914062
+          ],
+          [
+            1068.9505615234375,
+            519.2954711914062
+          ],
+          [
+            1068.9505615234375,
+            469.0140380859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1070>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9034204483032227,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_174.txt"
+    },
+    {
+      "element_index": 175,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.187933",
+      "coordinates": {
+        "points": [
+          [
+            140.16297912597656,
+            524.1953735351562
+          ],
+          [
+            140.16297912597656,
+            574.343994140625
+          ],
+          [
+            1072.808837890625,
+            574.343994140625
+          ],
+          [
+            1072.808837890625,
+            524.1953735351562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1130>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9035404920578003,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_175.txt"
+    },
+    {
+      "element_index": 176,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188001",
+      "coordinates": {
+        "points": [
+          [
+            143.30926513671875,
+            579.873779296875
+          ],
+          [
+            143.30926513671875,
+            627.6602172851562
+          ],
+          [
+            1074.5113525390625,
+            627.6602172851562
+          ],
+          [
+            1074.5113525390625,
+            579.873779296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0f50>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9055020809173584,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_176.txt"
+    },
+    {
+      "element_index": 177,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188097",
+      "coordinates": {
+        "points": [
+          [
+            138.4410400390625,
+            636.3560791015625
+          ],
+          [
+            138.4410400390625,
+            682.0845947265625
+          ],
+          [
+            1074.7354736328125,
+            682.0845947265625
+          ],
+          [
+            1074.7354736328125,
+            636.3560791015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1310>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9014822244644165,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_177.txt"
+    },
+    {
+      "element_index": 178,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188168",
+      "coordinates": {
+        "points": [
+          [
+            147.5918731689453,
+            690.8114013671875
+          ],
+          [
+            147.5918731689453,
+            765.7161865234375
+          ],
+          [
+            1079.054931640625,
+            765.7161865234375
+          ],
+          [
+            1079.054931640625,
+            690.8114013671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1370>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9313211441040039,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_178.txt"
+    },
+    {
+      "element_index": 179,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188322",
+      "coordinates": {
+        "points": [
+          [
+            146.22341918945312,
+            773.2050170898438
+          ],
+          [
+            146.22341918945312,
+            849.3319091796875
+          ],
+          [
+            1076.3497314453125,
+            849.3319091796875
+          ],
+          [
+            1076.3497314453125,
+            773.2050170898438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1430>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9307308197021484,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_179.txt"
+    },
+    {
+      "element_index": 180,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188412",
+      "coordinates": {
+        "points": [
+          [
+            137.3223114013672,
+            856.406982421875
+          ],
+          [
+            137.3223114013672,
+            985.5341796875
+          ],
+          [
+            1080.0977783203125,
+            985.5341796875
+          ],
+          [
+            1080.0977783203125,
+            856.406982421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd1550>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9291968941688538,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_180.txt"
+    },
+    {
+      "element_index": 181,
+      "element_type": "ListItem",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188482",
+      "coordinates": {
+        "points": [
+          [
+            144.81488037109375,
+            993.0128784179688
+          ],
+          [
+            144.81488037109375,
+            1042.878173828125
+          ],
+          [
+            1068.051025390625,
+            1042.878173828125
+          ],
+          [
+            1068.051025390625,
+            993.0128784179688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd11f0>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9006611704826355,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/listitem_181.txt"
+    },
+    {
+      "element_index": 182,
+      "element_type": "Header",
+      "filename": "structure_function_relationships_of_bacterial_SH3_domains.pdf",
+      "extraction_date": "2026-11-03T15:03:07.188549",
+      "coordinates": {
+        "points": [
+          [
+            1046.7215576171875,
+            101.80986785888672
+          ],
+          [
+            1046.7215576171875,
+            121.7793960571289
+          ],
+          [
+            1071.23486328125,
+            121.7793960571289
+          ],
+          [
+            1071.23486328125,
+            101.80986785888672
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dd0050>"
+      },
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8089303970336914,
+      "content_path": "extracted_pdfs/structure_function_relationships_of_bacterial_SH3_domains/text/header_182.txt"
+    }
+  ]
+}

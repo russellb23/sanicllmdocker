@@ -1,0 +1,1 @@
+Supplementary Table 4. List of Inter-protein crosslinks detected in protein prospector analysis from the LC/MS data. Inter-protein crosslinks between Fyn SH3 and p85ASH3.

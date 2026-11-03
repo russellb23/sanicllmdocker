@@ -1,0 +1,1 @@
+Figure S1: Examples of the angular reorientational correlation function, C;(t). Residues were selected to illustrate various behaviors (from flexible and rigid domains, and long and short relaxation times). Calculations were done in 0.1-ns increments. After the initial decay, C(t) approaches the corresponding order parameter S? (Fig. S3).

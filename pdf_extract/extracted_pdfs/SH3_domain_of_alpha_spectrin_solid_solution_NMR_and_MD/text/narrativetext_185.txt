@@ -1,0 +1,1 @@
+Hoffmann, F., Mulder, F.A.A., and Schafer, L.V. (2018a). Accurate methyl group dynamics in protein simulations with AMBER force fields. J. Phys. Chem. B 122, 5038-5048.

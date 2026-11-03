@@ -1,0 +1,1 @@
+van Gunsteren, W. F. & Berendsen, H. J. C. (1987). Groningen Molecular Simulation (GROMOS) Library Manual (Biomos), Nijenborgh 4, 9747 AG Groningen, The Netherlands.

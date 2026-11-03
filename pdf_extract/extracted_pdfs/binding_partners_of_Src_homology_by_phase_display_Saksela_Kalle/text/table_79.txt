@@ -1,0 +1,1 @@
+Binding affinity (Kp) <200 nM 200-500 nM 500 nM-3 uM 3-20 uM >20 uM

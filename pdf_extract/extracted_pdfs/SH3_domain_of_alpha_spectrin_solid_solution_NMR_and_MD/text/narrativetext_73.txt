@@ -1,0 +1,1 @@
+(A) C*-RMSD relative to the average structure of all 30 substructures from a three-state eNOE struc- ture calculation at pH 3.5. These numbers repre- sent the conformational space of the dynamic ensemble, in contrast to the precision of the NMR structure calculation per se, which is shown in Figure S2A.

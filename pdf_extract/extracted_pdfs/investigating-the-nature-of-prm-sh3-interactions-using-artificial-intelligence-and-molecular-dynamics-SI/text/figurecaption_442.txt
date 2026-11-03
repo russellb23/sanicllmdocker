@@ -1,0 +1,1 @@
+AG = -78.15 kcal/mol Alntra-peptide interaction energy= -2.98 kJ/mol

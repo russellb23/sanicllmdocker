@@ -1,0 +1,1 @@
+It is also shown that special care should be taken with respect to the fitting procedure used to remove rigid-body motion from the trajectory. Fitting using a set of atoms that includes the most mobile ones in

@@ -1,0 +1,1 @@
+Correlation between simulated and experimental B-factors over different averaging windows

@@ -1,0 +1,1 @@
+where P (x) = (1 /2)(3x?—-1) is the second Legendre polynomial. For each 1, the average was taken over 7, ranging from 100 to (500 — 2) ns.

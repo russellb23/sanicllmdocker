@@ -1,0 +1,1 @@
+Figure $5. Solvation free energy (Gso1) of the peptides in bound states calculated using the MMPBSA method for PRM +/-, PRM +/0, PRM(H) WT, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7A/P9A.

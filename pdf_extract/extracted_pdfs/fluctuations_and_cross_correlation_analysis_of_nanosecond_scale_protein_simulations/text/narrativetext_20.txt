@@ -1,0 +1,1 @@
+(3) What is the minimum averaging time required to obtain a representative sample of the extent of the motions within the protein, so that an extrapolation to longer times becomes meaningful?

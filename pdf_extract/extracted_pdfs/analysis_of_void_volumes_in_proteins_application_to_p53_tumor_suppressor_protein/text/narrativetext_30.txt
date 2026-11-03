@@ -1,0 +1,1 @@
+AVP was initially run on our data set (see Methods) using a void probe with a radius of 0.0 A and solvent probe with a radius of 1.4 A. The histograms in Figure 1 show the distributions of otal void volume and largest void volume for each structure in the data set.

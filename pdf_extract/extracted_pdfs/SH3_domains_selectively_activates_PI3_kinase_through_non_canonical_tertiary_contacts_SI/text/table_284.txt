@@ -1,0 +1,1 @@
+; 3 SH3 domain | Tm (°C) Fyn 85.8 +0.2 y Fyn R96I 79.2 +0.3 Fyn RI6W 77.2 0.7 Fyn L112A_ | 70.7 +0.3 Fyn L112N | 70.8+0.3 Hck 74.6+0.2 p85 58.5 +0.1 Grb2 52.2 + 0.3

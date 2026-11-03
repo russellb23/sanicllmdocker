@@ -1,0 +1,1 @@
+Table 2. The Table showing largest individual void sizes observed in fractions of our data set, i.e. in 99% of proteins studied, all voids are smaller than 725 AS

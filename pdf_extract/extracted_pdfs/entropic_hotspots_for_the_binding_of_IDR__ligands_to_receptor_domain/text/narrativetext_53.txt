@@ -1,0 +1,1 @@
+We used the joint PDF P(ai,,a/,) to calculate the second-order mutual information between DOF m and n:

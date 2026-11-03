@@ -1,0 +1,1 @@
+(b) (c) Rg (nm) 0 a 100ns 1ys 100ns (d) Ref. Initial structure Ref. Final structure 25 2.0 — 15 B 21.0 4 05 0.04 0 200 400 600 800 1000 0 200 400 600 800 1000 Time (ns) Time (ns)

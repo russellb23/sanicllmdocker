@@ -1,0 +1,1 @@
+The diphtheria toxin repressor (DtxR) belongs to a family of iron-dependent reg- ulator (IdeR) proteins. Its activation depends on divalent metal iron and regulates the expression level of diphtheria toxin by interacting with the DNA of operator region to prevent downstream transcription (Pappenheimer 1977; Boyd et al. 1990; Schmitt and Holmes 1994; Tao and Murphy 1992).

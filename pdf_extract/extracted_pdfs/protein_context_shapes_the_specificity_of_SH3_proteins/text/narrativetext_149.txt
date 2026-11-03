@@ -1,0 +1,1 @@
+CD experiments. Far-UV CD protein spectra (250-200 nm) were recorded at 25 °C using a JASCO J-815 spectropolarimeter in a 1-mm optical path length cuvette. Fifteen-micromolar protein samples were dissolved in 20 mM phosphate buffer (pH 7.4) containing 0.3 M NaF in a total volume of 200 pL. The

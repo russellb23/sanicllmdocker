@@ -1,0 +1,1 @@
+Fic. 2. Raw data from probing of the peptide arrays with three different SH3 domains. The 65 peptides were spotted using two different schemes and probed with the indicated GST-tagged SH3 domains, followed by detection of binding with a labeled anti-GST antibody.

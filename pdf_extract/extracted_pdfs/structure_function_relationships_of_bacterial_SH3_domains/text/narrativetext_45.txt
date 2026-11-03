@@ -1,0 +1,1 @@
+In this chapter, we describe the three-dimensional structures of SH3b domains relating to their functions, the SH3b domains targeting the bacterial cell wall, and the SH3b domains involved in metal binding. Figures of molecular structures in this chapter were drawn by PyMol (DeLano 2002).

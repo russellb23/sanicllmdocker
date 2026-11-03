@@ -1,0 +1,1 @@
+10. Chatr-Aryamontri A, Oughtred R, Boucher L, Rust J, Chang C, Kolas NK, et al. The BioGRID interaction database: 2017 update. Nucleic Acids Res. 2017; 45(D1):D369-D79. Epub 2016/12/17. https://doi.org/ 10.1093/nar/gkw1 102 PMID: 27980099; PubMed Central PMCID: PMCPMC5210573.

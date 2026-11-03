@@ -1,0 +1,1 @@
+. Chandrasekhar, I., G. Clore, A. Szabo, A. Gronenborn, and B. Brooks, 1992. A 500 ps molecular dynamics simulation study of interleukin-1£ in water: Correlation with nuclear magnetic resonance spectroscopy and crystallography. J. Mol. Biol. 226:239-250.

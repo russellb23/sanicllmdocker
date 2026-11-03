@@ -1,0 +1,1 @@
+42. Emsley P, Cowtan K. Coot: model-building tools for molecular graphics. Acta Crystallogr D Biol Crystal- logr. 2004; 60(Pt 12 Pt 1):2126-32. Epub 2004/12/02. https://doi.org/10.1107/S0907444904019158 PMID: 15572765.

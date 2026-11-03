@@ -1,0 +1,1 @@
+Src SH3, thus compensating for absence of the Asp-99 binding interactions. Interestingly, although the Asp-99-independent P5 site of p68 does not contain an Arg at the —3 position, it contains an Arg at the —5 position which could be involved in alternate binding interactions similar to those utilized by the D99N mutant domain.

@@ -1,0 +1,1 @@
+Additionally, we may also think on the directedness of the energy networks. In principle, the higher is the difference be- tween the energy of local neighboring energy minima, the more directed is the link between the two minima in the energy net- work.

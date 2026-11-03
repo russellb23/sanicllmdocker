@@ -1,0 +1,1 @@
+Figure 3. Effects of probe radius on mean void sizes (largest and total) calculated for 1000 orientations of the p53 structure (1tsr). Standard deviations are indicated with error bars.

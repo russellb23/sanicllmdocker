@@ -1,0 +1,1 @@
+the case in nanosecond simulations, where slower, more collective motions clearly constitute the dominant contribution to the simulated B- factors. C* fluctuations over 5 ps contribute on average only 13% of the ones calculated over 1.35 ns.

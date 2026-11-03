@@ -1,0 +1,1 @@
+Supplementary Table 5. List of Inter-protein crosslinks detected in protein prospector analysis from the LC/MS data. Inter-protein crosslinks between Grb2 cSH3 and p85ASH3.

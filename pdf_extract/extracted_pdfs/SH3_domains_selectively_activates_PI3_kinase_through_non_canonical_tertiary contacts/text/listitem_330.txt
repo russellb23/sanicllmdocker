@@ -1,0 +1,1 @@
+39. Guzman-Vega, F. J. & ’Arold, S. T. Scaling up protein modeling with AlphaFold for SLURM-based HPC clusters. Preprint at https://github. com/strubelab/alphafold (2024).

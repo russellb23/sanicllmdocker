@@ -1,0 +1,1 @@
+assortativity and hierarchical structure is valid only to the pro- tein structure subnetwork of hydrophobic amino acids, but cannot be observed with the subnetworks of hydrophilic and charged amino acids confirming the key role of hydrophobic interactions in the core-structure of proteins [25].

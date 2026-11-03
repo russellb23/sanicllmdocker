@@ -1,0 +1,1 @@
+The second-order MIST (MIST2) entropy is calculated by including J, for one DOF at a time, in which only the maximal J, between the current DOF and all previously added DOFs is included:

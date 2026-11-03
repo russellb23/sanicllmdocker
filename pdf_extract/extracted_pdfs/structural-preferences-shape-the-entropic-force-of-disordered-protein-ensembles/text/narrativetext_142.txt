@@ -1,0 +1,1 @@
+Table S1 contains all IDR sequences, the ensemble analysis result, and the entropic force analysis result of the simulation database. All code and data used to generate the figures in this manuscript is provided at https://github.com/sukeniklab/Entropic_Force (TXT)

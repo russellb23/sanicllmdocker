@@ -1,0 +1,1 @@
+Chain B of PDB entry 1tsr was used for the native structure. Mutants were generated using the “minimum perturbation protocol”. Void volumes and number of voids were calculated using AVP with solvent probe of radius 1.4 A and void probe of radius 0.5 A and largest void volumes greater than 275 A® are shown.

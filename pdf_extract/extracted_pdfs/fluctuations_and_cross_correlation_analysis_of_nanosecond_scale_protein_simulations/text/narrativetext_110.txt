@@ -1,0 +1,1 @@
+positive for surface atoms lying at opposite sides of the molecule, negative for atoms lying at the same side. Calculation of simulated B-factors is also affected by the fitting procedure. The restricted fitting procedure leads to more resolved peaks, whereas the fitting on all atoms enables low mobility residues to pick up some of the motion of more mobile residues.

@@ -1,0 +1,1 @@
+SH3. This result is consistent with a model in which the non-activating p85 SH3 primarily engages PR1 and therefore remains flexibly attached to crosslink with lysines on all p85 domains; conversely, additional tertiary contacts constrain the mobility and accessibility of Fyn and Grb2 SH3, limiting their exposure to p85 lysines away from the nSH2 and cSH2 domains.

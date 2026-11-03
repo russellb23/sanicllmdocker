@@ -1,0 +1,1 @@
+relaxation (weak coupling) to 1 atm using isotropic coordinate scaling (Berendsen et al., 1984), with a coupling constant tp=0.5 ps. The coordinates were saved for analysis every 0.1 ps for the BPTI simulation (total 1.4 ns) and every 0.5 ps for the HEWL simulation (total 1.1 ns).

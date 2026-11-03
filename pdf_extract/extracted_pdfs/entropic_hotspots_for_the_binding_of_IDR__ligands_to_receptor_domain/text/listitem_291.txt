@@ -1,0 +1,1 @@
+. Maragakis, P., K. Lindorff-Larsen, M. P. Eastwood, R. O. Dror, J. L. Klepeis, I. T. Arkin, M. g. Jensen, H. Xu, N. Trbovic, R. A. Friesner, A. G. P. II, and D. E. Shaw, 2008. Microsecond Molecular Dynamics Simulation Shows Effect of Slow Loop Dynamics on Backbone Amide Order Parameters of Proteins. J. Phys. Chem. B. 112:6155-6158.

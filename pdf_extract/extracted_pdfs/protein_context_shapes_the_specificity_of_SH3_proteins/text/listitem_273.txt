@@ -1,0 +1,1 @@
+60. Lu, A. X., Zarin, T., Hsu, I. S. & Moses, A. M. YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells. Bioinformatics 35, 4525-4527 (2019).

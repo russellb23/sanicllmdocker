@@ -1,0 +1,1 @@
+Fo represents the fluorescence intensity of a free SH3 domain, F,,,. is the fluorescence intensity of the SH3 domain saturated with its ligand, and [L] is the concentration of the ligand.

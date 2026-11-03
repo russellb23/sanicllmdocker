@@ -1,0 +1,1 @@
+energy of —1293 kcal/mol. More importantly, the GBMV2-/510 simulation model produces a SH3 domain topology that maintained the highest fraction of native contacts of the X-ray structure. The least favorable structure compared to the starting X-ray structure is obtained from the CHARMM19/GBORN simulation and shows a partially folded conformation containing only a /-hairpin ar-

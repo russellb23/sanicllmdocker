@@ -1,0 +1,1 @@
+residues (PxxPxRS/T) often results in reduced binding affinity (Howe and Juliano, 2000; Yurdagul Chen et al., 2013).

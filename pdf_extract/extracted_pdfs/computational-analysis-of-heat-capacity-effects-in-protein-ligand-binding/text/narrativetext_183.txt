@@ -1,0 +1,1 @@
+(36) Robertson, M. J.; Tirado-Rives, J.; Jorgensen, W. L. Improved peptide and protein torsional energetics with the OPLS-AA force field. J. Chem. Theory Comput. 2015, 11, 3499-3509.

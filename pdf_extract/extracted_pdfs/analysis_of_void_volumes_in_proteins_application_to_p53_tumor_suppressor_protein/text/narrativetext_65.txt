@@ -1,0 +1,1 @@
+For the p53 structure, the standard deviations, illustrated by error bars, are shown in Figure 3. These show that sensitivity to orientation for p53 falls off for probe sizes above 0.3 A and is very low at the 0.5 A probe size used in this analysis.

@@ -1,0 +1,1 @@
+Abraham, M.J., Murtola, T., Schulz, R., Pall, S., Smith, J.C., Hess, B., and Lindahl, E. (2015). GROMACS: high performance molecular simulations through multi-level parallelism from laptops to supercomputers. SoftwareX 1-2, 19-25.

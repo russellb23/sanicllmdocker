@@ -1,0 +1,1 @@
+ligand also interacts with Src Asp-99, yet the ligand binds to the SH3 domain in a reverse orientation (6).

@@ -1,0 +1,1 @@
+where w is the weight of the restraint type and R stands for inter-proton distances. Weights were applied in a run-dependent manner as follows:

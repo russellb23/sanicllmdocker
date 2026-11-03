@@ -1,0 +1,1 @@
+Dissecting the relative contributions of backbone and side- chain entropies, for individual residues or together, provides

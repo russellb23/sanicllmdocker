@@ -1,0 +1,1 @@
+residues that are found within the polyproline binding cleft, G76, H78 and P79 of the RT loop and E98, E99 of n-src loop, which exhibit positional differences of 1.5 A-2.3 A due to rotation of these loop elements. Conformational changes in these two loops are observed in the NMR structure bound to the herpesvirus-derived peptide [36] (Fig 2B and 2C).

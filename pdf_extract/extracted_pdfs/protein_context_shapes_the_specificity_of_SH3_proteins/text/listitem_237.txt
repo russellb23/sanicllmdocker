@@ -1,0 +1,1 @@
+Deutsch, E. W. et al. Trans-Proteomic Pipeline, a standardized data processing pipeline for large-scale reproducible proteomics informatics. Proteom. Clin. Appl. 9, 745-754 (2015).

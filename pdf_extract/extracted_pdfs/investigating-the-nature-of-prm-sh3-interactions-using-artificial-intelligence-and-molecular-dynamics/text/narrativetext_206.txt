@@ -1,0 +1,1 @@
+(30) McGibbon Robert, T.; Beauchamp Kyle, A.; Harrigan Matthew, P.; Klein, C.; Swails Jason, M.; Hernandez Carlos, X.; Schwantes Christian, R.; Wang, L.-P.; Lane Thomas, J.; Pande Vijay, S. Mdtraj: A Modern Open Library for the Analysis of Molecular Dynamics Trajectories. Biophys. J. 2015, 109 (8), 1528-1532.

@@ -1,0 +1,1 @@
+was used to compare PPI profiles with growth profiles for Slal constructs generated from the domain shuffling experiments (Supplementary Fig, 5B). Both the DHER- PCA interaction data and the Slal growth data were clustered as described above, by generating a Euclidean distance matrix and then performing hierarchical clustering

@@ -1,0 +1,1 @@
+The 154 specificity profiles obtained for 115 SH3 domains reveal that roughly half of the domains exhibit non-canonical specificities. The wide variety of atypical specificities suggests diverse strategies for recognizing peptide ligands, and crystal structures show the details for two novel SH3-peptide-binding modes.

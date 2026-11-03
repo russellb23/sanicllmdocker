@@ -1,0 +1,1 @@
+(23) Wilkins, R. S.; Lund, B. A.; Isaksen, G. V.; Aqvist, J.; Brandsdal, B. O. Accurate Computation of Thermodynamic Activation Parameters in the Chorismate Mutase Reaction from Empirical Valence Bond Simulations. J. Chem. Theory Comput. 2024, 20, 451.

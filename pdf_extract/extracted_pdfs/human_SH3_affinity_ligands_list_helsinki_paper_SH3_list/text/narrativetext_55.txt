@@ -1,0 +1,1 @@
+Note that due to the unusual split organization of the PSD-95 SH3 as revealed by the X-ray structure by McGee et al. (Mol Cell 8: 1291-1301, 2001), some MAGUK family SH3 sequences in this collection are defective in the last B-strand of the SH3 fold.

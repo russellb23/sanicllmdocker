@@ -1,0 +1,1 @@
+Cunningham, J. M., Koytiger, G., Sorger, P. K. & AlQuraishi, M. Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. Nat. Methods 17, 175-183 (2020).

@@ -1,0 +1,1 @@
+Comparison of interactome with literature. To find previously reported PPIs, we parsed a recent release (v 3.5.16) of the BioGRID and searched for reports of physical interactions between baits and preys!!. PPIs were searched in the two directions possible (A-B and B-A) in the database.

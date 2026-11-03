@@ -1,0 +1,1 @@
+energies (AAG) are often plagued by error bars that are too large to obtain accurate relative van’t Hoff plots and, particularly, to observe a small curvature in these that would be associated with a AAC, #0.

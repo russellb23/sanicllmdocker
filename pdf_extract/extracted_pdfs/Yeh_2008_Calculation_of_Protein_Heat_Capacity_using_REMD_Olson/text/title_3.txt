@@ -1,0 +1,1 @@
+Calculation Simulations of Protein Heat Capacity from Replica-Exchange Molecular Dynamics with Different Implicit Solvent Models

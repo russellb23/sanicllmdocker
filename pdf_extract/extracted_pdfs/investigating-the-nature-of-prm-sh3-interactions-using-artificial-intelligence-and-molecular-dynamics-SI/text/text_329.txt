@@ -1,0 +1,1 @@
+Peptide residue 1 5 9 43 MELELTAPTPPKRS

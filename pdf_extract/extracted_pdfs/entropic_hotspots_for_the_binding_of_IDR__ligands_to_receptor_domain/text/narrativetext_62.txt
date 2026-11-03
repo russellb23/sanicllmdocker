@@ -1,0 +1,1 @@
+For nSH3, we excluded the first A134 and the last R191 from entropy calculation, as done previously (40). We also excluded the terminal residues of PRMs (8). The number of DOFs were 235 for nSH3, 59 for PRM“S!, and 45 for PRM““"!. Entropies were calculated using custom-written R lan- guage scripts and also using FORTRAN 95 codes parallelized with OpenMP.

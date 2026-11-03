@@ -1,0 +1,1 @@
+where the parameter fs determines the smoothness of the excluded volume and the raw excluded volume, Smv2, is given by

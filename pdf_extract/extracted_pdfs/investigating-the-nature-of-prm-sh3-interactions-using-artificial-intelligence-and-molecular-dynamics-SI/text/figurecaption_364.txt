@@ -1,0 +1,1 @@
+Figure $20. Intra-peptide contact map differences of PRM WT, PRM +/-, PRM +/0, PRM P8A, PRM PI1A, PRM P8AP11A, PRM(H) WT, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A. Intra-peptide contact map difference was defined by subtracting the intra-peptide contact map of peptides in bound states from that in unbound states.

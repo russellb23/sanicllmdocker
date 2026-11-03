@@ -1,0 +1,1 @@
+Figure $10. Overlapped bound peptides aligned with respect to peptides of PRM +/-, PRM +/0, PRM P8A, PRM P1I1A, PRM P8AP11A, PRM(H) WT, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A. Proteins and peptides are colored blue and red, respectively. All images have one hundred structures of proteins and peptides aligned with respect to peptides.

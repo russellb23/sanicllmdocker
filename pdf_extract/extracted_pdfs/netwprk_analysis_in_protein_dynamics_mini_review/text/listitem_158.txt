@@ -1,0 +1,1 @@
+[66] Leskovec, J., Kleinberg, J. and Faloutsos, C. (2006) Laws of graph evolution: densification and shrinking diameters. ACM Transact. Knowledge Discov. 1, 1-40.

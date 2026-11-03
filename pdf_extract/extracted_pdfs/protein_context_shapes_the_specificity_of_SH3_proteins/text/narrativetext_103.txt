@@ -1,0 +1,1 @@
+S. cerevisiae strains. For the DHFR-PCA experiments, bait strains were con- structed and preys were either constructed or retrieved from the yeast protein interactome collection (Horizon)‘3. BY4741 (MATa, his3A leu2A met15A ura3A) strains with a specific gene of interest fused at its 3’ to the DHER F[1,2] with a

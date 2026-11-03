@@ -1,0 +1,1 @@
+As previously reported, ligand binding decreases the backbone entropy of the SH3 domain (8,17). However, it is the smallest among the entropy changes listed in Table 1. This reflects that the stable nSH3 fold is little affected by the binding of a PRM, which was also seen in the anal- ysis of the order parameter and the backbone C, RMSF (Supporting Materials and Methods).

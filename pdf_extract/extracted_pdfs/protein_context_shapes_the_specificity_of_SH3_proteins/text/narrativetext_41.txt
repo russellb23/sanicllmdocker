@@ -1,0 +1,1 @@
+Allosteric effects of SH3 domains on SH3-independent inter- actions. The above analysis revealed that domain swapping impacts PPIs in a sequence-dependent manner, with divergent SH3 domains having the strongest effects. Swapping SH3s into a

@@ -1,0 +1,1 @@
+1.0 Kd - 17.6 uM #1.3 0.5 Normalised Flourescence Polarization 0.0 0.01 0.1 1 10 100 Concentration (uM)

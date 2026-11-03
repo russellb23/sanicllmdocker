@@ -1,0 +1,1 @@
+Total number of ORFs selected for the study 449 ORFs successfully expressed and tested 324 @ Strong and selective SH3 binders 19 @ Significant binding but modest selectivity 25 @ Poor or no binding 298

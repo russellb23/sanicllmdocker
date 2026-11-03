@@ -1,0 +1,1 @@
+(39) Lee, F. S.; Warshel, A. A local reaction field method for fast evaluation of long-range electrostatic interactions in molecular simulations. J. Chem. Phys. 1992, 97, 3100-3107.

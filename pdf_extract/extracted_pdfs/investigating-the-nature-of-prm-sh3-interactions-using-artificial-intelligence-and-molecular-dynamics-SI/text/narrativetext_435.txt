@@ -1,0 +1,1 @@
+Coulomb interaction energy and the Lennard-Jones energy. Differences were calculated by subtracting the wild

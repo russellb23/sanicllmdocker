@@ -1,0 +1,1 @@
+Figure 4. Proteins containing PRMs homologous to P2-P9 derived from the SOS1 PRD. BLAST searches with each SOS1 PRP identified several human proteins (see Table S7) with a high degree of sequence similarity to P2-P9. CDC25, cell division cycle 25; DH, DBL homology domain; HD, histone-like domain; PH, pleckstrin domain; REM, RAS exchange motif; PRD, proline-rich domain.

@@ -1,0 +1,1 @@
+Most favored regions 49.1% 81.8% 96.4 % Additionally allowed regions 43.6% 14.5% 3.6% Generously allowed regions 7.3% 1.8% 0% Disallowed regions 0.0 % 1.8% 0% Favored regions 63.3 % 90.1% 91.1% Allowed regions 92.2% 98.4 % 99.2 % Outliers 7.8% 1.6% 0.8 %

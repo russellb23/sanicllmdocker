@@ -1,0 +1,1 @@
+All human SH3 domain sequences predicted by InterProScan (Quevillon et al., 2005) using profiles from the PROSITE (Sigrist et al., 2013), Superfamily (Oates et al., 2015), Pfam (Punta et al., 2012), and SMART (Letunic et al., 2015) databases were downloaded from

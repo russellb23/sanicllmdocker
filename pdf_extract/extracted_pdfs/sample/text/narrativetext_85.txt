@@ -1,0 +1,1 @@
+It is worth noting that although p68-P3 has two C-terminal arginines, neither of the two arginine residues is in the position of the arginine in consensus class II Src SH3 ligands (6). In- terestingly, previous combinatorial peptide library screening with Src SH3 also revealed a ligand (MMAPPLPRL) with an

@@ -1,0 +1,1 @@
+Figure S5: Order parameters of ligands. (a) PRM‘"! and (b) PRMNS!. No order parameter was assigned to proline since it does not have a backbone amide hydrogen atom.

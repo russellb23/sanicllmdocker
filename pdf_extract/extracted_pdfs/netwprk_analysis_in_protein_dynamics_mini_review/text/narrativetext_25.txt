@@ -1,0 +1,1 @@
+* Protein structure networks are also called as amino-acid networks, residue-networks or protein structure graphs to discriminate them form ‘protein networks’, which is a widely used term for protein-protein interaction networks.

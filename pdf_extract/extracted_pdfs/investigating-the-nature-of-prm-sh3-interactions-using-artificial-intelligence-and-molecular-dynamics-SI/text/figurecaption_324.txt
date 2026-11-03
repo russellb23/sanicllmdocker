@@ -1,0 +1,1 @@
+Figure S19. Intra-peptide distance map differences in bound states of PRM +/-, PRM +/0, PRM P8A, PRM PIA, and PRM P8AP1I1A. Intra-peptide distance map difference was calculated by subtracting the intra-peptide distance map of each WT from that of each complex.

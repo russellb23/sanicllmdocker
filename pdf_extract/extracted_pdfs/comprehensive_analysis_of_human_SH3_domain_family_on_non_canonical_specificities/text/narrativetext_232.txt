@@ -1,0 +1,1 @@
+Schirmer, M., ljaz, U.Z., D’Amore, R., Hall, N., Sloan, W.T., and Quince, C. (2015). Insight into biases and sequencing errors for amplicon sequencing with the Illumina MiSeq platform. Nucleic Acids Res. 43, e37.

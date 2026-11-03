@@ -1,0 +1,1 @@
+(23) Mirdita, M.; Steinegger, M.; Séding, J. MMseqs2 Desktop and Local Web Server App for Fast. Interactive Sequence Searches. Bioinformatics. 2019, 35 (16), 2856-2858.

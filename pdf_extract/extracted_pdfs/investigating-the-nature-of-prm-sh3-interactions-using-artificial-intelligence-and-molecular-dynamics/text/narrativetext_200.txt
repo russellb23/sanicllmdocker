@@ -1,0 +1,1 @@
+(24) Abraham, M. J.; Murtola, T.; Schulz, R; Pall, S.; Smith, J.C; Hess, B.; Lindahl, E. Gromacs: High Performance Molecular Simulations through Multi-Level Parallelism from Laptops to Super- computers. SoftwareX 2015, 1-2, 19-25.

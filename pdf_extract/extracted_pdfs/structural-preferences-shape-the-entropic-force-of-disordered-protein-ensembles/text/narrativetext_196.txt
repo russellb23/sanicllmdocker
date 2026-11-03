@@ -1,0 +1,1 @@
+(35) Vitalis, A.; Pappu, R. V. ABSINTH: A New Continuum Solvation Model for Simulations of Polypeptides in Aqueous Solutions. J. Comput. Chem. 2009, 30, 673-699.

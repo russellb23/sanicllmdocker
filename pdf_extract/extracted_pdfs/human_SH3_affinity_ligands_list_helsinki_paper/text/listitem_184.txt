@@ -1,0 +1,1 @@
+34. Lamesch, P., Li, N., Milstein, S., Fan, C., Hao, T., Szabo, G., Hu, Z., Venkate- san, K., Bethel, G., Martin, P., Rogers, J., Lawlor, S., McLaren, S., Dricot, A., Borick, H., Cusick, M. E., Vandenhaute, J., Dunham, I., Hill, D. E., and Vidal, M. (2007) hORFeome v3.1: a resource of human open reading frames representing over 10,000 human genes. Genomics 89, 307-315

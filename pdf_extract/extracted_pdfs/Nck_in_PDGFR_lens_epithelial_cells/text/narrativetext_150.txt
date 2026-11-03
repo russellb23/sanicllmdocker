@@ -1,0 +1,1 @@
+Statistical analysis. Data are represented as mean + standard errors of the mean (SEM). All differences between experimental groups were analyzed with the student's t-test. Significant differences were considered when the p values were less than 0.05. (n.s.=not significant, *p < 0.05, **p<0.01, ***p<0.001).

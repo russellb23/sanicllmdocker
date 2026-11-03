@@ -1,0 +1,1 @@
+Hydrogen bond (H-Bond) includes salt bridges. Residues of nSH3 are marked with superscripts with the corresponding subdomains (*: 3,9 helix; ®: RT loop; and ": n-Sre loop). Side-chain entropy change of each residue upon complex formation (in cal/(mol+K)) is in parentheses.

@@ -1,0 +1,1 @@
+58. Liu X, WuC, LiC, Boerwinkle E. dbNSFP v3.0: A One-Stop Database of Functional Predictions and Annotations for Human Nonsynonymous and Splice-Site SNVs. Hum Mutat. 2016; 37(3):235—41. Epub 2015/11/12. https://doi.org/10.1002/humu.22932 PMID: 26555599; PubMed Central PMCID: PMCPMC4752381.

@@ -1,0 +1,1 @@
+— FynL112A — FynL112N 0 — FynR96W 2 — Fyn R96 F -100 — Fyn -200 25 50 75 400 Temperature (°C) 60 — Reel (60uM) 40 — R96W 5 20 — RW96 zo Lies -40 60 25 50 75 100 Temperature (°C) 200 — Hck — ps5 5 0 — Grb2 =) -200 A) -400

@@ -1,0 +1,1 @@
+All spectra were processed using the VNMRJ 2.1 revision B software package (Varian Associates) and analyzed with Sparky 3.110 (T. D. Goddard and D. G. Kneller, SPARKY 3, University of California, San Francisco).

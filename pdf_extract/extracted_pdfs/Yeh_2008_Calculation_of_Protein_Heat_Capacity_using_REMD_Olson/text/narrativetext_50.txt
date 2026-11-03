@@ -1,0 +1,1 @@
+We performed single-temperature MD simulations with both sets of GBMV2 parameters to decide on the temperature range for REMD simulations. Given the temperature for protein-chain unfolding, the REMD simulations for the heat capacity and

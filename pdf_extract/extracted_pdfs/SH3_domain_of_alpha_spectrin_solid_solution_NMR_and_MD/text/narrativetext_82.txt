@@ -1,0 +1,1 @@
+and distal loop (47-48) show higher flexibility of the backbone, while B sheet regions forming the B barrel core are more rigid. The most flexible residues, in terms of C* atoms in the backbone, are Lys18, Thr37, Asn47, and Asp48, excluding the N and C termini.

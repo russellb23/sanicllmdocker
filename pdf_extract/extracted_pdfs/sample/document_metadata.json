@@ -1,0 +1,4814 @@
+{
+  "filename": "sample.pdf",
+  "extraction_date": "2026-11-03T15:16:09.222487",
+  "statistics": {
+    "text_blocks": 131,
+    "titles": 10,
+    "images": 0,
+    "tables": 0
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.203584",
+      "coordinates": {
+        "points": [
+          [
+            160.34674072265625,
+            132.89613342285156
+          ],
+          [
+            160.34674072265625,
+            201.6117401123047
+          ],
+          [
+            766.9896850585938,
+            201.6117401123047
+          ],
+          [
+            766.9896850585938,
+            132.89613342285156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a5370>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8240721821784973,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.203821",
+      "coordinates": {
+        "points": [
+          [
+            1394.0216064453125,
+            130.90966796875
+          ],
+          [
+            1394.0216064453125,
+            153.1790008544922
+          ],
+          [
+            1546.1331787109375,
+            153.1790008544922
+          ],
+          [
+            1546.1331787109375,
+            130.90966796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a5010>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8452069759368896,
+      "content_path": "extracted_pdfs/sample/text/header_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.203930",
+      "coordinates": {
+        "points": [
+          [
+            167.3506622314453,
+            264.1355285644531
+          ],
+          [
+            167.3506622314453,
+            358.5780334472656
+          ],
+          [
+            1531.701416015625,
+            358.5780334472656
+          ],
+          [
+            1531.701416015625,
+            264.1355285644531
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700a47d0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7835076451301575,
+      "content_path": "extracted_pdfs/sample/text/title_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.204232",
+      "coordinates": {
+        "points": [
+          [
+            349.78118896484375,
+            376.7826843261719
+          ],
+          [
+            349.78118896484375,
+            431.5867614746094
+          ],
+          [
+            1356.097900390625,
+            431.5867614746094
+          ],
+          [
+            1356.097900390625,
+            376.7826843261719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea12b0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6526036858558655,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.204367",
+      "coordinates": {
+        "points": [
+          [
+            188.24339294433594,
+            444.8743591308594
+          ],
+          [
+            188.24339294433594,
+            552.457763671875
+          ],
+          [
+            1523.76513671875,
+            552.457763671875
+          ],
+          [
+            1523.76513671875,
+            444.8743591308594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea0e30>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7120797038078308,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.204473",
+      "coordinates": {
+        "points": [
+          [
+            438.3981628417969,
+            576.0166015625
+          ],
+          [
+            438.3981628417969,
+            598.9261474609375
+          ],
+          [
+            1263.7000732421875,
+            598.9261474609375
+          ],
+          [
+            1263.7000732421875,
+            576.0166015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea19d0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6745557188987732,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.204663",
+      "coordinates": {
+        "points": [
+          [
+            256.30987548828125,
+            636.45166015625
+          ],
+          [
+            256.30987548828125,
+            1104.0684814453125
+          ],
+          [
+            1462.4593505859375,
+            1104.0684814453125
+          ],
+          [
+            1462.4593505859375,
+            636.45166015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea13d0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9527479410171509,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.205060",
+      "coordinates": {
+        "points": [
+          [
+            160.3672637939453,
+            1189.0218505859375
+          ],
+          [
+            160.3672637939453,
+            1515.7969970703125
+          ],
+          [
+            830.96337890625,
+            1515.7969970703125
+          ],
+          [
+            830.96337890625,
+            1189.0218505859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea03b0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9546632766723633,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Text",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.205325",
+      "coordinates": {
+        "points": [
+          [
+            183.0,
+            1490.0
+          ],
+          [
+            183.0,
+            1549.0
+          ],
+          [
+            263.0,
+            1549.0
+          ],
+          [
+            263.0,
+            1490.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075250>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/sample/text/text_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.205586",
+      "coordinates": {
+        "points": [
+          [
+            160.09335327148438,
+            1520.14111328125
+          ],
+          [
+            160.09335327148438,
+            1876.8709716796875
+          ],
+          [
+            828.9094848632812,
+            1876.8709716796875
+          ],
+          [
+            828.9094848632812,
+            1520.14111328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x7541700775f0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9532392024993896,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.205806",
+      "coordinates": {
+        "points": [
+          [
+            158.97752380371094,
+            1952.2069091796875
+          ],
+          [
+            158.97752380371094,
+            2022.6571044921875
+          ],
+          [
+            830.3198852539062,
+            2022.6571044921875
+          ],
+          [
+            830.3198852539062,
+            1952.2069091796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075a30>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7508436441421509,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.205963",
+      "coordinates": {
+        "points": [
+          [
+            876.3164672851562,
+            1188.7186279296875
+          ],
+          [
+            876.3164672851562,
+            1326.0306396484375
+          ],
+          [
+            1539.6729736328125,
+            1326.0306396484375
+          ],
+          [
+            1539.6729736328125,
+            1188.7186279296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea1850>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9354842305183411,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206097",
+      "coordinates": {
+        "points": [
+          [
+            875.8638305664062,
+            1336.0167236328125
+          ],
+          [
+            875.8638305664062,
+            2021.19970703125
+          ],
+          [
+            1547.3123779296875,
+            2021.19970703125
+          ],
+          [
+            1547.3123779296875,
+            1336.0167236328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00ea17f0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9477525353431702,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206238",
+      "coordinates": {
+        "points": [
+          [
+            827.9581298828125,
+            2050.718505859375
+          ],
+          [
+            827.9581298828125,
+            2075.48095703125
+          ],
+          [
+            873.1162109375,
+            2075.48095703125
+          ],
+          [
+            873.1162109375,
+            2050.718505859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075eb0>"
+      },
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.36604437232017517,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206369",
+      "coordinates": {
+        "points": [
+          [
+            157.72628784179688,
+            130.93978881835938
+          ],
+          [
+            157.72628784179688,
+            153.0109100341797
+          ],
+          [
+            417.4151611328125,
+            153.0109100341797
+          ],
+          [
+            417.4151611328125,
+            130.93978881835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075910>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5052395462989807,
+      "content_path": "extracted_pdfs/sample/text/header_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206502",
+      "coordinates": {
+        "points": [
+          [
+            232.2679443359375,
+            201.08714294433594
+          ],
+          [
+            232.2679443359375,
+            522.8272705078125
+          ],
+          [
+            763.8909912109375,
+            522.8272705078125
+          ],
+          [
+            763.8909912109375,
+            201.08714294433594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075730>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-2-1.jpg",
+      "detection_class_prob": 0.8217957615852356,
+      "content_path": "extracted_pdfs/sample/text/image_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206624",
+      "coordinates": {
+        "points": [
+          [
+            367.4698791503906,
+            543.753173828125
+          ],
+          [
+            367.4698791503906,
+            565.7052612304688
+          ],
+          [
+            465.53204345703125,
+            565.7052612304688
+          ],
+          [
+            465.53204345703125,
+            543.753173828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796f30>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.47330567240715027,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206724",
+      "coordinates": {
+        "points": [
+          [
+            224.80613708496094,
+            672.4580078125
+          ],
+          [
+            224.80613708496094,
+            985.1666870117188
+          ],
+          [
+            763.362548828125,
+            985.1666870117188
+          ],
+          [
+            763.362548828125,
+            672.4580078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797e30>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-2-2.jpg",
+      "detection_class_prob": 0.8741302490234375,
+      "content_path": "extracted_pdfs/sample/text/image_17.txt"
+    },
+    {
+      "element_index": 18,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206784",
+      "coordinates": {
+        "points": [
+          [
+            367.2868957519531,
+            1007.8265991210938
+          ],
+          [
+            367.2868957519531,
+            1032.181884765625
+          ],
+          [
+            459.5052795410156,
+            1032.181884765625
+          ],
+          [
+            459.5052795410156,
+            1007.8265991210938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796630>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.594062864780426,
+      "content_path": "extracted_pdfs/sample/text/title_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206873",
+      "coordinates": {
+        "points": [
+          [
+            154.66224670410156,
+            1044.1636962890625
+          ],
+          [
+            154.66224670410156,
+            1237.4873046875
+          ],
+          [
+            835.7002563476562,
+            1237.4873046875
+          ],
+          [
+            835.7002563476562,
+            1044.1636962890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796db0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9587370157241821,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.206995",
+      "coordinates": {
+        "points": [
+          [
+            158.47146606445312,
+            1308.4193115234375
+          ],
+          [
+            158.47146606445312,
+            1356.8551025390625
+          ],
+          [
+            830.7858276367188,
+            1356.8551025390625
+          ],
+          [
+            830.7858276367188,
+            1308.4193115234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02794350>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9201602339744568,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207181",
+      "coordinates": {
+        "points": [
+          [
+            160.6626739501953,
+            1364.424560546875
+          ],
+          [
+            160.6626739501953,
+            1578.87841796875
+          ],
+          [
+            832.5746459960938,
+            1578.87841796875
+          ],
+          [
+            832.5746459960938,
+            1364.424560546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796b70>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9522326588630676,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207278",
+      "coordinates": {
+        "points": [
+          [
+            163.11447143554688,
+            1584.0235595703125
+          ],
+          [
+            163.11447143554688,
+            2023.0576171875
+          ],
+          [
+            831.5665283203125,
+            2023.0576171875
+          ],
+          [
+            831.5665283203125,
+            1584.0235595703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02797a10>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9506080150604248,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207364",
+      "coordinates": {
+        "points": [
+          [
+            1370.3626708984375,
+            132.7797088623047
+          ],
+          [
+            1370.3626708984375,
+            152.8162078857422
+          ],
+          [
+            1542.344482421875,
+            152.8162078857422
+          ],
+          [
+            1542.344482421875,
+            132.7797088623047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170076cf0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7808360457420349,
+      "content_path": "extracted_pdfs/sample/text/header_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207463",
+      "coordinates": {
+        "points": [
+          [
+            875.7240600585938,
+            198.3355255126953
+          ],
+          [
+            875.7240600585938,
+            388.0744934082031
+          ],
+          [
+            1545.7911376953125,
+            388.0744934082031
+          ],
+          [
+            1545.7911376953125,
+            198.3355255126953
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170077350>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9502591490745544,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207596",
+      "coordinates": {
+        "points": [
+          [
+            1036.1915283203125,
+            435.454345703125
+          ],
+          [
+            1036.1915283203125,
+            454.9510498046875
+          ],
+          [
+            1383.618896484375,
+            454.9510498046875
+          ],
+          [
+            1383.618896484375,
+            435.454345703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075d90>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8724291324615479,
+      "content_path": "extracted_pdfs/sample/text/title_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207709",
+      "coordinates": {
+        "points": [
+          [
+            877.4869995117188,
+            484.2610778808594
+          ],
+          [
+            877.4869995117188,
+            746.0401000976562
+          ],
+          [
+            1545.0419921875,
+            746.0401000976562
+          ],
+          [
+            1545.0419921875,
+            484.2610778808594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x754170075b50>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9562157988548279,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207822",
+      "coordinates": {
+        "points": [
+          [
+            876.54736328125,
+            749.2178344726562
+          ],
+          [
+            876.54736328125,
+            968.9819946289062
+          ],
+          [
+            1545.6600341796875,
+            968.9819946289062
+          ],
+          [
+            1545.6600341796875,
+            749.2178344726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e027970b0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9551942944526672,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.207927",
+      "coordinates": {
+        "points": [
+          [
+            877.5072021484375,
+            972.1854858398438
+          ],
+          [
+            877.5072021484375,
+            1278.5196533203125
+          ],
+          [
+            1545.337646484375,
+            1278.5196533203125
+          ],
+          [
+            1545.337646484375,
+            972.1854858398438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e027978f0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9546723365783691,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208062",
+      "coordinates": {
+        "points": [
+          [
+            878.3909301757812,
+            1282.794677734375
+          ],
+          [
+            878.3909301757812,
+            1699.7933349609375
+          ],
+          [
+            1545.8067626953125,
+            1699.7933349609375
+          ],
+          [
+            1545.8067626953125,
+            1282.794677734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e02796d50>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9523532390594482,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208218",
+      "coordinates": {
+        "points": [
+          [
+            877.8801879882812,
+            1703.0780029296875
+          ],
+          [
+            877.8801879882812,
+            1789.124755859375
+          ],
+          [
+            1541.0950927734375,
+            1789.124755859375
+          ],
+          [
+            1541.0950927734375,
+            1703.0780029296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f70b0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9366673827171326,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "Formula",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208431",
+      "coordinates": {
+        "points": [
+          [
+            979.5277709960938,
+            1809.3975830078125
+          ],
+          [
+            979.5277709960938,
+            1833.630615234375
+          ],
+          [
+            1537.9156494140625,
+            1833.630615234375
+          ],
+          [
+            1537.9156494140625,
+            1809.3975830078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7470>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.644995927810669,
+      "content_path": "extracted_pdfs/sample/text/formula_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "Formula",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208547",
+      "coordinates": {
+        "points": [
+          [
+            976.4136962890625,
+            1850.9921875
+          ],
+          [
+            976.4136962890625,
+            1876.397705078125
+          ],
+          [
+            1543.77099609375,
+            1876.397705078125
+          ],
+          [
+            1543.77099609375,
+            1850.9921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f64b0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6256020665168762,
+      "content_path": "extracted_pdfs/sample/text/formula_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208674",
+      "coordinates": {
+        "points": [
+          [
+            874.5071411132812,
+            1891.7578125
+          ],
+          [
+            874.5071411132812,
+            1954.3568115234375
+          ],
+          [
+            1536.352294921875,
+            1954.3568115234375
+          ],
+          [
+            1536.352294921875,
+            1891.7578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f60f0>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9193451404571533,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208789",
+      "coordinates": {
+        "points": [
+          [
+            878.1703491210938,
+            1958.739990234375
+          ],
+          [
+            878.1703491210938,
+            2021.567626953125
+          ],
+          [
+            1539.1644287109375,
+            2021.567626953125
+          ],
+          [
+            1539.1644287109375,
+            1958.739990234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f5d30>"
+      },
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9207861423492432,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.208925",
+      "coordinates": {
+        "points": [
+          [
+            160.06494140625,
+            130.96441650390625
+          ],
+          [
+            160.06494140625,
+            152.37742614746094
+          ],
+          [
+            296.5232849121094,
+            152.37742614746094
+          ],
+          [
+            296.5232849121094,
+            130.96441650390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6030>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.5820325016975403,
+      "content_path": "extracted_pdfs/sample/text/header_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209114",
+      "coordinates": {
+        "points": [
+          [
+            302.34759521484375,
+            198.2366485595703
+          ],
+          [
+            302.34759521484375,
+            801.2055053710938
+          ],
+          [
+            667.220947265625,
+            801.2055053710938
+          ],
+          [
+            667.220947265625,
+            198.2366485595703
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6750>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-3-3.jpg",
+      "detection_class_prob": 0.8198534846305847,
+      "content_path": "extracted_pdfs/sample/text/image_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209246",
+      "coordinates": {
+        "points": [
+          [
+            162.2658233642578,
+            818.8694458007812
+          ],
+          [
+            162.2658233642578,
+            1011.0064697265625
+          ],
+          [
+            828.0444946289062,
+            1011.0064697265625
+          ],
+          [
+            828.0444946289062,
+            818.8694458007812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f6d50>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9650569558143616,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209362",
+      "coordinates": {
+        "points": [
+          [
+            436.63751220703125,
+            1077.567138671875
+          ],
+          [
+            436.63751220703125,
+            1096.501953125
+          ],
+          [
+            554.8193359375,
+            1096.501953125
+          ],
+          [
+            554.8193359375,
+            1077.567138671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43530>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.849457859992981,
+      "content_path": "extracted_pdfs/sample/text/title_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209483",
+      "coordinates": {
+        "points": [
+          [
+            162.92623901367188,
+            1116.4267578125
+          ],
+          [
+            162.92623901367188,
+            1579.5849609375
+          ],
+          [
+            833.3215942382812,
+            1579.5849609375
+          ],
+          [
+            833.3215942382812,
+            1116.4267578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41df0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9491350054740906,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209603",
+      "coordinates": {
+        "points": [
+          [
+            162.91171264648438,
+            1585.046875
+          ],
+          [
+            162.91171264648438,
+            2022.740966796875
+          ],
+          [
+            830.0364990234375,
+            2022.740966796875
+          ],
+          [
+            830.0364990234375,
+            1585.046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e409b0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.951425313949585,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209712",
+      "coordinates": {
+        "points": [
+          [
+            1247.2386474609375,
+            131.813720703125
+          ],
+          [
+            1247.2386474609375,
+            153.30685424804688
+          ],
+          [
+            1545.7003173828125,
+            153.30685424804688
+          ],
+          [
+            1545.7003173828125,
+            131.813720703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7650>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.767889142036438,
+      "content_path": "extracted_pdfs/sample/text/header_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209821",
+      "coordinates": {
+        "points": [
+          [
+            875.85791015625,
+            199.15220642089844
+          ],
+          [
+            875.85791015625,
+            303.4534606933594
+          ],
+          [
+            1545.5302734375,
+            303.4534606933594
+          ],
+          [
+            1545.5302734375,
+            199.15220642089844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f63f0>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9377239942550659,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.209927",
+      "coordinates": {
+        "points": [
+          [
+            877.0940551757812,
+            311.3932189941406
+          ],
+          [
+            877.0940551757812,
+            886.7767333984375
+          ],
+          [
+            1546.8917236328125,
+            886.7767333984375
+          ],
+          [
+            1546.8917236328125,
+            311.3932189941406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e028f7350>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.941307008266449,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210033",
+      "coordinates": {
+        "points": [
+          [
+            874.8866577148438,
+            892.8921508789062
+          ],
+          [
+            874.8866577148438,
+            1303.195068359375
+          ],
+          [
+            1544.0806884765625,
+            1303.195068359375
+          ],
+          [
+            1544.0806884765625,
+            892.8921508789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e42750>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9518600106239319,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210172",
+      "coordinates": {
+        "points": [
+          [
+            1060.496337890625,
+            1359.116943359375
+          ],
+          [
+            1060.496337890625,
+            1767.0538330078125
+          ],
+          [
+            1352.6986083984375,
+            1767.0538330078125
+          ],
+          [
+            1352.6986083984375,
+            1359.116943359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43e30>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-3-4.jpg",
+      "detection_class_prob": 0.7047455906867981,
+      "content_path": "extracted_pdfs/sample/text/image_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210276",
+      "coordinates": {
+        "points": [
+          [
+            1136.602294921875,
+            1815.6754150390625
+          ],
+          [
+            1136.602294921875,
+            1833.6844482421875
+          ],
+          [
+            1339.6009521484375,
+            1833.6844482421875
+          ],
+          [
+            1339.6009521484375,
+            1815.6754150390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41250>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6464754343032837,
+      "content_path": "extracted_pdfs/sample/text/title_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210395",
+      "coordinates": {
+        "points": [
+          [
+            879.5980224609375,
+            1847.743896484375
+          ],
+          [
+            879.5980224609375,
+            2020.2291259765625
+          ],
+          [
+            1543.1968994140625,
+            2020.2291259765625
+          ],
+          [
+            1543.1968994140625,
+            1847.743896484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41370>"
+      },
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8833944201469421,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210524",
+      "coordinates": {
+        "points": [
+          [
+            156.19175720214844,
+            131.09567260742188
+          ],
+          [
+            156.19175720214844,
+            152.5941162109375
+          ],
+          [
+            417.0530700683594,
+            152.5941162109375
+          ],
+          [
+            417.0530700683594,
+            131.09567260742188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41730>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.3830070197582245,
+      "content_path": "extracted_pdfs/sample/text/header_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210615",
+      "coordinates": {
+        "points": [
+          [
+            1370.708984375,
+            132.55409240722656
+          ],
+          [
+            1370.708984375,
+            153.01919555664062
+          ],
+          [
+            1542.12109375,
+            153.01919555664062
+          ],
+          [
+            1542.12109375,
+            132.55409240722656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e40170>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8375622034072876,
+      "content_path": "extracted_pdfs/sample/text/header_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210725",
+      "coordinates": {
+        "points": [
+          [
+            235.3755645751953,
+            198.6958770751953
+          ],
+          [
+            235.3755645751953,
+            619.641845703125
+          ],
+          [
+            747.0675659179688,
+            619.641845703125
+          ],
+          [
+            747.0675659179688,
+            198.6958770751953
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e429f0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-4-5.jpg",
+      "detection_class_prob": 0.792040228843689,
+      "content_path": "extracted_pdfs/sample/text/image_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210864",
+      "coordinates": {
+        "points": [
+          [
+            266.9248352050781,
+            546.15966796875
+          ],
+          [
+            266.9248352050781,
+            568.622314453125
+          ],
+          [
+            614.40185546875,
+            568.622314453125
+          ],
+          [
+            614.40185546875,
+            546.15966796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43a70>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-4-6.jpg",
+      "detection_class_prob": 0.288228839635849,
+      "content_path": "extracted_pdfs/sample/text/image_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.210973",
+      "coordinates": {
+        "points": [
+          [
+            159.34605407714844,
+            638.0737915039062
+          ],
+          [
+            159.34605407714844,
+            897.33984375
+          ],
+          [
+            819.1699829101562,
+            897.33984375
+          ],
+          [
+            819.1699829101562,
+            638.0737915039062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e438f0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9529017806053162,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.211110",
+      "coordinates": {
+        "points": [
+          [
+            877.5255126953125,
+            198.0863494873047
+          ],
+          [
+            877.5255126953125,
+            392.7142028808594
+          ],
+          [
+            1545.6884765625,
+            392.7142028808594
+          ],
+          [
+            1545.6884765625,
+            198.0863494873047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e42990>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9488568902015686,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.211239",
+      "coordinates": {
+        "points": [
+          [
+            877.2457275390625,
+            398.8988037109375
+          ],
+          [
+            877.2457275390625,
+            676.2474365234375
+          ],
+          [
+            1544.62451171875,
+            676.2474365234375
+          ],
+          [
+            1544.62451171875,
+            398.8988037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43350>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9529436826705933,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.211506",
+      "coordinates": {
+        "points": [
+          [
+            876.2650146484375,
+            682.7727661132812
+          ],
+          [
+            876.2650146484375,
+            988.9260864257812
+          ],
+          [
+            1546.7432861328125,
+            988.9260864257812
+          ],
+          [
+            1546.7432861328125,
+            682.7727661132812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e40650>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9519761204719543,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_55.txt"
+    },
+    {
+      "element_index": 56,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.211721",
+      "coordinates": {
+        "points": [
+          [
+            159.94973754882812,
+            971.9182739257812
+          ],
+          [
+            159.94973754882812,
+            1299.6983642578125
+          ],
+          [
+            830.699462890625,
+            1299.6983642578125
+          ],
+          [
+            830.699462890625,
+            971.9182739257812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41070>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9578401446342468,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.211929",
+      "coordinates": {
+        "points": [
+          [
+            877.1248779296875,
+            994.6968994140625
+          ],
+          [
+            877.1248779296875,
+            1299.152099609375
+          ],
+          [
+            1545.772216796875,
+            1299.152099609375
+          ],
+          [
+            1545.772216796875,
+            994.6968994140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e42630>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9532096982002258,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.212569",
+      "coordinates": {
+        "points": [
+          [
+            352.8962097167969,
+            1375.343505859375
+          ],
+          [
+            352.8962097167969,
+            1852.053466796875
+          ],
+          [
+            1331.447509765625,
+            1852.053466796875
+          ],
+          [
+            1331.447509765625,
+            1375.343505859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41f70>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-4-7.jpg",
+      "detection_class_prob": 0.9088400602340698,
+      "content_path": "extracted_pdfs/sample/text/image_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.212704",
+      "coordinates": {
+        "points": [
+          [
+            952.5178833007812,
+            1858.849853515625
+          ],
+          [
+            952.5178833007812,
+            1878.56396484375
+          ],
+          [
+            1323.4322509765625,
+            1878.56396484375
+          ],
+          [
+            1323.4322509765625,
+            1858.849853515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43890>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.2671695053577423,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.212806",
+      "coordinates": {
+        "points": [
+          [
+            158.3147735595703,
+            1891.48681640625
+          ],
+          [
+            158.3147735595703,
+            2021.6318359375
+          ],
+          [
+            1546.4814453125,
+            2021.6318359375
+          ],
+          [
+            1546.4814453125,
+            1891.48681640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e437d0>"
+      },
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.914300799369812,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.212920",
+      "coordinates": {
+        "points": [
+          [
+            160.4412078857422,
+            201.2071533203125
+          ],
+          [
+            160.4412078857422,
+            720.8264770507812
+          ],
+          [
+            830.3525390625,
+            720.8264770507812
+          ],
+          [
+            830.3525390625,
+            201.2071533203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e40950>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.945017397403717,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213011",
+      "coordinates": {
+        "points": [
+          [
+            162.9366455078125,
+            727.1768798828125
+          ],
+          [
+            162.9366455078125,
+            1080.865966796875
+          ],
+          [
+            832.6483764648438,
+            1080.865966796875
+          ],
+          [
+            832.6483764648438,
+            727.1768798828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43bf0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9506686329841614,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213179",
+      "coordinates": {
+        "points": [
+          [
+            161.3285675048828,
+            1084.8345947265625
+          ],
+          [
+            161.3285675048828,
+            1357.9664306640625
+          ],
+          [
+            832.7221069335938,
+            1357.9664306640625
+          ],
+          [
+            832.7221069335938,
+            1084.8345947265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e419d0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9522996544837952,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_63.txt"
+    },
+    {
+      "element_index": 64,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213302",
+      "coordinates": {
+        "points": [
+          [
+            163.07400512695312,
+            1364.2847900390625
+          ],
+          [
+            163.07400512695312,
+            1828.71484375
+          ],
+          [
+            832.2996826171875,
+            1828.71484375
+          ],
+          [
+            832.2996826171875,
+            1364.2847900390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e41550>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9516063332557678,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213415",
+      "coordinates": {
+        "points": [
+          [
+            163.52734375,
+            1834.02978515625
+          ],
+          [
+            163.52734375,
+            2021.9854736328125
+          ],
+          [
+            829.6032104492188,
+            2021.9854736328125
+          ],
+          [
+            829.6032104492188,
+            1834.02978515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afef0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9473238587379456,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "Text",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213544",
+      "coordinates": {
+        "points": [
+          [
+            885.0,
+            205.0
+          ],
+          [
+            885.0,
+            215.0
+          ],
+          [
+            911.0,
+            215.0
+          ],
+          [
+            911.0,
+            205.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afdd0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/sample/text/text_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "Table",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213651",
+      "coordinates": {
+        "points": [
+          [
+            898.4046020507812,
+            209.49600219726562
+          ],
+          [
+            898.4046020507812,
+            1163.51513671875
+          ],
+          [
+            1466.1964111328125,
+            1163.51513671875
+          ],
+          [
+            1466.1964111328125,
+            209.49600219726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753e00e43ad0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><thead></thead><tbody><tr><td rowspan=\"20\">GQ</td><td>Gale</td><td>RAR</td><td>AAA</td><td>ALA</td><td>ARN RAXA</td><td>AKX PYO HYo tle</td><td>pro</td><td>X6PPIP</td><td>libra</td></tr><tr><td></td><td>ser thr</td><td>leu</td><td>ala</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>ser</td><td>met</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>lys thr</td><td>ser leu</td><td>glu</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>ile</td><td>gly</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>ser</td><td></td><td>ala</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>arg</td><td>ile pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>leu</td><td>his</td><td>arg</td><td>arg ala</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>tyr</td><td>asn</td><td>his</td><td>arg ser</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>leu</td><td>arg</td><td>gin</td><td>arg pro</td><td>leu</td><td></td><td>WT</td><td>Src</td></tr><tr><td></td><td>pro</td><td>ala</td><td>ser</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>arg</td><td>asp</td><td>arg pro</td><td>leu</td><td></td><td></td><td></td></tr><tr><td>pe OT</td><td>atg™</td><td>ser</td><td>“arg</td><td>“pro Leu</td><td></td><td></td><td></td><td></td></tr><tr><td>phe</td><td>val</td><td>ser</td><td></td><td>leu</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>arg</td><td>pro</td><td></td><td></td><td></td><td></td></tr><tr><td>asn</td><td>lys</td><td>gly</td><td>arg</td><td>ser leu</td><td></td><td></td><td></td><td></td></tr><tr><td>asp</td><td>arg</td><td>leu</td><td>arg</td><td>pro leu</td><td></td><td></td><td></td><td></td></tr><tr><td>leu</td><td>ala</td><td>asn</td><td>arg</td><td>glu leu</td><td></td><td></td><td></td><td></td></tr><tr><td>pro</td><td>thr</td><td>arg</td><td>arg</td><td>pro leu</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>flu</td><td>arg</td><td>arg</td><td>phe</td><td>pro</td><td>pro leu</td><td></td><td></td><td></td><td></td></tr><tr><td>ylu</td><td>arg</td><td>arg</td><td>phe</td><td>pro</td><td>pro leu</td><td></td><td></td><td></td><td></td></tr><tr><td>tlu</td><td></td><td>ile</td><td>phe</td><td></td><td>leu</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>arg</td><td></td><td></td><td>pro</td><td>pro</td><td></td><td></td><td>Sre</td><td>D99N mutant</td></tr><tr><td></td><td>ala</td><td>pro</td><td>thr</td><td>tyr</td><td>pro leu</td><td>(6x)</td><td></td><td></td><td></td></tr><tr><td>ylu</td><td>tyr</td><td>pro</td><td>arg</td><td>ile</td><td>pro leu</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>pro</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>pro</td><td>tyr</td><td>pro pro</td><td>(4x)</td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>pro</td><td>tyr</td><td>pro pro</td><td>(2x)</td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td></td><td>his</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>pro</td><td></td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>pro</td><td>tyr</td><td>his pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>ser ala</td><td>tyr</td><td>pro pro</td><td></td><td>WT</td><td>Abl</td><td></td></tr><tr><td></td><td>pro pro</td><td>pro pro</td><td>ala</td><td>tyr tyr</td><td>pro pro pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>pro</td><td>asn</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>ser</td><td>tyr</td><td>ser pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td>(2x)</td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>his</td><td>tyr</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td>(15x)</td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td>(3x}</td><td>Abl</td><td></td><td>T98D mutant</td></tr><tr><td></td><td>ala</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>ser</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>asp</td><td>tyr</td><td>pro pro</td><td>(2x)</td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>gly</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>asn</td><td>tyr</td><td>pro pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>asp</td><td>tyr</td><td>pro pro</td><td></td><td>Abl</td><td></td><td>F91lY/T98D x</td></tr><tr><td></td><td>pro</td><td>pro</td><td>asn</td><td>arg</td><td>pro ala</td><td>(4x)</td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>asn</td><td>arg</td><td>pro ala</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ala</td><td>pro</td><td>arg</td><td>arg</td><td>ser pro</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>pro</td><td>pro</td><td>glu</td><td>thr</td><td>pro ala</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ser</td><td>his</td><td>arg</td><td>ile</td><td>phe asp</td><td></td><td></td><td></td><td></td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/sample/images/table-5-1.jpg",
+      "detection_class_prob": 0.4617418050765991,
+      "content_path": "extracted_pdfs/sample/text/table_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "Text",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213781",
+      "coordinates": {
+        "points": [
+          [
+            863.0,
+            529.0
+          ],
+          [
+            863.0,
+            607.0
+          ],
+          [
+            891.0,
+            607.0
+          ],
+          [
+            891.0,
+            529.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af770>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/sample/text/text_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "Text",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213873",
+      "coordinates": {
+        "points": [
+          [
+            1458.0,
+            1034.0
+          ],
+          [
+            1458.0,
+            1043.0
+          ],
+          [
+            1513.0,
+            1043.0
+          ],
+          [
+            1513.0,
+            1034.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd6d0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "content_path": "extracted_pdfs/sample/text/text_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.213980",
+      "coordinates": {
+        "points": [
+          [
+            877.0750732421875,
+            1390.4163818359375
+          ],
+          [
+            877.0750732421875,
+            1634.2369384765625
+          ],
+          [
+            1547.1888427734375,
+            1634.2369384765625
+          ],
+          [
+            1547.1888427734375,
+            1390.4163818359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5af9b0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.952276885509491,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214107",
+      "coordinates": {
+        "points": [
+          [
+            877.1010131835938,
+            1639.0943603515625
+          ],
+          [
+            877.1010131835938,
+            1967.00439453125
+          ],
+          [
+            1546.7274169921875,
+            1967.00439453125
+          ],
+          [
+            1546.7274169921875,
+            1639.0943603515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5afc50>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9554337859153748,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_71.txt"
+    },
+    {
+      "element_index": 72,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214244",
+      "coordinates": {
+        "points": [
+          [
+            871.64697265625,
+            1972.27978515625
+          ],
+          [
+            871.64697265625,
+            2022.6697998046875
+          ],
+          [
+            1542.96630859375,
+            2022.6697998046875
+          ],
+          [
+            1542.96630859375,
+            1972.27978515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753dfc5affb0>"
+      },
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9224127531051636,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214366",
+      "coordinates": {
+        "points": [
+          [
+            156.1619415283203,
+            131.62596130371094
+          ],
+          [
+            156.1619415283203,
+            152.78558349609375
+          ],
+          [
+            416.5868835449219,
+            152.78558349609375
+          ],
+          [
+            416.5868835449219,
+            131.62596130371094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd130>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6611008048057556,
+      "content_path": "extracted_pdfs/sample/text/header_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214497",
+      "coordinates": {
+        "points": [
+          [
+            294.13531494140625,
+            201.15518188476562
+          ],
+          [
+            294.13531494140625,
+            220.3733367919922
+          ],
+          [
+            691.8673095703125,
+            220.3733367919922
+          ],
+          [
+            691.8673095703125,
+            201.15518188476562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dccad0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6929429173469543,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_74.txt"
+    },
+    {
+      "element_index": 75,
+      "element_type": "Table",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214595",
+      "coordinates": {
+        "points": [
+          [
+            161.35592651367188,
+            233.71249389648438
+          ],
+          [
+            161.35592651367188,
+            429.7760314941406
+          ],
+          [
+            828.03076171875,
+            429.7760314941406
+          ],
+          [
+            828.03076171875,
+            233.71249389648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcee70>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "text_as_html": "<table><thead><tr><th rowspan=\"2\">Peptide</th><th colspan=\"5\">Binding affinity (uM); mean + SD)</th></tr><tr><th>Sre</th><th>D99N</th><th>Abl</th><th>—-F9LY/T98D_—-</th><th>T98D</th></tr></thead><tbody><tr><td>RPL</td><td>114404</td><td>4174121</td><td>UTD</td><td>UTD</td><td>UTD</td></tr><tr><td>RPP</td><td>UTD*</td><td>UTD</td><td>51+2</td><td>59+3</td><td>119+6</td></tr><tr><td>YPL</td><td>= 89+11</td><td>7747</td><td>UTD</td><td>UTD</td><td>UTD</td></tr><tr><td>YPP</td><td>UTD</td><td>UTD</td><td>6+0.1</td><td>74 + 16</td><td>95 +11</td></tr></tbody></table>",
+      "image_path": "extracted_pdfs/sample/images/table-6-2.jpg",
+      "detection_class_prob": 0.9202367663383484,
+      "content_path": "extracted_pdfs/sample/text/table_75.txt"
+    },
+    {
+      "element_index": 76,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214756",
+      "coordinates": {
+        "points": [
+          [
+            176.39039611816406,
+            442.96209716796875
+          ],
+          [
+            176.39039611816406,
+            461.18194580078125
+          ],
+          [
+            422.40338134765625,
+            461.18194580078125
+          ],
+          [
+            422.40338134765625,
+            442.96209716796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf290>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.44672977924346924,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_76.txt"
+    },
+    {
+      "element_index": 77,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214869",
+      "coordinates": {
+        "points": [
+          [
+            163.1623992919922,
+            528.6130981445312
+          ],
+          [
+            163.1623992919922,
+            1268.45751953125
+          ],
+          [
+            830.585693359375,
+            1268.45751953125
+          ],
+          [
+            830.585693359375,
+            528.6130981445312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc710>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9459735751152039,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_77.txt"
+    },
+    {
+      "element_index": 78,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.214994",
+      "coordinates": {
+        "points": [
+          [
+            161.95335388183594,
+            1275.5411376953125
+          ],
+          [
+            161.95335388183594,
+            1875.5762939453125
+          ],
+          [
+            832.758056640625,
+            1875.5762939453125
+          ],
+          [
+            832.758056640625,
+            1275.5411376953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcdfd0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9482519030570984,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215098",
+      "coordinates": {
+        "points": [
+          [
+            416.013671875,
+            1923.1654052734375
+          ],
+          [
+            416.013671875,
+            1942.40087890625
+          ],
+          [
+            574.0274047851562,
+            1942.40087890625
+          ],
+          [
+            574.0274047851562,
+            1923.1654052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcedb0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8595736026763916,
+      "content_path": "extracted_pdfs/sample/text/title_79.txt"
+    },
+    {
+      "element_index": 80,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215209",
+      "coordinates": {
+        "points": [
+          [
+            163.1173095703125,
+            1973.56591796875
+          ],
+          [
+            163.1173095703125,
+            2021.8984375
+          ],
+          [
+            827.2557373046875,
+            2021.8984375
+          ],
+          [
+            827.2557373046875,
+            1973.56591796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd250>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.671891450881958,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215402",
+      "coordinates": {
+        "points": [
+          [
+            1370.5338134765625,
+            132.21951293945312
+          ],
+          [
+            1370.5338134765625,
+            153.1316680908203
+          ],
+          [
+            1542.08544921875,
+            153.1316680908203
+          ],
+          [
+            1542.08544921875,
+            132.21951293945312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf470>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7637099623680115,
+      "content_path": "extracted_pdfs/sample/text/header_81.txt"
+    },
+    {
+      "element_index": 82,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215519",
+      "coordinates": {
+        "points": [
+          [
+            876.5299682617188,
+            198.87156677246094
+          ],
+          [
+            876.5299682617188,
+            415.80615234375
+          ],
+          [
+            1545.072998046875,
+            415.80615234375
+          ],
+          [
+            1545.072998046875,
+            198.87156677246094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce870>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9539501070976257,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215599",
+      "coordinates": {
+        "points": [
+          [
+            877.2158813476562,
+            421.2251281738281
+          ],
+          [
+            877.2158813476562,
+            666.5317993164062
+          ],
+          [
+            1544.527099609375,
+            666.5317993164062
+          ],
+          [
+            1544.527099609375,
+            421.2251281738281
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf950>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9508068561553955,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215688",
+      "coordinates": {
+        "points": [
+          [
+            876.0916748046875,
+            671.646240234375
+          ],
+          [
+            876.0916748046875,
+            1216.0174560546875
+          ],
+          [
+            1546.0941162109375,
+            1216.0174560546875
+          ],
+          [
+            1546.0941162109375,
+            671.646240234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc350>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9463807940483093,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215795",
+      "coordinates": {
+        "points": [
+          [
+            876.25,
+            1223.7791748046875
+          ],
+          [
+            876.25,
+            1358.0467529296875
+          ],
+          [
+            1540.353271484375,
+            1358.0467529296875
+          ],
+          [
+            1540.353271484375,
+            1223.7791748046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd910>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9375734329223633,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "Image",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.215929",
+      "coordinates": {
+        "points": [
+          [
+            948.227294921875,
+            1451.6395263671875
+          ],
+          [
+            948.227294921875,
+            1738.1396484375
+          ],
+          [
+            1457.7979736328125,
+            1738.1396484375
+          ],
+          [
+            1457.7979736328125,
+            1451.6395263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf110>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "image_path": "extracted_pdfs/sample/images/figure-6-8.jpg",
+      "detection_class_prob": 0.8603144884109497,
+      "content_path": "extracted_pdfs/sample/text/image_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216064",
+      "coordinates": {
+        "points": [
+          [
+            1018.42724609375,
+            1796.1011962890625
+          ],
+          [
+            1018.42724609375,
+            1813.435546875
+          ],
+          [
+            1444.6383056640625,
+            1813.435546875
+          ],
+          [
+            1444.6383056640625,
+            1796.1011962890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dccd70>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.49783584475517273,
+      "content_path": "extracted_pdfs/sample/text/title_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "FigureCaption",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216183",
+      "coordinates": {
+        "points": [
+          [
+            874.1515502929688,
+            1828.80078125
+          ],
+          [
+            874.1515502929688,
+            2021.587158203125
+          ],
+          [
+            1537.030029296875,
+            2021.587158203125
+          ],
+          [
+            1537.030029296875,
+            1828.80078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcdaf0>"
+      },
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.945979654788971,
+      "content_path": "extracted_pdfs/sample/text/figurecaption_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216283",
+      "coordinates": {
+        "points": [
+          [
+            161.1192626953125,
+            130.7902374267578
+          ],
+          [
+            161.1192626953125,
+            153.47491455078125
+          ],
+          [
+            295.6093444824219,
+            153.47491455078125
+          ],
+          [
+            295.6093444824219,
+            130.7902374267578
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc470>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6890900135040283,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_89.txt"
+    },
+    {
+      "element_index": 90,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216388",
+      "coordinates": {
+        "points": [
+          [
+            163.53359985351562,
+            197.44061279296875
+          ],
+          [
+            163.53359985351562,
+            250.3910675048828
+          ],
+          [
+            825.2031860351562,
+            250.3910675048828
+          ],
+          [
+            825.2031860351562,
+            197.44061279296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd370>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9150298833847046,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "Formula",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216510",
+      "coordinates": {
+        "points": [
+          [
+            193.92483520507812,
+            272.3307189941406
+          ],
+          [
+            193.92483520507812,
+            355.3195495605469
+          ],
+          [
+            794.317138671875,
+            355.3195495605469
+          ],
+          [
+            794.317138671875,
+            272.3307189941406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dceab0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.4822876453399658,
+      "content_path": "extracted_pdfs/sample/text/formula_91.txt"
+    },
+    {
+      "element_index": 92,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216630",
+      "coordinates": {
+        "points": [
+          [
+            163.26014709472656,
+            373.2862243652344
+          ],
+          [
+            163.26014709472656,
+            482.2364807128906
+          ],
+          [
+            829.5979614257812,
+            482.2364807128906
+          ],
+          [
+            829.5979614257812,
+            373.2862243652344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dccf50>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9354561567306519,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_92.txt"
+    },
+    {
+      "element_index": 93,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216775",
+      "coordinates": {
+        "points": [
+          [
+            160.98385620117188,
+            487.6862487792969
+          ],
+          [
+            160.98385620117188,
+            851.5474243164062
+          ],
+          [
+            832.0084838867188,
+            851.5474243164062
+          ],
+          [
+            832.0084838867188,
+            487.6862487792969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce090>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9535939693450928,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_93.txt"
+    },
+    {
+      "element_index": 94,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.216887",
+      "coordinates": {
+        "points": [
+          [
+            162.56903076171875,
+            858.5326538085938
+          ],
+          [
+            162.56903076171875,
+            1330.5848388671875
+          ],
+          [
+            832.9705810546875,
+            1330.5848388671875
+          ],
+          [
+            832.9705810546875,
+            858.5326538085938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcdb50>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9482100009918213,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_94.txt"
+    },
+    {
+      "element_index": 95,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217054",
+      "coordinates": {
+        "points": [
+          [
+            162.49205017089844,
+            1335.245361328125
+          ],
+          [
+            162.49205017089844,
+            1579.91796875
+          ],
+          [
+            832.2994384765625,
+            1579.91796875
+          ],
+          [
+            832.2994384765625,
+            1335.245361328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf3b0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9511629939079285,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_95.txt"
+    },
+    {
+      "element_index": 96,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217154",
+      "coordinates": {
+        "points": [
+          [
+            163.5131378173828,
+            1583.395263671875
+          ],
+          [
+            163.5131378173828,
+            1744.982177734375
+          ],
+          [
+            830.0950317382812,
+            1744.982177734375
+          ],
+          [
+            830.0950317382812,
+            1583.395263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf2f0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.951612114906311,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_96.txt"
+    },
+    {
+      "element_index": 97,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217281",
+      "coordinates": {
+        "points": [
+          [
+            164.70863342285156,
+            1749.890869140625
+          ],
+          [
+            164.70863342285156,
+            2023.20166015625
+          ],
+          [
+            830.0270385742188,
+            2023.20166015625
+          ],
+          [
+            830.0270385742188,
+            1749.890869140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcfbf0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9505746960639954,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_97.txt"
+    },
+    {
+      "element_index": 98,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217401",
+      "coordinates": {
+        "points": [
+          [
+            1247.341796875,
+            132.3136444091797
+          ],
+          [
+            1247.341796875,
+            153.17213439941406
+          ],
+          [
+            1546.0474853515625,
+            153.17213439941406
+          ],
+          [
+            1546.0474853515625,
+            132.3136444091797
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce630>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8189813494682312,
+      "content_path": "extracted_pdfs/sample/text/header_98.txt"
+    },
+    {
+      "element_index": 99,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217493",
+      "coordinates": {
+        "points": [
+          [
+            876.8243408203125,
+            199.03456115722656
+          ],
+          [
+            876.8243408203125,
+            361.4076232910156
+          ],
+          [
+            1545.319580078125,
+            361.4076232910156
+          ],
+          [
+            1545.319580078125,
+            199.03456115722656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce510>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9392103552818298,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_99.txt"
+    },
+    {
+      "element_index": 100,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217588",
+      "coordinates": {
+        "points": [
+          [
+            876.6126098632812,
+            366.9743347167969
+          ],
+          [
+            876.6126098632812,
+            748.3727416992188
+          ],
+          [
+            1548.436279296875,
+            748.3727416992188
+          ],
+          [
+            1548.436279296875,
+            366.9743347167969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcec90>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9520528316497803,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_100.txt"
+    },
+    {
+      "element_index": 101,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217707",
+      "coordinates": {
+        "points": [
+          [
+            877.4655151367188,
+            753.1842651367188
+          ],
+          [
+            877.4655151367188,
+            1053.576904296875
+          ],
+          [
+            1548.619384765625,
+            1053.576904296875
+          ],
+          [
+            1548.619384765625,
+            753.1842651367188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dceff0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9530705809593201,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_101.txt"
+    },
+    {
+      "element_index": 102,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217842",
+      "coordinates": {
+        "points": [
+          [
+            877.7012939453125,
+            1060.2708740234375
+          ],
+          [
+            877.7012939453125,
+            1661.1505126953125
+          ],
+          [
+            1547.9691162109375,
+            1661.1505126953125
+          ],
+          [
+            1547.9691162109375,
+            1060.2708740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc5f0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9472136497497559,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_102.txt"
+    },
+    {
+      "element_index": 103,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.217949",
+      "coordinates": {
+        "points": [
+          [
+            877.5711669921875,
+            1667.16357421875
+          ],
+          [
+            877.5711669921875,
+            2022.4586181640625
+          ],
+          [
+            1545.405029296875,
+            2022.4586181640625
+          ],
+          [
+            1545.405029296875,
+            1667.16357421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcffb0>"
+      },
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9532758593559265,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_103.txt"
+    },
+    {
+      "element_index": 104,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218052",
+      "coordinates": {
+        "points": [
+          [
+            158.75747680664062,
+            130.24766540527344
+          ],
+          [
+            158.75747680664062,
+            153.4320068359375
+          ],
+          [
+            415.9185485839844,
+            153.4320068359375
+          ],
+          [
+            415.9185485839844,
+            130.24766540527344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc830>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.6067773699760437,
+      "content_path": "extracted_pdfs/sample/text/title_104.txt"
+    },
+    {
+      "element_index": 105,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218156",
+      "coordinates": {
+        "points": [
+          [
+            162.7668914794922,
+            198.89651489257812
+          ],
+          [
+            162.7668914794922,
+            277.2234191894531
+          ],
+          [
+            828.2185668945312,
+            277.2234191894531
+          ],
+          [
+            828.2185668945312,
+            198.89651489257812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce4b0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9303688406944275,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_105.txt"
+    },
+    {
+      "element_index": 106,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218315",
+      "coordinates": {
+        "points": [
+          [
+            163.0443878173828,
+            282.8153076171875
+          ],
+          [
+            163.0443878173828,
+            415.3943786621094
+          ],
+          [
+            831.505615234375,
+            415.3943786621094
+          ],
+          [
+            831.505615234375,
+            282.8153076171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcce90>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9453397393226624,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_106.txt"
+    },
+    {
+      "element_index": 107,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218454",
+      "coordinates": {
+        "points": [
+          [
+            163.85220336914062,
+            421.1684875488281
+          ],
+          [
+            163.85220336914062,
+            609.4589233398438
+          ],
+          [
+            833.290771484375,
+            609.4589233398438
+          ],
+          [
+            833.290771484375,
+            421.1684875488281
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcca70>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9510579705238342,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_107.txt"
+    },
+    {
+      "element_index": 108,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218563",
+      "coordinates": {
+        "points": [
+          [
+            371.19366455078125,
+            653.8718872070312
+          ],
+          [
+            371.19366455078125,
+            672.188720703125
+          ],
+          [
+            618.6132202148438,
+            672.188720703125
+          ],
+          [
+            618.6132202148438,
+            653.8718872070312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcfd70>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8877941966056824,
+      "content_path": "extracted_pdfs/sample/text/title_108.txt"
+    },
+    {
+      "element_index": 109,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218689",
+      "coordinates": {
+        "points": [
+          [
+            161.9669647216797,
+            694.8206787109375
+          ],
+          [
+            161.9669647216797,
+            839.3700561523438
+          ],
+          [
+            829.8673095703125,
+            839.3700561523438
+          ],
+          [
+            829.8673095703125,
+            694.8206787109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc8f0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9368342161178589,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_109.txt"
+    },
+    {
+      "element_index": 110,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218838",
+      "coordinates": {
+        "points": [
+          [
+            157.29098510742188,
+            844.1964721679688
+          ],
+          [
+            157.29098510742188,
+            887.5527954101562
+          ],
+          [
+            831.644775390625,
+            887.5527954101562
+          ],
+          [
+            831.644775390625,
+            844.1964721679688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf9b0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9095430374145508,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_110.txt"
+    },
+    {
+      "element_index": 111,
+      "element_type": "Title",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.218955",
+      "coordinates": {
+        "points": [
+          [
+            427.2391662597656,
+            922.6499633789062
+          ],
+          [
+            427.2391662597656,
+            939.892822265625
+          ],
+          [
+            563.9608154296875,
+            939.892822265625
+          ],
+          [
+            563.9608154296875,
+            922.6499633789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcda30>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.8716588020324707,
+      "content_path": "extracted_pdfs/sample/text/title_111.txt"
+    },
+    {
+      "element_index": 112,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219044",
+      "coordinates": {
+        "points": [
+          [
+            169.86915588378906,
+            952.7078247070312
+          ],
+          [
+            169.86915588378906,
+            1037.728759765625
+          ],
+          [
+            833.82861328125,
+            1037.728759765625
+          ],
+          [
+            833.82861328125,
+            952.7078247070312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd0d0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9171491861343384,
+      "content_path": "extracted_pdfs/sample/text/listitem_112.txt"
+    },
+    {
+      "element_index": 113,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219150",
+      "coordinates": {
+        "points": [
+          [
+            171.2233123779297,
+            1041.769287109375
+          ],
+          [
+            171.2233123779297,
+            1104.9140625
+          ],
+          [
+            835.2015380859375,
+            1104.9140625
+          ],
+          [
+            835.2015380859375,
+            1041.769287109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcfe30>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.927003800868988,
+      "content_path": "extracted_pdfs/sample/text/listitem_113.txt"
+    },
+    {
+      "element_index": 114,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219265",
+      "coordinates": {
+        "points": [
+          [
+            173.01731872558594,
+            1109.362060546875
+          ],
+          [
+            173.01731872558594,
+            1169.13330078125
+          ],
+          [
+            836.8413696289062,
+            1169.13330078125
+          ],
+          [
+            836.8413696289062,
+            1109.362060546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce3f0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9290542602539062,
+      "content_path": "extracted_pdfs/sample/text/listitem_114.txt"
+    },
+    {
+      "element_index": 115,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219402",
+      "coordinates": {
+        "points": [
+          [
+            173.09246826171875,
+            1174.008544921875
+          ],
+          [
+            173.09246826171875,
+            1216.03857421875
+          ],
+          [
+            824.9490356445312,
+            1216.03857421875
+          ],
+          [
+            824.9490356445312,
+            1174.008544921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd970>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9084895253181458,
+      "content_path": "extracted_pdfs/sample/text/listitem_115.txt"
+    },
+    {
+      "element_index": 116,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219536",
+      "coordinates": {
+        "points": [
+          [
+            174.6784210205078,
+            1219.552490234375
+          ],
+          [
+            174.6784210205078,
+            1303.88427734375
+          ],
+          [
+            831.7863159179688,
+            1303.88427734375
+          ],
+          [
+            831.7863159179688,
+            1219.552490234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcdd30>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.933942437171936,
+      "content_path": "extracted_pdfs/sample/text/listitem_116.txt"
+    },
+    {
+      "element_index": 117,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219655",
+      "coordinates": {
+        "points": [
+          [
+            172.26202392578125,
+            1307.728271484375
+          ],
+          [
+            172.26202392578125,
+            1371.0411376953125
+          ],
+          [
+            834.507080078125,
+            1371.0411376953125
+          ],
+          [
+            834.507080078125,
+            1307.728271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce150>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9302819967269897,
+      "content_path": "extracted_pdfs/sample/text/listitem_117.txt"
+    },
+    {
+      "element_index": 118,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219768",
+      "coordinates": {
+        "points": [
+          [
+            177.31500244140625,
+            1374.8885498046875
+          ],
+          [
+            177.31500244140625,
+            1414.7928466796875
+          ],
+          [
+            828.7449340820312,
+            1414.7928466796875
+          ],
+          [
+            828.7449340820312,
+            1374.8885498046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc3b0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9043412208557129,
+      "content_path": "extracted_pdfs/sample/text/listitem_118.txt"
+    },
+    {
+      "element_index": 119,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.219908",
+      "coordinates": {
+        "points": [
+          [
+            172.50904846191406,
+            1418.370361328125
+          ],
+          [
+            172.50904846191406,
+            1459.63671875
+          ],
+          [
+            830.5233154296875,
+            1459.63671875
+          ],
+          [
+            830.5233154296875,
+            1418.370361328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcddf0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9077757000923157,
+      "content_path": "extracted_pdfs/sample/text/listitem_119.txt"
+    },
+    {
+      "element_index": 120,
+      "element_type": "Header",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220018",
+      "coordinates": {
+        "points": [
+          [
+            1371.2034912109375,
+            132.95166015625
+          ],
+          [
+            1371.2034912109375,
+            152.96444702148438
+          ],
+          [
+            1542.6290283203125,
+            152.96444702148438
+          ],
+          [
+            1542.6290283203125,
+            132.95166015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce0f0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7172210216522217,
+      "content_path": "extracted_pdfs/sample/text/header_120.txt"
+    },
+    {
+      "element_index": 121,
+      "element_type": "NarrativeText",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220164",
+      "coordinates": {
+        "points": [
+          [
+            907.1281127929688,
+            199.60116577148438
+          ],
+          [
+            907.1281127929688,
+            218.7408905029297
+          ],
+          [
+            1388.2967529296875,
+            218.7408905029297
+          ],
+          [
+            1388.2967529296875,
+            199.60116577148438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dccbf0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.7747838497161865,
+      "content_path": "extracted_pdfs/sample/text/narrativetext_121.txt"
+    },
+    {
+      "element_index": 122,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220278",
+      "coordinates": {
+        "points": [
+          [
+            885.7559204101562,
+            223.0908660888672
+          ],
+          [
+            885.7559204101562,
+            263.03759765625
+          ],
+          [
+            1547.6075439453125,
+            263.03759765625
+          ],
+          [
+            1547.6075439453125,
+            223.0908660888672
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcecf0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9048172831535339,
+      "content_path": "extracted_pdfs/sample/text/listitem_122.txt"
+    },
+    {
+      "element_index": 123,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220403",
+      "coordinates": {
+        "points": [
+          [
+            880.1746215820312,
+            266.74468994140625
+          ],
+          [
+            880.1746215820312,
+            329.717529296875
+          ],
+          [
+            1547.1021728515625,
+            329.717529296875
+          ],
+          [
+            1547.1021728515625,
+            266.74468994140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcdc10>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9281063675880432,
+      "content_path": "extracted_pdfs/sample/text/listitem_123.txt"
+    },
+    {
+      "element_index": 124,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220504",
+      "coordinates": {
+        "points": [
+          [
+            881.2092895507812,
+            333.5006103515625
+          ],
+          [
+            881.2092895507812,
+            418.32684326171875
+          ],
+          [
+            1545.623046875,
+            418.32684326171875
+          ],
+          [
+            1545.623046875,
+            333.5006103515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc9b0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9377015829086304,
+      "content_path": "extracted_pdfs/sample/text/listitem_124.txt"
+    },
+    {
+      "element_index": 125,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220628",
+      "coordinates": {
+        "points": [
+          [
+            880.1420288085938,
+            421.9659118652344
+          ],
+          [
+            880.1420288085938,
+            485.0304870605469
+          ],
+          [
+            1547.8349609375,
+            485.0304870605469
+          ],
+          [
+            1547.8349609375,
+            421.9659118652344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf410>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9280150532722473,
+      "content_path": "extracted_pdfs/sample/text/listitem_125.txt"
+    },
+    {
+      "element_index": 126,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220737",
+      "coordinates": {
+        "points": [
+          [
+            880.8018798828125,
+            488.42547607421875
+          ],
+          [
+            880.8018798828125,
+            529.3753662109375
+          ],
+          [
+            1540.857177734375,
+            529.3753662109375
+          ],
+          [
+            1540.857177734375,
+            488.42547607421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc7d0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9130099415779114,
+      "content_path": "extracted_pdfs/sample/text/listitem_126.txt"
+    },
+    {
+      "element_index": 127,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.220885",
+      "coordinates": {
+        "points": [
+          [
+            882.2664794921875,
+            531.7403564453125
+          ],
+          [
+            882.2664794921875,
+            574.0372314453125
+          ],
+          [
+            1548.29736328125,
+            574.0372314453125
+          ],
+          [
+            1548.29736328125,
+            531.7403564453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc170>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9019216895103455,
+      "content_path": "extracted_pdfs/sample/text/listitem_127.txt"
+    },
+    {
+      "element_index": 128,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221001",
+      "coordinates": {
+        "points": [
+          [
+            880.707763671875,
+            576.9759521484375
+          ],
+          [
+            880.707763671875,
+            617.85595703125
+          ],
+          [
+            1545.6397705078125,
+            617.85595703125
+          ],
+          [
+            1545.6397705078125,
+            576.9759521484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce330>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9122712016105652,
+      "content_path": "extracted_pdfs/sample/text/listitem_128.txt"
+    },
+    {
+      "element_index": 129,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221114",
+      "coordinates": {
+        "points": [
+          [
+            883.2649536132812,
+            621.8857421875
+          ],
+          [
+            883.2649536132812,
+            705.3468017578125
+          ],
+          [
+            1545.33740234375,
+            705.3468017578125
+          ],
+          [
+            1545.33740234375,
+            621.8857421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf890>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9357708692550659,
+      "content_path": "extracted_pdfs/sample/text/listitem_129.txt"
+    },
+    {
+      "element_index": 130,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221230",
+      "coordinates": {
+        "points": [
+          [
+            882.154052734375,
+            709.39111328125
+          ],
+          [
+            882.154052734375,
+            772.7345581054688
+          ],
+          [
+            1542.769287109375,
+            772.7345581054688
+          ],
+          [
+            1542.769287109375,
+            709.39111328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce930>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9270095825195312,
+      "content_path": "extracted_pdfs/sample/text/listitem_130.txt"
+    },
+    {
+      "element_index": 131,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221349",
+      "coordinates": {
+        "points": [
+          [
+            880.764892578125,
+            775.9095458984375
+          ],
+          [
+            880.764892578125,
+            839.101806640625
+          ],
+          [
+            1547.1951904296875,
+            839.101806640625
+          ],
+          [
+            1547.1951904296875,
+            775.9095458984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dce210>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.924342155456543,
+      "content_path": "extracted_pdfs/sample/text/listitem_131.txt"
+    },
+    {
+      "element_index": 132,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221438",
+      "coordinates": {
+        "points": [
+          [
+            879.9825439453125,
+            842.815673828125
+          ],
+          [
+            879.9825439453125,
+            903.9332885742188
+          ],
+          [
+            1546.192626953125,
+            903.9332885742188
+          ],
+          [
+            1546.192626953125,
+            842.815673828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc650>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9231702089309692,
+      "content_path": "extracted_pdfs/sample/text/listitem_132.txt"
+    },
+    {
+      "element_index": 133,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221537",
+      "coordinates": {
+        "points": [
+          [
+            879.9970092773438,
+            908.8545532226562
+          ],
+          [
+            879.9970092773438,
+            970.8571166992188
+          ],
+          [
+            1547.0404052734375,
+            970.8571166992188
+          ],
+          [
+            1547.0404052734375,
+            908.8545532226562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcfb90>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9298899173736572,
+      "content_path": "extracted_pdfs/sample/text/listitem_133.txt"
+    },
+    {
+      "element_index": 134,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221656",
+      "coordinates": {
+        "points": [
+          [
+            881.6759033203125,
+            975.7359008789062
+          ],
+          [
+            881.6759033203125,
+            1038.4000244140625
+          ],
+          [
+            1546.5003662109375,
+            1038.4000244140625
+          ],
+          [
+            1546.5003662109375,
+            975.7359008789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcf710>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9326664805412292,
+      "content_path": "extracted_pdfs/sample/text/listitem_134.txt"
+    },
+    {
+      "element_index": 135,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221801",
+      "coordinates": {
+        "points": [
+          [
+            881.4650268554688,
+            1041.3162841796875
+          ],
+          [
+            881.4650268554688,
+            1104.759765625
+          ],
+          [
+            1547.7745361328125,
+            1104.759765625
+          ],
+          [
+            1547.7745361328125,
+            1041.3162841796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd010>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9296610355377197,
+      "content_path": "extracted_pdfs/sample/text/listitem_135.txt"
+    },
+    {
+      "element_index": 136,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.221898",
+      "coordinates": {
+        "points": [
+          [
+            878.33642578125,
+            1108.631591796875
+          ],
+          [
+            878.33642578125,
+            1171.06103515625
+          ],
+          [
+            1546.7760009765625,
+            1171.06103515625
+          ],
+          [
+            1546.7760009765625,
+            1108.631591796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd4f0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9314422607421875,
+      "content_path": "extracted_pdfs/sample/text/listitem_136.txt"
+    },
+    {
+      "element_index": 137,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.222029",
+      "coordinates": {
+        "points": [
+          [
+            876.0162963867188,
+            1174.08740234375
+          ],
+          [
+            876.0162963867188,
+            1260.28857421875
+          ],
+          [
+            1549.632568359375,
+            1260.28857421875
+          ],
+          [
+            1549.632568359375,
+            1174.08740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcd9d0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9358815550804138,
+      "content_path": "extracted_pdfs/sample/text/listitem_137.txt"
+    },
+    {
+      "element_index": 138,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.222146",
+      "coordinates": {
+        "points": [
+          [
+            879.86962890625,
+            1263.5029296875
+          ],
+          [
+            879.86962890625,
+            1326.6663818359375
+          ],
+          [
+            1546.5179443359375,
+            1326.6663818359375
+          ],
+          [
+            1546.5179443359375,
+            1263.5029296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcee10>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.927860677242279,
+      "content_path": "extracted_pdfs/sample/text/listitem_138.txt"
+    },
+    {
+      "element_index": 139,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.222239",
+      "coordinates": {
+        "points": [
+          [
+            881.59326171875,
+            1331.0067138671875
+          ],
+          [
+            881.59326171875,
+            1392.9254150390625
+          ],
+          [
+            1547.5552978515625,
+            1392.9254150390625
+          ],
+          [
+            1547.5552978515625,
+            1331.0067138671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcc050>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9286699295043945,
+      "content_path": "extracted_pdfs/sample/text/listitem_139.txt"
+    },
+    {
+      "element_index": 140,
+      "element_type": "ListItem",
+      "filename": "sample.pdf",
+      "extraction_date": "2026-11-03T15:16:09.222322",
+      "coordinates": {
+        "points": [
+          [
+            880.2377319335938,
+            1396.240966796875
+          ],
+          [
+            880.2377319335938,
+            1459.3433837890625
+          ],
+          [
+            1547.2198486328125,
+            1459.3433837890625
+          ],
+          [
+            1547.2198486328125,
+            1396.240966796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x753df8dcfcb0>"
+      },
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "links": [],
+      "detection_class_prob": 0.9304137825965881,
+      "content_path": "extracted_pdfs/sample/text/listitem_140.txt"
+    }
+  ]
+}

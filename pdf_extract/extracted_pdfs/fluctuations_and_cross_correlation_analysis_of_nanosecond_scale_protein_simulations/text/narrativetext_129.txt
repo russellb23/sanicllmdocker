@@ -1,0 +1,1 @@
+If the position vectors of two atoms i and jin the (fitted) structure at time t are rj;(t) and r;(t), respectively, the corresponding covariance matrix element, cj, is calculated as:

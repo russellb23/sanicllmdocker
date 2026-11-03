@@ -1,0 +1,1 @@
+To calculate the conformational entropy using MIST (33,34), we started with the first order in which DOFs are treated independently. From the his- togram of a given DOF, we built the normalized probability distribution function (PDF) P(a’,,) (m: DOF index, i: bin index). The first-order MIST (MIST1) entropy is as follows:

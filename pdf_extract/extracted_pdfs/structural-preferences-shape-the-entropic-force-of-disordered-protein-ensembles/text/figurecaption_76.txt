@@ -1,0 +1,1 @@
+Figure 2. Entropic force may be a widely existing IDR function mechanism in the proteome. (A) Percentage of proteins that have an IDR anywhere (left) or at the N- or C-terminal (right) in the yeast, arabidopsis, or human proteomes. (B) Distribution of the number of amino acids in the IDRs of the human proteome.

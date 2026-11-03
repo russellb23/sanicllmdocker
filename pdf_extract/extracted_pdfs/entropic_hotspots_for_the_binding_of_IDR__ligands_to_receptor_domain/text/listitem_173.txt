@@ -1,0 +1,1 @@
+34. King, B. M., N. W. Silver, and B. Tidor. 2012. Efficient calculation of molecular configurational entropies using an information theoretic approximation. J. Phys. Chem. B. 116:2891-2904.

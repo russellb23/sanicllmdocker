@@ -1,0 +1,1 @@
+The phage-display library described in Karkkainen et al., 2006 contains this collection of SH3 domains with the N- and C-terminal boundaries exactly as shown in the panel "AA sequence", but did not include the 15 clones with ID numbers shaded in blue (clones 292 - 306 in panel "Vector ID no"), which have been included in our phagemid library more recently.

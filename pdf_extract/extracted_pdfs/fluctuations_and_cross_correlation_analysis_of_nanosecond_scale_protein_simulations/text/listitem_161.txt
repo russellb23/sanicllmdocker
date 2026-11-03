@@ -1,0 +1,1 @@
+Ichiye, T. & Karplus, M. (1991). Collective motions in proteins: a covariance analysis of atomic fluctuations in molecular dynamics and normal mode simulations. Proteins: Struct. Funct. Genet. 11, 205-217.

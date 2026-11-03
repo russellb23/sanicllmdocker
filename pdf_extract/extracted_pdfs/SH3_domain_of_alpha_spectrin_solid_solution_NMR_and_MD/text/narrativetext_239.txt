@@ -1,0 +1,1 @@
+Wang, L.-P., McKiernan, K.A., Gomes, J., Beauchamp, K.A., Head-Gordon, T., Rice, J.E., Swope, W.C., Martinez, T.J., and Pande, V.S. (2017). Building a more predictive protein force field: a systematic and reproducible route to AMBER-FB15. J. Phys. Chem. B 127, 4023-4039.

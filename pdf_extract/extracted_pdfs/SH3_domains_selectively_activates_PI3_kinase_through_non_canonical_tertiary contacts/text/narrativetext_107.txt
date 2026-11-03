@@ -1,0 +1,1 @@
+We next investigated the binding of the Fyn SH3 variants to p85ASH3. Due to the limited solubility of p85ASH3, we performed 'H-'"N HSQC titrations where we titrated increasing amounts of 'N-labelled SH3 domains onto unlabelled p85ASH3 kept at a constant concentration of

@@ -1,0 +1,1 @@
+(F) Motion from solution state relaxation (covering motion faster than 4 ns only) for comparison, rep- resented as the spectral density values at zero

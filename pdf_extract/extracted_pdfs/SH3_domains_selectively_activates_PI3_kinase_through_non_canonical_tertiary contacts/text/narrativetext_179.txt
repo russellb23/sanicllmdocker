@@ -1,0 +1,1 @@
+Although certain SH3 domains have been known for decades to activate the PI3K pathway, the underlying mechanism has remained elusive. It was also unclear how these intrinsically promiscuous SH3 domains selectively acti- vate PI3K. Our findings suggest that these two questions are mechanistically linked.

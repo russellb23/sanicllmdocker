@@ -1,0 +1,1 @@
+MST 920 910 8 Kd — 16.5 uM + 3.6 Kd — 37.6 uM + 6.1 910 3 900 E 900 cs} c LC 890 890 880 880 0.01 0.1 1 10 100 0.1 1 10 100 1000 Concentration (uM) Concentration (uM) P85ASH3 50 UM vs Fyn 50nM PR15 mM vs Fyn 50 nM

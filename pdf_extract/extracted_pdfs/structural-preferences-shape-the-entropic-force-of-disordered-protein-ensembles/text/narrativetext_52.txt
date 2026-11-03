@@ -1,0 +1,1 @@
+Here, 6 is the asphericity and 4,3 are the three principal moments of the gyration tensor. The standard deviation of all of these properties was calculated based on the averages from the five independent repeats. Analysis scripts are available at the accompanying GitHub repository at https://github.com/ sukeniklab/Entropic_Force.

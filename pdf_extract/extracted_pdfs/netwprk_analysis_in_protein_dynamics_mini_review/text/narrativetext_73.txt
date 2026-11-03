@@ -1,0 +1,1 @@
+In summary, we have shown that general assumptions of network studies, such as the small-world character and the scale-free degree distribution of many real-world networks had a great impact on our understanding of both protein structure networks and protein conformational/energy net- works.

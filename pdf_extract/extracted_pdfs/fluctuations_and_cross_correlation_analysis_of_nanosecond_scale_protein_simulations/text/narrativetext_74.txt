@@ -1,0 +1,1 @@
+50 ps; 0.65 for 100 ps; and 0.69 for 200, 500 and 1000 ps.

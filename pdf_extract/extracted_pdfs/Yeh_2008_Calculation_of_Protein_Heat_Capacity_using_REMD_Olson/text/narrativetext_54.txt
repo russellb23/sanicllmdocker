@@ -1,0 +1,1 @@
+We used the weighted histogram analysis method (WHAM)*?~*> to calculate thermodynamic properties. The density of states QU, &) for a system, where U and & are the potential energy and the property of interest, respectively, is given by

@@ -1,0 +1,1 @@
+Average end-to-end distance from five repeats vs the total number of residues for a series of Gly-Ser repeats (Figures $1); sequence features correlated with the entropic force strength (Figure $2); average asphericity of GS repeats vs the number of residues in the sequence (Figure $3); and entropic force as a function of average asphericity (Figure $4) (PDF)

@@ -1,0 +1,1 @@
+phobic residues account for 29%. In contrast, PRM(H) WT has 27% charged residues and 47% hydrophobic residues. This suggests that hydrophobic interactions play a more prominent role in protein—peptide interactions in PRM(H), potentially surpassing electrostatic interactions as the dominant driving force.

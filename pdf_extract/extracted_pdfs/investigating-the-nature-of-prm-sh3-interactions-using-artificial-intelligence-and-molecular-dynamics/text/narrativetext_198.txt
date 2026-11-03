@@ -1,0 +1,1 @@
+(22) Steinegger, M.; Séding, J. MMseqs2 Enables Sensitive Protein Sequence Searching for the Analysis of Massive Data Sets. Nat. Biotechnol. 2017, 35 (11), 1026-1028.

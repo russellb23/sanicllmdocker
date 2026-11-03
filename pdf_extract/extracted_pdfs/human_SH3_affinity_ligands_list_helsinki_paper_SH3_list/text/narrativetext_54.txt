@@ -1,0 +1,1 @@
+Proteins containing more than one SH3 domain have been shaded in yellow, and SH3 domains representing splice variants of other SH3 domains in the collection in light blue

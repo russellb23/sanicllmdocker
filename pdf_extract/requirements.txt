@@ -1,0 +1,10 @@
+unstructured
+unstructured-inference
+pdf2image
+pdfminer.six 
+pypdf
+Pillow
+numpy
+pi-heif
+python-magic
+pytesseract

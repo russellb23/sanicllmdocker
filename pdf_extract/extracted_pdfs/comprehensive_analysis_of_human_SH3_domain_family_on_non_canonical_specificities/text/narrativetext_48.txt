@@ -1,1 +1,0 @@
-Assessment of Reported SH3-Ligand Complex Structures in the Context of the Specificity Map We reviewed all structures of SH3-peptide complexes deposited in the RCSB PDB in the context of the specificity map. Our anal- ysis showed that 65 of 91 deposited complex structures belong

@@ -1,1 +1,0 @@
-62. Allan, D. et al. soft-matter/trackpy: Trackpy v0.4.2. https://doi.org/10.5281/ zenodo.3492186 (2019).

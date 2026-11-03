@@ -1,1 +1,0 @@
-The Src homology-3 (SH3) domain is the most common of the modular protein interaction domains that control cell behaviour (Macias et al, 2002; Mayer & Saksela, 2004). Because SH3

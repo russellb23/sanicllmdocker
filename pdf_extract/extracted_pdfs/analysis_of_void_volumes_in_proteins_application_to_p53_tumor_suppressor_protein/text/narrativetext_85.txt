@@ -1,1 +1,0 @@
-using the, 0.5A radius void probe, were less than 275 A® in volume, suggesting that voids of this size are generally well-tolerated by most protein structures. We decided therefore only to investigate those larger-to-smaller, amino acid mutations that create voids of 275 A® or greater, ie. ones that are more likely to be destabilizing. Results are shown in Table 3.

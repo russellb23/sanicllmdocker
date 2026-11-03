@@ -1,1 +1,0 @@
-*RMSD values are shown for the 20 calculated complex structures (IRTKS SH3 343-400 and EspFy 27-40). Residues in most favored/additionally allowed/generously allowed/disallowed regions of the Ramachandran plot.

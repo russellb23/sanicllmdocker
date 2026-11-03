@@ -1,1 +1,0 @@
-Model: OneSites Chi2/DoF = 617.6 N= 1.14 + 0.308 Sites K = 8.26E3 + 2.72E3 M-1 DH = -4443 + 1816 cal/mol DS = 3.02 cal/mol/deg Kd=121.1+ 39.9uM

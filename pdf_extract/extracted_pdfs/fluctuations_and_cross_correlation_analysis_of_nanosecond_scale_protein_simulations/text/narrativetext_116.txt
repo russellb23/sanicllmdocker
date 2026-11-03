@@ -1,1 +1,0 @@
-the protein leads to spurious cross-correlations between surface atoms.

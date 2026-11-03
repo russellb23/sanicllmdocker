@@ -1,1 +1,0 @@
-To test the hypotheses that (1) the instability of p53 is a result of poor packing of the core domain and (2) further disruption of this packing is the major cause of dis-function of the protein resulting from cavity-creating mutations, we compared the total void volume of p53 (Ty, =42 °C) with the much more stable BPTI (Tm=87 °C).

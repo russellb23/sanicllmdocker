@@ -1,1 +1,0 @@
-fluctuations [RMSFs]), as shown in Figure 1A. However, with its great level of detail, it is often challenging to validate MD simula- tions by experimental data in a direct and meaningful way.

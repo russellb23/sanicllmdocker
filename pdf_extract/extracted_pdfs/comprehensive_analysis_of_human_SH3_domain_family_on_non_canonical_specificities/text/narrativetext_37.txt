@@ -1,1 +1,0 @@
-While it is clear that not all SH3 domains conform to the canon- ical specificity classes, the abundance and diversity of non-ca- nonical specificities is unknown. To address this deficiency, we used unbiased peptide-phage display (Tong et al., 2002; Toni- kian et al., 2008, 2009; Xin et al., 2013) to survey the specificity

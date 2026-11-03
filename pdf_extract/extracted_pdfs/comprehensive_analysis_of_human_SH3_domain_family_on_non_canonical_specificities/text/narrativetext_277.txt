@@ -1,1 +1,0 @@
-The atomic coordinates for ITSN1-2/5-peptide, ITSN2-2/5-peptide and SORBS2-1/3-peptide complexes reported in this paper are deposited to the Protein Data Bank under accession codes of PDB: 4IIM, 4IIO and 5VEI, respectively.

@@ -1,1 +1,0 @@
-class II ligand consensus XPPXPXR p68-P3 PPPVPRGR a ligand from peptide library (26) MMAPPLPRL

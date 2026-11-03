@@ -1,1 +1,0 @@
-C* and sidechain #C were assigned using C(CC)CONH (Grzesiek et al., 1993) and H(CC)CONH (Logan et al., 1992) experiments.

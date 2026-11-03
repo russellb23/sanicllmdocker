@@ -1,1 +1,0 @@
-The time-domain between a few picoseconds and about 500 ps is characterized for most residues by a stepwise and asynchronous increase in the

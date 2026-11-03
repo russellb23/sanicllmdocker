@@ -1,1 +1,0 @@
-PRM +/- PRM +/0 Peptide residue Peptide residue 5 9 43 1 5 9 43 MELELTAPTPPKRS MF IF I TAPTPPKRS nanE a a Peptide residue ° ODAVVIV>4

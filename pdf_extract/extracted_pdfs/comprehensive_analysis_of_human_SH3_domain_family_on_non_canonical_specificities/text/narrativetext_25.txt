@@ -1,1 +1,0 @@
-According to standard nomenclature for modular protein domain ligands (Aasland et al., 2002), peptide motifs are repre- sented by a linear string of amino acids in single-character nota- tion for positions showing binding specificity, and “x” to denote

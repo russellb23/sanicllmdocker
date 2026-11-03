@@ -1,1 +1,0 @@
-protons within residues 26-42. The structure ensemble, for res- idues 343-400 in IRTKS and residues 27-40 in EspFy, is ex- quisitely well defined with a backbone and heavy atoms rmsd of 0.32 + 0.08 A and 0.62 + 0.08 A, respectively. A summary of structural statistics is shown in Table S1.

@@ -1,1 +1,0 @@
-3.4, Non-Conserved Residues Define the Selectivity and Affinity of SH3 Domain-PRM Interactions

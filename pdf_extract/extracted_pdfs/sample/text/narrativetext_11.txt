@@ -1,1 +1,0 @@
-motif, RPLPPLP, with some preference for distinct residues in the regions flanking the core motif, Abl SH3 prefers the sequence PPPYPPPP(I/V)P (the underlined sequences indi- cate the highly conserved PXXP motif present in all SH3 ligands).

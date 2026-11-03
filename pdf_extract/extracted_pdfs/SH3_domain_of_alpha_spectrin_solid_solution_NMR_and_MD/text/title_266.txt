@@ -1,1 +1,0 @@
-D(calculated) = [sum(k){R(calculated,k) *] "°,

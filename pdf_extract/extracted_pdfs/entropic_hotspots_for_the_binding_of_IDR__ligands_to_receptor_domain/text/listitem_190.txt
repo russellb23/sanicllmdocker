@@ -1,1 +1,0 @@
-Sl. Ryckaert, J.-P., G. Ciccotti, and H. J. Berendsen. 1977. Numerical inte- gration of the cartesian equations of motion of a system with con- straints: molecular dynamics of n-alkanes. J. Comput. Phys. 23:327— 341.

@@ -1,1 +1,0 @@
-nSH3:PRMNS!4 and nSH3:PRMNS!8 are two different structures of the same complex. Our previous 100-ns MD simulation did not find convergence in their conformational behaviors (5). With a 500-ns simulation time in the present study, S as well as RMSF of nSH3 in the two structures follow similar profiles (Fig. S3b and Fig. S4b).

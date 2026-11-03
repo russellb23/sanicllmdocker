@@ -1,1 +1,0 @@
-Selection of SH3 ligands from phage display libraries. SH3 peptide ligands were selected from a biased X,PPIP library (containing six randomized amino acids N terminal to the fixed tetrapeptide PPIP) as previously described (17).

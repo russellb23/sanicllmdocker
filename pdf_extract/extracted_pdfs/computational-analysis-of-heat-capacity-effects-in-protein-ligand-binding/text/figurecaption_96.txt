@@ -1,1 +1,0 @@
-Figure 7. (a) Probability distribution for the end-to-end distance of ligand 3 in water at 25 °C (blue bars) compared to the corresponding distribution in its complex with thrombin (red bars). The average intramolecular (b) and intermolecular (ligand—water) interaction energy (c) for inhibitor 3 in water at 25 °C as a function of the end-to-end distance.

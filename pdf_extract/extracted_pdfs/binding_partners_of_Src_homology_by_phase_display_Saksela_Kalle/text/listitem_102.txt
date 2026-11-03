@@ -1,1 +1,0 @@
-Brannetti B, Via A, Cestra G, Cesareni G, Helmer-Citterich M (2000) SH3- SPOT: an algorithm to predict preferred ligands to different members of the SH3 gene family. J Mol Biol 298: 313-328

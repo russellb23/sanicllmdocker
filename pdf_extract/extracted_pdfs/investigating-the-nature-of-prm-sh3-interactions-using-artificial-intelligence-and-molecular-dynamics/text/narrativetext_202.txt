@@ -1,1 +1,0 @@
-(26) Best, R. B.; Zhu, X.; Shim, J.; Lopes, P. E. M.; Mittal, J.; Feig, M.; MacKerell, A. D., Jr Optimization of the Additive CHARMM All-Atom Protein Force Field Targeting Improved Sampling of the Backbone #, y and Side-Chain y, and y, Dihedral Angles. J. Chem. Theory Comput. 2012, 8 (9), 3257-3273.

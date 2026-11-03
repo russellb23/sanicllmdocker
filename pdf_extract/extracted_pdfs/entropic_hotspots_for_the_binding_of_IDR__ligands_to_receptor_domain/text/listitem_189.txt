@@ -1,1 +1,0 @@
-50. Jorgensen, W., J. Chandrasekhar, ..., M. L. Klein. 1983. Comparison of simple potential functions for simulating liquid water. J. Chem. Phys. 79:926-935.

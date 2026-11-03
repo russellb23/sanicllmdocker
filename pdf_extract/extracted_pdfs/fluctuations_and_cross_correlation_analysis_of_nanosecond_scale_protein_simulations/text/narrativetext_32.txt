@@ -1,1 +1,0 @@
-In conventional crystallographic refinement of a protein structure, a set of isotropic B-factors is

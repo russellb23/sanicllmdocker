@@ -1,1 +1,0 @@
-To ascertain how ensemble dimensions may play a role in determining AS/ks, we must first find a way to compare the

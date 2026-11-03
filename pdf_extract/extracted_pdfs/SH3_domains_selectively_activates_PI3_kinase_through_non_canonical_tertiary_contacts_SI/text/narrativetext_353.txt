@@ -1,1 +1,0 @@
-Supplementary Figure 11. SDS-PAGE analysis of purified SH3 domain. A) SDS-PAGE shows the bands corresponds to Fyn and its mutants including R96I, RO6W, L112A, L112N B) SDS-PAGE shows the bands correspond to other SH3 domains including p85 SH3, Hck, Ubs3A and Grb2.

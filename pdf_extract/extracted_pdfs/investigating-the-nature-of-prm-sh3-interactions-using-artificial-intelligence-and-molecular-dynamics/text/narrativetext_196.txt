@@ -1,1 +1,0 @@
-(20) Jumper, J.; Evans, R.; Pritzel, A; Green, T.; Figurnov, M.; Ronneberger, O.; Tunyasuvunakool, K.; Bates, R.; Zidek, A; Potapenko, A.; et al. Highly Accurate Protein Structure Prediction with Alphafold. Nature 2021, 596 (7873), 583-589.

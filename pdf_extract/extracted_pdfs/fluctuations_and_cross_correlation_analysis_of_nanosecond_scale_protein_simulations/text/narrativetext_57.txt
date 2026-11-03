@@ -1,1 +1,0 @@
-(2) Crystallographic B-factors form an incomplete measure of the motion since: (i) they are a measure of the spread of the electron density as a function of position in the crystal, irrespective of which particular atom is contributing to the electron

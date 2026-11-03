@@ -1,1 +1,0 @@
-Figure $17. Intra-peptide contact map differences in bound states of PRM +/-, PRM +/0, PRM P8A, PRM P11A, PRM P8AP11A, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A. Intra- peptide contact map difference was calculated by subtracting the intra-peptide contact map of each WT from that of each complex.

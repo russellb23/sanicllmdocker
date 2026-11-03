@@ -1,1 +1,0 @@
-39. McCoy AJ, Grosse-Kunstleve RW, Adams PD, Winn MD, Storoni LC, Read RJ. Phaser crystallographic software. J Appl Crystallogr. 2007; 40(Pt 4):658-74. Epub 2007/08/01. https://doi.org/10.1107/ S0021889807021206 PMID: 19461840; PubMed Central PMCID: PMCPMC2483472.

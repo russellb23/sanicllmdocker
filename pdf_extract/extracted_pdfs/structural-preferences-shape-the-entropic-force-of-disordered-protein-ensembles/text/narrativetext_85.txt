@@ -1,1 +1,0 @@
-To obtain the number of allowed conformations in the tethered state, (2;, we tethered our simulated IDR conforma- tional ensemble to a flat surface through the N-terminal C,. Beyond the conformations included in the ensemble, the geometry of the tethering point can also affect the magnitude of AS/kg. To account for this, we introduced an enhanced

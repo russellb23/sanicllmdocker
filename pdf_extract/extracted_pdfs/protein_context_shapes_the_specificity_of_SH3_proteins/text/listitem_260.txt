@@ -1,1 +1,0 @@
-81. Grant, B. J., Rodrigues, A. P. C., ElSawy, K. M., McCammon, J. A. & Caves, L. S. D. Bio3d: an R package for the comparative analysis of protein structures. Bioinformatics 22, 2695-2696 (2006).

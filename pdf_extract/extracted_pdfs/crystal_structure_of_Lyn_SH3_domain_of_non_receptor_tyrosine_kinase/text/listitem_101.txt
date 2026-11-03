@@ -1,1 +1,0 @@
-Orii N, Ganapathiraju MK. Wiki-pi: a web-server of annotated human protein-protein interactions to aid in discovery of protein function. PLoS One. 2012; 7(11):e49029. Epub 2012/12/05. https://doi.org/10. 137 1/journal.pone.0049029 PMID: 23209562; PubMed Central PMCID: PMCPMC3509123.

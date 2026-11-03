@@ -1,1 +1,0 @@
-structures possessing at least one water molecule were included to ensure that any voids detected were likely to be genuine voids and not cavities that should be solvated. A total of 8925 structures were obtained. Further Perl scripts were written to build a library of the selected protein domains in PDB format with interacting water molecules included in the files.

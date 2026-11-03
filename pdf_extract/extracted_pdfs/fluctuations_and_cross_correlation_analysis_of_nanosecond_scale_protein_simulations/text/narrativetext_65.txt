@@ -1,1 +1,0 @@
-(3) Crystal packing forces restrict the motions in the protein, especially for surface regions (loops, N and C termini). The MD simulations concern proteins in solution.

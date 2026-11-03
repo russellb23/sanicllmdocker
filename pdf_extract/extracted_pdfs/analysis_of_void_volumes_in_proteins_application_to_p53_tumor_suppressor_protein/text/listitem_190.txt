@@ -1,1 +1,0 @@
-33. Ehrlich, L., Reczko, M., Bohr, H. & Wade, R. C. (1998). Prediction of protein hydration sites from sequence by modular neural networks. Protein Eng. 11, 11-19.

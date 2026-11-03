@@ -1,1 +1,0 @@
-where R; is the van der Waal’s radius of atom i, and X; are the atomic coordinates. In the GBMV2 protocol, ao = (1 — (1/ /2)) and a, = 1, and V(f)is described below. In the GBSW method, ao and a; can be varied to fit Poisson results based on different molecular-surface representations.

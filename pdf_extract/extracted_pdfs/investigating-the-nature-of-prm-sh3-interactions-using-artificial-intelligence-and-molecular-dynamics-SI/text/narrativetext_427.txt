@@ -1,1 +1,0 @@
-calculated by subtracting the wild type values from those of the mutants.

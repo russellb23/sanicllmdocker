@@ -1,1 +1,0 @@
-40. Adams PD, Afonine PV, Bunkoczi G, Chen VB, Davis IW, Echols N, et al. PHENIX: a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr D Biol Crystallogr. 2010; 66(Pt 2):213-21. Epub 2010/02/04. https://doi.org/10.1107/S0907444909052925 PubMed Central PMCID: PMCPMC2815670. PMID: 20124702

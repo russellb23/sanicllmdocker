@@ -1,1 +1,0 @@
-Each S$H3 ligand consensus motif was assigned to class I or II based on its agreement with the class I or II consensus motif. Highly (>90%) conserved positions in each SH3 ligand consensus motif are listed in boldface and were interpreted as SH3 contact residues.

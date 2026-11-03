@@ -1,1 +1,0 @@
-(A) Ribbon representation of SORBS2-1/3 in complex with a peptide ligand. The peptide is colored red and SORBS2-1/3 is colored white, blue (PXXP-binding site), green (specificity site) and pink (exosite).

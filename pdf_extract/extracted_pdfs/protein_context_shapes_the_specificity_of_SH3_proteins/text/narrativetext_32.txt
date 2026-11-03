@@ -1,1 +1,0 @@
-Several SH3 swappings lead to an inhibition of >50% of Abp1 PPIs, including SH3-independent interactions (Fig. 2B and Supplementary Fig. 2C). This suggests that SH3s can affect binding that is mediated by other regions of the protein, most likely through allosteric effects. In addition, two-thirds (21/30)

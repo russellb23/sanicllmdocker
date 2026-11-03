@@ -1,1 +1,0 @@
-Figure 4. Solvation free energy (G,,)) of the peptides in bound states was calculated using the MM/PBSA method. For visualization, the original graph on the left side—showing PRM WT, PRM P8A, PRM P11A, and PRM P8AP11A—has been magnified on the right side.

@@ -1,1 +1,0 @@
-SH3 positions are not interchangeable in multi-SH3 proteins. Proteins containing multiple SH3s can mediate the formation of multivalent interactions, bringing an additional level of com- plexity to PPI regulation. The position of SH3s in their host is

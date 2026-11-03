@@ -1,1 +1,0 @@
-The two types of ligand conformations are also associated with different energetic behaviors. That is, as the end-to-end distance increases, the nonbonded intramolecular ligand interactions become more favorable, while the intermolecular interactions with the solvent become less favorable. This effect is completely dominated by electrostatics and can be

@@ -1,1 +1,0 @@
-Having demonstrated the importance of Fyn L112 for activating PI3K, we explored whether it would be possible to predict the PI3K activating potential of other SH3 domains based on this region. A medium-sized

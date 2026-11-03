@@ -1,1 +1,0 @@
-Reichel, K., Fisette, O., Braun, T., Lange, O.F., Hummer, G., and Schafer, L.V. (2017). Systematic evaluation of CS-Rosetta for membrane protein structure prediction with sparse NOE restraints. Proteins 85, 812-826.

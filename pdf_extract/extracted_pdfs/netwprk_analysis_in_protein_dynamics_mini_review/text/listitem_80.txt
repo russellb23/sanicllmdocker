@@ -1,1 +1,0 @@
-e A systematic comparison and analysis of proper link weights (instead of cut-off distances and un-weighted links) and network building rules (networks of selected key atoms, or of the weighted sum of amino acid side-chain atomic coordinates) is a task of the future. Re-analysis of small- worldness in a weighted network may give novel surprises.

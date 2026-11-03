@@ -1,1 +1,0 @@
-e As a later development the introduction of non-paired interactions (hypergraphs like at the early work of Finkelstein and Roytberg [65]) may open a way to analyze even more refined details of protein structure and transi- tions.

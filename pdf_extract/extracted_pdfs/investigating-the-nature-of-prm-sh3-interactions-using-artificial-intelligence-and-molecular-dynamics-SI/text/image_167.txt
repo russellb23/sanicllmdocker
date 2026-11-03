@@ -1,1 +1,0 @@
-Peptide residue 1 5 9 13 MKKKKTAATPAKRS 30 1M K K 25 K 5K t 208 A A 15§ oT 3 Pp a ee: 1.0 BR Ss 05

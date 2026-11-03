@@ -1,1 +1,0 @@
-Camilloni, C., Cavalli, A., and Vendruscolo, M. (2013). Assessment of the use of NMR chemical shifts as replica-averaged structural restraints in molecular dy- namics simulations to characterize the dynamics of proteins. J. Phys. Chem. B 117, 1838-1843.

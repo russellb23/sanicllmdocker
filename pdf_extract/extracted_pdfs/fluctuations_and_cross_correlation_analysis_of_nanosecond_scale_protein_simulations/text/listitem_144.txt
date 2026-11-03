@@ -1,1 +1,0 @@
-Berendsen, H. J. C., Postma, J. P M., van Gunsteren, W. F., DiNola, A. & Haak, J. R. (1984). Molecular dynamics with coupling to an external bath. J. Chem. Phys. 81, 3684-3690.

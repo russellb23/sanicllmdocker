@@ -1,1 +1,0 @@
-Laskowski, R.A., Macarthur, M.W., Moss, D.S., and Thornton, J.M. (1993). Procheck: a program to check the stereochemical quality of protein structures. J. Appl. Crystallogr. 26, 283-291.

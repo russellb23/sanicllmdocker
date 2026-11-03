@@ -1,1 +1,0 @@
-47. Brooks, B. R., R. E. Bruccoleri, ..., M. Karplus. 1983. CHARMM: a program for macromolecular energy, minimization, and dynamics cal- culations. J. Comput. Chem. 4:187-217.

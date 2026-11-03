@@ -1,1 +1,0 @@
-(1) Is it realistic to compare B-factors resulting from structure refinement based on crystallographic X-ray data with B-factors obtained from simulations

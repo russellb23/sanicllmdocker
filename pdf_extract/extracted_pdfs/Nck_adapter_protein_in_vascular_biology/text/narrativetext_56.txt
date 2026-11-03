@@ -1,1 +1,0 @@
-PY, phosphotyrosine; PDGFR, platelet derived growth factor receptor; VEGFR, vascular endothelial growth factor receptor; PECAM-1, platelet endothelial adhesion molecule 1; BCR, B-cell receptor; FGFR, fibroblast growth factor receptor; FAK, focal adhesion kinase.

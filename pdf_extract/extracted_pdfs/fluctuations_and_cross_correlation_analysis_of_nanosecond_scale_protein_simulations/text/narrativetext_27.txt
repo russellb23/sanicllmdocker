@@ -1,1 +1,0 @@
-For BPTI (Figure 1a) the drift (per nanosecond) for most properties is of the same order or smaller than the standard deviation. The radius of gyration

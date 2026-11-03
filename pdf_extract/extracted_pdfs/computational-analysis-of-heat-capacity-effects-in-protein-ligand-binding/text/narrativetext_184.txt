@@ -1,1 +1,0 @@
-(37) Jorgensen, W. L.; Chandrasekhar, J.; Madura, J. D.; Impey, R. W,; Klein, M. L. Comparison of simple potential functions for simulating liquid water. J. Chem. Phys. 1983, 79, 926-935.

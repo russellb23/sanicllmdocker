@@ -1,1 +1,0 @@
-Nck1 expression 1.5 eK 0.5 1 T intensity Nck1/GAPDH LEC shNck1-LEC

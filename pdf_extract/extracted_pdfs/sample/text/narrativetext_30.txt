@@ -1,1 +1,0 @@
-Assuming a one-to-one complex between an SH3 domain and a peptide ligand, the F,,,.x can be first extrapolated by using nonlinear regression (equation 1), and the K, value between an SH3 domain and its ligand can then be calculated by Scatchard analysis, using equation 2:

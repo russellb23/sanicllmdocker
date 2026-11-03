@@ -1,1 +1,0 @@
-Overall, our simulations recapitulated experimental observ- ables, which implicate IDR length as a key factor affecting IDR entropic force, and also highlighted the role of amino acid composition and sequence in the magnitude of this force.

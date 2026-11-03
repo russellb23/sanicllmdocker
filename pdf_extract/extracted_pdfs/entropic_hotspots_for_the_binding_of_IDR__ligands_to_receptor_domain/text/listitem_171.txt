@@ -1,1 +1,0 @@
-33. King, B. M., and B. Tidor. 2009. MIST: maximum information span- ning trees for dimension reduction of biological data sets. Bioinformat- ics. 25:1165-1172.

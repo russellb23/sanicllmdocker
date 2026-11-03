@@ -1,1 +1,0 @@
-were comparable to those obtained with the GBMV2 models, even though the estimated transition temperatures fluctuated during the course of the simulation because of the complex peak shapes in the heat capacity profiles (Figure 2).

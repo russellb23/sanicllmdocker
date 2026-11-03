@@ -1,1 +1,0 @@
-SH3-binding motif randomly to a set of interactors (for example, when testing the enrichment of Protein X preferred SH3 motif among Protein Y SH3-dependent PPI partners). This indicates that SH3-binding motifs determined in vitro can adequately identify SH3-dependent interactions but not discriminate which partner binds to which SH3 domains in vivo.

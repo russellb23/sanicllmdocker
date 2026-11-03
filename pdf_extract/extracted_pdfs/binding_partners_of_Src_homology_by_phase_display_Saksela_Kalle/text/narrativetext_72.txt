@@ -1,1 +1,0 @@
-We have generated a non-redundant and apparently complete collection of human SH3 domain sequences (supplementary information online), and developed a phage-display-based tool

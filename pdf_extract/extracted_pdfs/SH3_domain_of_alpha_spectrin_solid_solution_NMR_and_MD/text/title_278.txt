@@ -1,1 +1,0 @@
-(NOESY data are weighted with 100% in any iteration.)

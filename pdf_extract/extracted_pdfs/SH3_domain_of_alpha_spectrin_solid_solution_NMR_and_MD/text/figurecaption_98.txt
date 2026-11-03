@@ -1,1 +1,0 @@
-(B) RMSFs of the run with paddings shown on the SH3 domain structure. Figure S2L also includes a correlation between the restrained MD run (with paddings) and the multi-state eNOE calculation.

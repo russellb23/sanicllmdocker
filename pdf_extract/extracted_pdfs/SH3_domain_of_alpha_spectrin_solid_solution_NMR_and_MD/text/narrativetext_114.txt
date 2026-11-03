@@ -1,1 +1,0 @@
-The Conformational Space of Side-Chain Motion Besides information about mechanistic details of motion for the backbone, MD simulations as well as '°C- and ‘°N-edited eNOEs provide information about the conformational space sampled by side chains. This is particularly important since the side chains are responsible for biological functionality of various

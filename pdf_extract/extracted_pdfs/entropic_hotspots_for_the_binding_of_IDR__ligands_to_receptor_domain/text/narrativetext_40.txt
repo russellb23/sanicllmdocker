@@ -1,1 +1,0 @@
-After aligning coordinate frames to the initial frame using backbone heavy atoms, we calculated the Lipari-Szabo squared generalized order parameter Ss (56). Let fi be the unit vector for the amide N-H bond with Cartesian components yu; (i = 1, 2, 3). Then,

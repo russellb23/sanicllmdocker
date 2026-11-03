@@ -1,1 +1,0 @@
-Figure S3. GS repeat asphericity is independent of length. The average asphericity of GS repeats vs the number of residues in the sequence. The mean of all seven data points is shown by the red line, with 6 = 0.39 + 0.01.

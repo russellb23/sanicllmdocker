@@ -1,1 +1,0 @@
-(4) What is the influence of the fitting procedure that is generally used to remove rigid-body motions from the trajectory on the results of the analysis?

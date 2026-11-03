@@ -1,1 +1,0 @@
-150—250 ns of MD simulation at five different temperatures using a spherical droplet that covers the entire protein.

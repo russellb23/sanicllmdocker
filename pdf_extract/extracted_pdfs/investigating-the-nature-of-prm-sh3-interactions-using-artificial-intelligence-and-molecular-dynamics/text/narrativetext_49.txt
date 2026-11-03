@@ -1,1 +1,0 @@
-aligned with respect to SH3 refers to the RMSD of PRM after aligning the structures to minimize the RMSD of SH3. The RMSD of PRM aligned with respect to the PRM refers to the RMSD of PRM after aligning the structures with respect to PRM. For clustering, the Ward algorithm®* was applied using the RMSD of PRM aligned with respect to SH3.

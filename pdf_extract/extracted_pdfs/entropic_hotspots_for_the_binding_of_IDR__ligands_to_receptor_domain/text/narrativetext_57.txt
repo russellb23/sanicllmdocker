@@ -1,1 +1,0 @@
-The third-order MIST (MIST3) is calculated similarly, by evaluating the third-order mutual information between DOF p and a pair of DOFs {gq, r}:

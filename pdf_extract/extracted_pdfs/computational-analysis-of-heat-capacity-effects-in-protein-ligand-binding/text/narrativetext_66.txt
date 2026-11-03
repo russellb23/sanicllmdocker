@@ -1,1 +1,0 @@
-The r.m.s. atomic coordinate fluctuations around the average structures (RMSF) calculated from the MD simulations also turn out to be extremely similar between the different systems.

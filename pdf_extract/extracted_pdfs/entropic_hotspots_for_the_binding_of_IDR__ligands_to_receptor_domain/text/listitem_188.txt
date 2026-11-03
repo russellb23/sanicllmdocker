@@ -1,1 +1,0 @@
-49. Hart, K., N. Foloppe, ..., A. D. Mackerell, Jr. 2012. Optimization of the CHARMM additive force field for DNA: improved treatment of the BI/ BII conformational equilibrium. J. Chem. Theory Comput. 8:348-362.

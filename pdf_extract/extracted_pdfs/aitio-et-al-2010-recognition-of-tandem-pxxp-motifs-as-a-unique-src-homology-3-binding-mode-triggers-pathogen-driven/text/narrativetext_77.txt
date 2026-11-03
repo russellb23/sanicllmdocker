@@ -1,1 +1,0 @@
-Despite several examples of atypical SH3 interactions (27-29) the majority of SH3 domains rely on idiotypic recognition of PPII helical PxxP motifs in their partner selection. The binding energy in such Src-like SH3 interactions is governed by hydro- phobic, nonspecific van der Waals forces and by an electrostatic

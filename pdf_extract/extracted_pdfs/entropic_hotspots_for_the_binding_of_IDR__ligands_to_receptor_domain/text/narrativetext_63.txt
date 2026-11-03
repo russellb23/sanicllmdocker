@@ -1,1 +1,0 @@
-The backbone entropy of each residue was calculated using the joint PDF,

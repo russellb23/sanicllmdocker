@@ -1,1 +1,0 @@
-To address the dynamics of IDR ensembles, previous studies have successfully applied analytical polymer models to describe IDR structural preferences (e.g., self-avoiding random chains and worm-like chains). These models can predict the average properties of IDR ensembles and have been systematically

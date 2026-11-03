@@ -1,1 +1,0 @@
-Debiec, K.T., Cerutti, D.S., Baker, L.R., Gronenborn, A.M., Case, D.A., and Chong, L.T. (2016). Further along the road less traveled: AMBER ff15ipq, an original protein force field built on a self-consistent physical model. J. Chem. Theory Comput. 12, 3926-3947.

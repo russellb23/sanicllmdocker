@@ -1,1 +1,0 @@
-Table S1: Major intra-nSH3 H-bond occupancy differences between unliganded nSH3 and nSH3:PRM!, Only H-bond pairs with average occupancy of the unliganded or the liganded system greater than 50%, and the occupancy difference greater than 10% are shown. Bottom row: per-residue side-chain entropy change upon complex formation (cal/[mol-K]).

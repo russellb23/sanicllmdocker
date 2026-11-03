@@ -1,1 +1,0 @@
-SBGrid Entry 640 Resolution 120A Space group P6, Unit-cell dimensions a=46.7A,b=46.7A,c=55.7A Rym 0.038 (0.512) Rpim 0.012 (0.171) I/o 53.6 (4.00) Completeness (%) 87.1% (81.8%) Redundancy 10.5 (9.7) CCi2 0.994 (0.923) Refinement Statistics PDB entry 6NMW Reryst 0.172 (0.200) Reece 0.184 (0.251) RMSD bond lengths 0.014A RMSD bond 1.63°

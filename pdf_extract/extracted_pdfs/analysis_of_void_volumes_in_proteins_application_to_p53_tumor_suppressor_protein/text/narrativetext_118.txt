@@ -1,1 +1,0 @@
-packing defects may have been lost. However, detecting voids between optimally packed atoms is not useful and the 0.5 A probe has a negligible effect on our packing analysis results.

@@ -1,1 +1,0 @@
-Figure 5. Structures of ITSN1-2/5 and ITSN2-2/5 in Complex with Non-canonical Peptide Ligands (A and E) Ribbon representation of (A) ITSN1-2/5 or (E) ITSN2-2/5 in complex with a peptide ligand. The peptide is colored red and the SH3 domain is colored white, blue (PXXP-binding site), green (specificity site) and purple (exosite).

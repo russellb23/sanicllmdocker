@@ -1,1 +1,0 @@
-TF = 0 if abs[D(measured) - D(calculated)] < error

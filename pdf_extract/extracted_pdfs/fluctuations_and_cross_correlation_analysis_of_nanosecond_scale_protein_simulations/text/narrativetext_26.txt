@@ -1,1 +1,0 @@
-To assess the stability of the two simulations, a collection of properties was monitored as a function of time. The means, standard deviations, maximal and minimal values, drifts (from a linear regression, given per nanosecond) as well as the values calculated from the crystal structure are reported in Table 2. Both simulations are essentially stable.

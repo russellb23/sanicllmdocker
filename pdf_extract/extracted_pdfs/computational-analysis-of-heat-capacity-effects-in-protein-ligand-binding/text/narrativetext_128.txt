@@ -1,1 +1,0 @@
-A detailed description of free-energy perturbation calculations of the binding free-energy difference between ligands 2 and 4 as a function of temperature, with results summarized in Figure S1 (PDF)

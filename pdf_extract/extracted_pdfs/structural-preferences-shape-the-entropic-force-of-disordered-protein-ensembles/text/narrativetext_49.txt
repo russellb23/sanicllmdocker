@@ -1,1 +1,0 @@
-Here, R,. is the normalized end-to-end distance, R,, is the end- to-end distance of the target IDR, and RS is the calculated end-to-end distance of a GS repeat sequence of the same length as the target IDR (obtained from the fit shown in Figure Sl).

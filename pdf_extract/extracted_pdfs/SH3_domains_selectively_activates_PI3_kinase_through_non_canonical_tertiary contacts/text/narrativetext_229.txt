@@ -1,1 +1,0 @@
-residues. Residues with a weighted shift change of >2x standard deviation of the shift for all residues were assigned as those undergoing large change of chemical shift. Medium changes were assigned to chemical shifts of >1x standard deviation and less than 2x standard deviation.

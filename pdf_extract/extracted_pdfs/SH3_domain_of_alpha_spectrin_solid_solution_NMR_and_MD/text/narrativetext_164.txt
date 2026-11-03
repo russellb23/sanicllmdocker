@@ -1,1 +1,0 @@
-Bussi, G., Donadio, D., and Parrinello, M. (2007). Canonical sampling through velocity rescaling. J. Chem. Phys. 126, 014101.

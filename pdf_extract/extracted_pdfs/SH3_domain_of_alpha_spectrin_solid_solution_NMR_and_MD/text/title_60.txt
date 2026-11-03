@@ -1,1 +1,0 @@
-Single-State Protein Structure Calculation from Solution NMR

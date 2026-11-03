@@ -1,1 +1,0 @@
-Figure S11. Ramachandran plots of peptides of PRM +/-, PRM +/0, PRM P8A, PRM P1I1A, PRM P8API11A, PRM(H) WT, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A. The numbers of each amino acid correspond to those of contact maps in Figure S4. For the log calculation, the empty bins in each 2D histogram were filled by 0.5.

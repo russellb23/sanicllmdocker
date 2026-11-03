@@ -1,1 +1,0 @@
-ligands, the reported structures do not cover most of the speci- ficities revealed by our analysis. Consequently, many additional structures will be required to cover the full breadth of SH3 spec- ificities, and the specificity map can aid decisions on which structures should be solved to enhance our understanding of the diverse specificities revealed by our analysis.

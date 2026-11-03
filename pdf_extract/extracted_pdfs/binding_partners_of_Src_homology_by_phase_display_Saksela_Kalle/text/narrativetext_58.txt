@@ -1,1 +1,0 @@
-The results from this assay agreed well with our phage library screening. All SH3 domains that were included because of their selection from the library bound their specific target proteins with high affinity (Kp<0.5uM). A good correlation between the

@@ -1,1 +1,0 @@
-J.-M.C. conceived and developed the idea. S.-J.K. carried out the simulations and analyzed the data. D.-E.H. generated the initial structures using AlphaFold2. S.-J.K. and J.-M.C. prepared the manuscript, with inputs from H.K. J.-M.C. and H.K. supervised the project.

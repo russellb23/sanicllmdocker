@@ -1,1 +1,0 @@
-van Gunsteren, W. F. & Berendsen, H. J. C. (1990). Computer simulation of molecular dynamics: meth- odology, applications and perspectives. Angew. Chem. Int. Ed. Engl. 29, 992-1023.

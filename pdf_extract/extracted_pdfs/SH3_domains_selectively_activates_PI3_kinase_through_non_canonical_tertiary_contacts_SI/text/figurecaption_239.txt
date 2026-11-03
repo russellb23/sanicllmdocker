@@ -1,1 +1,0 @@
-Fyn R96W. Colouring scheme: 1:0.1, red; 1:0.25, coral; 1:0.5, orange; 1:1, gold; 1:2, green; 1:3: magenta; 1:6, purple; 1:8, cyan; 1:10, pink; 1:12.5, beige.

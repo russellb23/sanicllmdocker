@@ -1,1 +1,0 @@
-Figure 4. Comparison of Ca RMSF in the SH3 Domain in Restrained Ensemble MD Simulations with Unbiased MD Simulations (A) RMSFs as a function of sequence, comparing restrained simulations with (black bars) or without a 1 A padding on the eNOE distance restraints (red line) with the unbiased MD simulation (gray dashed line).

@@ -1,1 +1,0 @@
-where So is an adjustable parameter, m indexes another summation over all atoms, and Fyy2 is an atom-centered function defined in Lee et al.!?

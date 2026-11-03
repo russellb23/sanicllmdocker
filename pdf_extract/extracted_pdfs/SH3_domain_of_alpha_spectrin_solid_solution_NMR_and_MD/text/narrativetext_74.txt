@@ -1,1 +1,0 @@
-(B) C* RMSF obtained from averaging over four 500 ns MD simulations with the Amber ff15ipq force field at pH 3.5.

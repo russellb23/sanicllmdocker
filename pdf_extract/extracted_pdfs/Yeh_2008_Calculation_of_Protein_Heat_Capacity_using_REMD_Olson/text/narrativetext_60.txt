@@ -1,1 +1,0 @@
-where Pg(U, &) is the probability density at the inverse tem- perature 6. Thermodynamics properties can be determined from the probability density, for example, the heat capacity by the following expression*+*°

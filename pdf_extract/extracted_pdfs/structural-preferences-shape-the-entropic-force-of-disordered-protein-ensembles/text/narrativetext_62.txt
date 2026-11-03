@@ -1,1 +1,0 @@
-Solution Space Scanning Simulations. Solution space scanning simulations are conducted as described previ- ously.°”**> Briefly, we modify the effective Hamiltonian of the ABSINTH force field to alter protein backbone:solvent interactions. The ABSINTH hamiltonian is a sum of four energy terms

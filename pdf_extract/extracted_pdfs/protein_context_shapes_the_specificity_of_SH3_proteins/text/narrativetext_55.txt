@@ -1,1 +1,0 @@
-Overall, this analysis helps discriminate the residues defining SH3 binding specificity from the positions regulating the interplay between the domain and its host. The latter most likely interact in an allosteric way with the binding of partners that do not depend on the intrinsic binding specificity of the domain.

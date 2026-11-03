@@ -1,1 +1,0 @@
-53. Hynninen, A. P., and M. F. Crowley. 2014. New faster CHARMM mo- lecular dynamics engine. J. Comput. Chem. 35:406-413.

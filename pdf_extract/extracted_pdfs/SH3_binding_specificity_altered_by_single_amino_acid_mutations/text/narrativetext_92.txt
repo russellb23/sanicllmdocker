@@ -1,1 +1,0 @@
-Since binding of p68-P3 is dependent on Asp-99 of Src, we speculate that the Arg residue(s) in p68-P3 might still be able to interact with Asp-99 of Src even though it is not in the expected position.

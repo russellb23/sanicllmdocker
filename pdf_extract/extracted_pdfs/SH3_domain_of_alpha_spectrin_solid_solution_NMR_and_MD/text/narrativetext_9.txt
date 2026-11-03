@@ -1,1 +1,0 @@
-Structural biology requires robust data on both structure and dynamics. Here, Grohe et al. combine different experimental and computational approaches to showcase which complementary information is obtained for a small protein. The study demonstrates how integrative approaches, where different methodologies mutually validate each other, can provide the most complete picture.

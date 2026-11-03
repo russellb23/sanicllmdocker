@@ -1,1 +1,0 @@
-23. Dingerdissen HM, Torcivia-Rodriguez J, Hu Y, Chang TC, Mazumder R, Kahsay R. BioMuta and Biox- press: mutation and expression knowledgebases for cancer biomarker discovery. Nucleic Acids Res. 2018; 46(D1):D1128—D36. Epub 2018/07/28. https://doi.org/10.1093/nar/gkx907 PMID: 30053270; PubMed Central PMCID: PMCPMC5753215.

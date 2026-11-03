@@ -1,1 +1,0 @@
-(38) King, G.; Warshel, A. A surface constrained all-atom solvent model for effective simulations of polar solutions. J. Chem. Phys. 1989, 91, 3647-3661.

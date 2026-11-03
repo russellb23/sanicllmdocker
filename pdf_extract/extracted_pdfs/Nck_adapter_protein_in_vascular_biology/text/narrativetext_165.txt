@@ -1,1 +1,0 @@
-The small molecule inhibitor AX-024 blocks the interaction between the Nck1 SH3.1 domain and the TCR and significantly reduces T cell proliferation both in vitro and in vivo

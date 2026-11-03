@@ -1,1 +1,0 @@
-The C-terminal p85 domains affect the association with SH3 domains

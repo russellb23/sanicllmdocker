@@ -1,1 +1,0 @@
-The question we want to address herein is whether the heat capacity change upon ligand binding can be reliably predicted by molecular dynamics (MD) simulations and, if so, what is its origin? Ideally, one would like to be able to calculate the

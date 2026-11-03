@@ -1,1 +1,0 @@
-(16) Carlsson, J.; Agqvist, J. Calculations of solute and solvent entropies from molecular dynamics simulations. Phys. Chem. Chem. Phys. 2006, 8, 5385-5395.

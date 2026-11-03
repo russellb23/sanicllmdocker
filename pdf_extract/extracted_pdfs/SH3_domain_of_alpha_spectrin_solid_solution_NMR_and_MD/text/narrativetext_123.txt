@@ -1,1 +1,0 @@
-tively), (8) backbone motion only versus all-atom assessment (relaxation data and multi-state structure/MD, respectively), as well as (4) the difference between simulated detail and experi- mental verification.

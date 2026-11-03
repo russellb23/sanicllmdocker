@@ -1,1 +1,0 @@
-The final simulation model in Figure 2 is the application of CHARMM19 with the GBORN solvent model. The simulation yields a broad heat capacity of multiple peaks with a maximum value at T, of 401 K. The observed transitions in rmsd and p clearly demonstrate protein-chain unfolding, although the shifts are less sharp than those calculated with the two GBMV2 models and GBSW2.

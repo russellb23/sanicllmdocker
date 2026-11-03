@@ -1,1 +1,0 @@
-Supplementary Table 3. List of Inter-protein crosslinks detected in protein prospector analysis from the LC/MS data. Inter-protein crosslinks between Fyn SH3 and Chimera 1 (A), and Chimera 2 (B).

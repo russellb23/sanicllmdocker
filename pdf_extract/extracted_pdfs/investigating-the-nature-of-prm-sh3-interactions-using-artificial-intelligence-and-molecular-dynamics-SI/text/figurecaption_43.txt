@@ -1,1 +1,0 @@
-Figure S8. RMSD of PRM WT, PRM P8A, PRM PI1A, PRM P8AP11A, PRM +/-, PRM +/0, PRM(H) WT, PRM(H) P7A, PRM(H) P9A, and PRM(H) P7AP9A aligned with respect to peptides.

@@ -1,1 +1,0 @@
-SH3 Ligand Consensus Motifs. Fig. 1 lists the amino acid sequences of peptides expressed by SH3-binding clones. Sim- ilar sequences within the peptides have been aligned to yield consensus motifs; these motifs reflect the ligand preferences of each SH3 domain.

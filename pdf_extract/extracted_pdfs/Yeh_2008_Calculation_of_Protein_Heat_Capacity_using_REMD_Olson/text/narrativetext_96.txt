@@ -1,1 +1,0 @@
-The GBMV2-/s20 model at T; populates conformations with a distorted /-sheet arrangement, and the representative structure shows a coordinate rmsd of 1.87 A and an energy value of —1271 kcal/mol. For GBMV2-/s10, a similar rmsd is populated at a lower

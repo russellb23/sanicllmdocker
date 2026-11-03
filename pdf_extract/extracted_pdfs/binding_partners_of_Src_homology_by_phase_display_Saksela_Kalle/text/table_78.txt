@@ -1,1 +1,0 @@
-SH3 domain PAK2 ADAM15 Src Lek Hck Lyn Yes Nef 285 nM Fyn SNX9 246 nM SNX30 130 nM Nephrocystin 187 nM FISH1-I/V 290 nM Pacsin3 300 nM Endophilin1 Grb2-II/II Grb2-I/I 203 nM Beta-PIX 59 nM Alpha-PIX 60 nM Nek1-II/III 239 nM ArgBP2-III/III 218nM Vinexin-III/III 144 nM Ponsin-lIV/III 133 nM POSH2-III/IV 75 nM POSH1-III/IV 138 nM

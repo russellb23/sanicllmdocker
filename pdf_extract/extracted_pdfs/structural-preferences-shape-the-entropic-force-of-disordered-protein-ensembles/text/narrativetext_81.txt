@@ -1,1 +1,0 @@
-Based on past work, we reasoned that length is a factor that contributes strongly to the entropic force mechanism in these IDRs.*'* We therefore wanted to test if there is a significant difference in the length distribution of terminal vs nonterminal IDRs.°°>! Our analysis reveals that the length distribution is roughly the same between terminal and nonterminal IDRs (Figure 2B).

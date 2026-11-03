@@ -1,1 +1,0 @@
-55. Pettersen, E. F., T. D. Goddard, ..., T. E. Ferrin. 2004. UCSF Chimera— a visualization system for exploratory research and analysis. J. Comput. Chem. 25:1605-1612.

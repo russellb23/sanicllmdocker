@@ -1,1 +1,0 @@
-All DSF experiments were performed on C1000 Touch thermal cycler CFX96 Real-Time system (Bio-Rad) with a final concentration of 50 uM

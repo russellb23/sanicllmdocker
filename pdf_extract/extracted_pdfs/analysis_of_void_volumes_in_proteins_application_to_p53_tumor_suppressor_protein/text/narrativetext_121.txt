@@ -1,1 +1,0 @@
-Grid-based methods such as VOIDOO and AVP are sensitive to the orientation of the protein on the grid. However, with the off-grid refinements we have included (see Methods), we have shown that total void volume is relatively insensitive to orientation (0,1 is 0.8-1.8% of the mean,

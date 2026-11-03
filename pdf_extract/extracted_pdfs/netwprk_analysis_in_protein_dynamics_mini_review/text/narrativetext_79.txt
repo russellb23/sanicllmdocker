@@ -1,1 +1,0 @@
-Recent advance in network science opens a lot of possibilities to gain more information from both protein structure net- works and conformational/energy networks:

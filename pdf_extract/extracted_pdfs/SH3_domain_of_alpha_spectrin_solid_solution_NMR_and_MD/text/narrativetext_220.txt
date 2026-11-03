@@ -1,1 +1,0 @@
-Strotz, D., Orts, J., Chi, C.N., Riek, R., and Végeli, B. (2017). eNORA2 exact NOE analysis program. J. Chem. Theory Comput. 13, 4336-4346.

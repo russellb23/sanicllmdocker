@@ -1,1 +1,0 @@
-. Cole, R., and J. P. Loria. 2003. FAST-Modelfree: a program for rapid automated analysis of solution NMR spin-relaxation data. J. Biomol. NMR. 26:203-213.

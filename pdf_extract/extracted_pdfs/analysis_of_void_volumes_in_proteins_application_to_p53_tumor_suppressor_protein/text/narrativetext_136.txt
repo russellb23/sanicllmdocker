@@ -1,1 +1,0 @@
-A grid is constructed around the protein; this grid is large enough that at least one plane of water probes can be placed on all sides. Initially each point on the grid is assigned as being of type void. By default, the spacing of this grid is 1 A.

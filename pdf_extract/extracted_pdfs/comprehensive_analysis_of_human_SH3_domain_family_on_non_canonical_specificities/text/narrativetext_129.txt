@@ -1,1 +1,0 @@
-maintain the helical conformation of the peptide. Residues that were not conserved within the binding motif (Asp*, Ser® and Met?) face the solvent, and thus do not contribute to binding.

@@ -1,1 +1,0 @@
-Peptide residue 9 30 MKKKKTAPTPAKRS 1M 25 g ok 3 5K 0e Fd 2 oT K 13R os Ss

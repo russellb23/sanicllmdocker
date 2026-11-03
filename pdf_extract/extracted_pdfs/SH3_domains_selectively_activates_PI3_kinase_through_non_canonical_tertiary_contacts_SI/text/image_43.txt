@@ -1,1 +1,0 @@
-—Pool freq. 0.1 — Sel. freq. z o 3 0.05 2 ims 0 50 80 110 140 [A]

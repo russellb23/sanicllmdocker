@@ -1,1 +1,0 @@
-popular among many applications in the literature. Other than for structural refinement of near-native conformations using very short REMD simulations, our results strongly support the notion that the application of these models should be abandoned in large-scale sampling of energy landscapes.

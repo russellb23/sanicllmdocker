@@ -1,1 +1,0 @@
-Together these semi-quantitative interaction data support the validity of our phage library results and the notion that these screens can provide novel examples of high affinity SH3 interactions where the binding strength and specificity cannot be recapitulated by short linear peptide ligands.

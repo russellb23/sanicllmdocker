@@ -1,1 +1,0 @@
-e Integrated characterization using ensemble MD simulations restrained by exact NOE restraints

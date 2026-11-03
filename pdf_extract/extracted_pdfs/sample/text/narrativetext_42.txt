@@ -1,1 +1,0 @@
-mutant. Together, these results demonstrate that Asp-99 of Src is important for mediating binding of most cellular proteins to Src SH3 and that the T98D substitution in Abl SH3 can modify the binding specificity of Abl SH3.

@@ -1,1 +1,0 @@
-61. van der Walt, S. et al. scikit-image: image processing in Python. Peer] 2, e453 (2014).

@@ -1,1 +1,0 @@
-HA-detected experiments (3). The SH3 domain interproton dis- tance restraints were determined from 3D '°N- and '*C-edited NOESY-HSQC spectra (1). A mixing time of 100 ms was used in all NOESY experiments.

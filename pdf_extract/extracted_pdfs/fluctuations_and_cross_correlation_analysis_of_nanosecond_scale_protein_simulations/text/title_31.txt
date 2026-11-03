@@ -1,1 +1,0 @@
-Simulated B-factors calculated using averaging windows of different lengths

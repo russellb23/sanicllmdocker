@@ -1,1 +1,0 @@
-The list of protein structures used in this study was obtained using the CATH classification of protein domains (v2.3). A Perl script was written to select only those non-redundant sequence family representatives (S-Reps) with a resolution of <2.00A. Only those

@@ -1,1 +1,0 @@
-“The data for all six ligands of ref 5 is considered here. PAs eq 4 always has two solutions in terms of AH,, AH,,, and AS,., is given as an illustration for ligand $. this alternative solution

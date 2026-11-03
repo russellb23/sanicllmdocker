@@ -1,1 +1,0 @@
-Orchard S, Ammari M, Aranda B, Breuza L, BrigantiL, Broackes-Carter F, et al. The MintAct project— IntAct as a common curation platform for 11 molecular interaction databases. Nucleic Acids Res. 2014; 42(Database issue):D358—63. Epub 2013/11/16. https://doi.org/10.1093/nar/gkt1 115 PMID: 24234451; PubMed Central PMCID: PMCPMC3965093.

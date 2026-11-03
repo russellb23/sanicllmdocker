@@ -1,1 +1,0 @@
-A Perl script was written to retrieve mutations resulting in larger-to-smaller amino acid substitutions present in Release 8 of the International Agency for Research on Cancer (IARC) TP53 mutation database.”” As we were

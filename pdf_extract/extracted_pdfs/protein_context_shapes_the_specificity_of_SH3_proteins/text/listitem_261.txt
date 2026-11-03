@@ -1,1 +1,0 @@
-82. Galili, T. dendextend: an R package for visualizing, adjusting and comparing trees of hierarchical clustering. Bioinformatics 31, 3718-3720 (2015).

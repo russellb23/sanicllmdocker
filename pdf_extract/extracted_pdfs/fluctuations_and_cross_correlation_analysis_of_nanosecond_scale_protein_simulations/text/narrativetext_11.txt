@@ -1,1 +1,0 @@
-Abbreviations used: MD, molecular dynamics; HEWL, hen egg white lysozyme; BPTI, bovine pancreatic trypsin inhibitor; ms, mean-square; r.m.s, root-mean-square; SPC, simple point charge; SPC/E, extended simple point charge; DCCM, dynamical cross-correlation map.

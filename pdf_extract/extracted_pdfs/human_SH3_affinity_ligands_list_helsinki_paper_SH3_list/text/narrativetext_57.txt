@@ -1,1 +1,0 @@
-When referring to this database, please cite Karkkainen, S., Hiipakka, M., Wang, JH., Kleino, |., Vaha-Jaakkola, M., Renkema, G.H., Liss, M., Wagner, R., Saksela, K.: Identification of preferred protein interactions via phage-display of the human SH3 proteome. EMBO Reports, 2006.

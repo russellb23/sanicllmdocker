@@ -1,1 +1,0 @@
-Data were processed using HKL2000 [37] (Table 1) and the structure determined in the Pha- ser subroutine [38, 39] of PHENIX [40] using the SH3 domain of Lck as the search model [41].

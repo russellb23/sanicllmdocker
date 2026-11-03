@@ -1,1 +1,0 @@
-By combining results from structural, biophysical and functional analyses, we identified two critical SH3 positions that modulate PI3K acti- vation without altering canonical PR1 binding: One is the PR-proximal site, corresponding to the ‘R’ position of the SH3 RT loop (residue R96 in Fyn), and the other is the PR-distal position located on the opposite side of the

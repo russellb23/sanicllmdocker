@@ -1,1 +1,0 @@
-Human proteome contains hundreds of SH3 domains and SH3 target proteins, creating an enormous number of theoretically possible SH3 interactions. Knowing which ones of these take place and are biologically meaningful would greatly increase our understanding about the signalling networks that regulate normal and pathological cellular behaviour.

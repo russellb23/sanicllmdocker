@@ -1,1 +1,0 @@
-Simulations were performed on machines at the Texas A&M High-Perfor- mance Research Computing Facility.

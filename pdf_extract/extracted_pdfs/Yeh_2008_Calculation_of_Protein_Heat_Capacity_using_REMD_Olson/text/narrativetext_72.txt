@@ -1,1 +1,0 @@
-The REMD simulations were executed on a Linux cluster using an Intel CPU (3.06 GHz Intel IA-32). Application of the CHARMM22/GBMV2? simulation model requires approximately 100 CPU hours per nanosecond of simulation time, while CHARMM19/GBORN is roughly 4 times less demanding.

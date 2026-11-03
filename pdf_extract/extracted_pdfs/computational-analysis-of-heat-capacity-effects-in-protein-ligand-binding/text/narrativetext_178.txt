@@ -1,1 +1,0 @@
-(33) Olsson, M. H. M.; Sondergaard, C. R.; Rostkowski, M.; Jensen, J. H. PROPKA3: Consistent treatment of internal and surface residues in empirical pK, predictions. J. Chem. Theory Comput. 2011, 7, 525— $37.

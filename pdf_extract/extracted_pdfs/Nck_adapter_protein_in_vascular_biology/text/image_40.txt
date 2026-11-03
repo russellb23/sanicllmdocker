@@ -1,1 +1,0 @@
-Nck1 SH2 Domain Consensus A PxxPxxDY PxxPxXRxS PxxPxR pYDxV Binding RxxPxxP T EP Sequence 82% 51% 82% 25% 76% 41% 86% Homology B elF2p PAK1 WASP __—-VEGFR1/2 CD3e PAK2 sos PDGFR c-Cbl PRK2 PINCH EphA/B Binding SAM68 DOCK180 PECAM-1 Partners Dynamin FAK Nephrin c = “A Nck1 SH3.1 Domain

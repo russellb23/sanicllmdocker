@@ -1,1 +1,0 @@
-79. Yates, A. et al. The ensembl REST API: ensembl data for any language. Bioinformatics 31, 143-145 (2015).

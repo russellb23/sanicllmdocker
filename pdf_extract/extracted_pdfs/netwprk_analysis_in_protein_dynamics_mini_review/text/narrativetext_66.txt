@@ -1,1 +1,0 @@
-numerical sense (meaning, e.g. the number of individual parameters necessary to predict the behavior of the network) is a very difficult task, which will be a potential breakthrough of the future.

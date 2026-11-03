@@ -1,1 +1,0 @@
-functional SH3 domains (Hiipakka et al, 1999; Panni et al, 2002). Therefore, we chose to generate a library in which all human SH3 domains were expressed on the surface of M13 bacteriophages. This enabled us to use full-length SH3 target proteins or relevant native domains of them as ligands for rapid and unbiased screening of the SH3 domains with the highest affinity for them.

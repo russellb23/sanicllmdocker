@@ -1,1 +1,0 @@
-3.3. Effects of Proline-to-Alanine Mutations. We analyzed the effects of mutations in the proline-rich region. To investigate the role of proline residues, we mutated two proline residues (Pro8 and Proll) to alanine. We tested the single mutants P8A and P11A, as well as the double mutant PSAP11A.

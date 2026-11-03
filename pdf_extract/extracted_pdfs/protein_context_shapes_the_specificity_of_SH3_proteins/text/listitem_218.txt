@@ -1,1 +1,0 @@
-32. Collins, B. C. et al. Quantifying protein interaction dynamics by SWATH mass spectrometry: application to the 14-3-3 system. Nat. Methods 10, 1246-1253 (2013).

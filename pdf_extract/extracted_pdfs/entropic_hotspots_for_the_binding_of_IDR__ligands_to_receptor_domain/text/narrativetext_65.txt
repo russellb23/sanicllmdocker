@@ -1,1 +1,0 @@
-which is identical to the two-DOF version of Eq. 5. For side chains, the number of DOFs (x angles) varies between | and 5, where we used up to MIST3.

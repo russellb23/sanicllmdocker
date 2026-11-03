@@ -1,1 +1,0 @@
-48. Brooks, B. R., C. L. Brooks, III, .... M. Karplus. 2009. CHARMM: the biomolecular simulation program. J. Comput. Chem. 30:1545-1614.

@@ -1,1 +1,0 @@
-35. Herrmann T, Giintert P, Withrich K (2002) Protein NMR structure determination with automated NOE assignment using the new software CANDID and the torsion angle dynamics algorithm DYANA. J Mo! Biol 319:209-227.

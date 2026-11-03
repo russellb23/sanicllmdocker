@@ -1,1 +1,0 @@
-Two prediction strategies were employed for selection of candidate cDNAs that were subsequently used to express potential ligand proteins for screening of the SHS library. In the first approach, sequence search parameters were set to identify both the conventional PxxP and unconventional mo-

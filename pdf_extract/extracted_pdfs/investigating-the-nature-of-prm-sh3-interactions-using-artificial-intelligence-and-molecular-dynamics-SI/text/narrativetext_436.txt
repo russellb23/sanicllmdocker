@@ -1,1 +1,0 @@
-type values from those of the mutants.

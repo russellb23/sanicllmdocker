@@ -1,1 +1,0 @@
-Ona50 ps time-scale, few motions are observed in a consistent manner between all the time windows. For most residues, a sizeable scatter is observed in the values of the simulated B-factors. Only the B-sheet residues consistently display a low mobility. The use

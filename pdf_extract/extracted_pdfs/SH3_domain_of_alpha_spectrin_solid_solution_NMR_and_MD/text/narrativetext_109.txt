@@ -1,1 +1,0 @@
-Figure 5. Experimental and In Silico Charac- terization of Side-Chain Conformational Spaces Elucidated by Ensemble-Based eNOE Assessment and MD Simulations (A) Depiction of eNOE restraints on the residues Arg21 (left) and Trp41 (right) drawn as red lines. The distance restraints are forming several tripods that define the three-dimensional orientation of the side chains.

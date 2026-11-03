@@ -1,1 +1,0 @@
-“Values in parentheses are for the highest-resolution shell. As reported by autoBUSTER. phenix.molprobity reports 0.013 A/1.7°.

@@ -1,1 +1,0 @@
-67. Delaglio, F. et al. NMRPipe: a multidimensional spectral processing system based on UNIX pipes. J. Biomol. NMR 6, 277-93 (1995).

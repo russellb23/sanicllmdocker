@@ -1,1 +1,0 @@
-Figure 6 illustrates the Metropolis acceptance ratio as a function of the replica-exchange pair for the solvent models tested. The data used for each calculation was taken from the

@@ -1,1 +1,0 @@
-Data archival. All MS files used in this study were deposited at MassIVE (http:// massive.ucsd.edu). They were assigned the identifiers MassIVE MSV000085093 (DDA files) and MSV000085092 (DIA files). The files can be accessed using the following links: ftp://MS$V000085092@massive.ucsd.edu and ftp:// MSV000085093@massive.ucsd.edu.

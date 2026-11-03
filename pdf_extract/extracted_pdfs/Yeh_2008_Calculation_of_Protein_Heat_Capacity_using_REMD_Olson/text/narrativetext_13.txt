@@ -1,1 +1,0 @@
-representation of explicit water interactions with the macroscopic representation of treating implicitly the bulk physical properties of solvation.

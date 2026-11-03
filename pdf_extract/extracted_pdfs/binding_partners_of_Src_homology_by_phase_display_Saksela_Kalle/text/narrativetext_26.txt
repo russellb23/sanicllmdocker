@@ -1,1 +1,0 @@
-We coated six-well plates with Nef expressed as a glutathione S-transferase (GST) fusion protein, and let phages in the library to compete for binding to it. E. coli were infected with phages that remained bound to Nef after washing, and plated at serial dilutions on ampicillin plates. As shown in Fig 1, GST—-Nef bound

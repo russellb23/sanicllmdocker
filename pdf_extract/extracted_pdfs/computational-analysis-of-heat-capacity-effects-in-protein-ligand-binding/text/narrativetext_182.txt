@@ -1,1 +1,0 @@
-Aspects 2008, 29, (35) Marelius, J.; Kolmodin, K.; Feierberg, 1; Aqvist, J. Q: A molecular dynamics program for free energy calculations and empirical valence bond simulations in biomolecular systems. J. Mol. Graphics Modell. 1998, 16, 213-225.

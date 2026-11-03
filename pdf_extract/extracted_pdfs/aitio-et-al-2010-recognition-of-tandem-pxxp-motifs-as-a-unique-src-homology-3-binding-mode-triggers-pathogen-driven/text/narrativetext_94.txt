@@ -1,1 +1,0 @@
-Mammalian Cell Infection. Mouse embryo FLCs were infected with strain KC12 expressing EspFy derivatives as previously described (11). Cells were visual- ized after staining with DAPI to reveal bacteria, FITC-anti-myc antibody (Invitrogen) to detect EspFy-myc fusions, and Alexa568-phalloidin to detect F-actin.

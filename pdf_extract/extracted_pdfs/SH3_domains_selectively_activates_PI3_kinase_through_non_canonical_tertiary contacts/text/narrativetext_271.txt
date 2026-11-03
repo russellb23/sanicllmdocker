@@ -1,1 +1,0 @@
-Modelling was done on the KAUST IBEX cluster, using an in-house wrapper” for AlphaFold2_multimer”, except for the phospho-tyrosine containing complex shown in Supplementary Fig. 10D, which was pro- duced using AlphaFold3” through the AlphaFold server (a).

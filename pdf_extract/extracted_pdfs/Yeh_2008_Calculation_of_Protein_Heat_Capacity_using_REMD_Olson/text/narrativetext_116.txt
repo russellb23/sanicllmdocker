@@ -1,1 +1,0 @@
-rangement with an rmsd of 11.02 A. This particular structure from the united-atom force field was not observed in any of the other contours using CHARMM22 simulation models.

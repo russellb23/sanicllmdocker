@@ -1,1 +1,0 @@
-Western blot analysis revealed that the Nckl-shRNA-transfected cells markedly decreased the expression of Nck1 protein (p< 0.001; Fig. 1A), which was named as shNck1-LEC. The result showed the reduction of Nck1 protein by approximately 80% compared with control LEC (Fig. 1B). Knockdown of Nck1 in LEC did not affect

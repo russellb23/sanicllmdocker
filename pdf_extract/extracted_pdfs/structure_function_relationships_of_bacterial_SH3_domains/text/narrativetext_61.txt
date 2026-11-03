@@ -1,1 +1,0 @@
-AvPCP has the N-terminal SH3b domain and C-terminal catalytic domain (cysteine peptidase). The SH3b domain with 66 amino acids adopted a typical SH3b fold with seven B-strands. The SH3b domain made contact with the catalytic domain through b3 and b6, and the corresponding region to the peptide-ligand binding site in the SH3e located on the back of molecule (Fig. 4a). The SH3b

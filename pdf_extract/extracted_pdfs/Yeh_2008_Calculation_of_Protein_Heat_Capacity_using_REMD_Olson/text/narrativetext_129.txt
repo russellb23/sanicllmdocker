@@ -1,1 +1,0 @@
-the most simplistic solvent models are adequate in capturing the correct thermodynamics of protein folding.

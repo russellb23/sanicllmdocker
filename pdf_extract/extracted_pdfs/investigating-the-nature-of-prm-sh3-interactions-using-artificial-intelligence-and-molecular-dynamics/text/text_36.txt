@@ -1,1 +1,0 @@
-MD simulations were performed using GROMACS 2020.3°* with the CHARMM36m force field (March 2019).”>”° Energy

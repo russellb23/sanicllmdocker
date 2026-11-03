@@ -1,1 +1,0 @@
-The possible heat capacity change associated with ligand binding can, however, in principle, be obtained, without any free-energy calculations, from the much simpler temperature derivatives of the enthalpy in the bound and unbound states

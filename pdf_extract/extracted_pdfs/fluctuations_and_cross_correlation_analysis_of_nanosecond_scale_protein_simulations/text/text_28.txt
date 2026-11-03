@@ -1,1 +1,0 @@
-increases by about 0.02nm when the protein is immersed into water. The initial root-mean-square (r.m.s.) positional deviations measured for all atoms

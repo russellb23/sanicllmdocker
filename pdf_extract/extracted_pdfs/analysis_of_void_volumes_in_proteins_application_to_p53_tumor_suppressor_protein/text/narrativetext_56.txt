@@ -1,1 +1,0 @@
-Table 1. The Table showing total and largest void volumes and total number of voids for a,selection of structures in the data set, as calculated by AVP using a 1.4 A radius solvent probe and void probes of 0.0 A and 0.5 A radii

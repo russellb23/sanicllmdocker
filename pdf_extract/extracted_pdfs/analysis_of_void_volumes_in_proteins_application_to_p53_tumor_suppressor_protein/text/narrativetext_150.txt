@@ -1,1 +1,0 @@
-Our analysis of variation of void volume with probe size (see Figure 3) shows that when using probe size of at least 0.5 A, the effect of orientation on calculated void volumes is small.

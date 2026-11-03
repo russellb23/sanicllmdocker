@@ -1,1 +1,0 @@
-Kessner, D., Chambers, M., Burke, R., Agus, D. & Mallick, P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics 24, 2534-2536 (2008).

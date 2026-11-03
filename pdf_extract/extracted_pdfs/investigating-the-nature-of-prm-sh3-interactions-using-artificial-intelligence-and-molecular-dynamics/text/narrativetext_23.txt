@@ -1,1 +1,0 @@
-Molecular dynamics (MD) provides invaluable atomic intuition for investigating protein—peptide complexes as it enables the observation of both the atomic details of binding interactions and the global conformational changes within the complex. Due to these advantages, MD has been widely used to

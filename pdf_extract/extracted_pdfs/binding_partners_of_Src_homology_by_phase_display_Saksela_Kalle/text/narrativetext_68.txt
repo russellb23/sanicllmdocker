@@ -1,1 +1,0 @@
-for objective identification of SH3 domains that show strongest binding to target proteins of interest.

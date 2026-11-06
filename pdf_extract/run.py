@@ -51,28 +51,6 @@ def read_files_as_string(file_paths, encoding='utf-8'):
     return "".join(combined_content)
 
 
-def sort_files_by_trailing_number(directory):
-    """
-    Sorts files in the given directory based on trailing numbers.
-    Files without trailing numbers are placed at the end.
-    """
-    try:
-        files = os.listdir(directory)
-    except FileNotFoundError:
-        print(f"Error: Directory '{directory}' not found.")
-        return []
-    except PermissionError:
-        print(f"Error: Permission denied for directory '{directory}'.")
-        return []
-
-    # Sort using the extracted trailing number; None goes last
-    sorted_files = sorted(
-        files,
-        key=lambda f: (extract_trailing_number(f) is None, extract_trailing_number(f))
-    )
-    return sorted_files
-
-
 
 files = glob.glob("../datasrc/*.pdf")
 extractor = PDFExtractor(output_base_dir="extracted_pdfs")
@@ -80,6 +58,10 @@ xtrctd_txt = dict()
 
 for idx, file in enumerate(files):
     print(f"FILE:\n{file}")
+
+    fname_ = file.split('/')[-1]
+    fname = fname_.split('.')[0]
+
     xtractor = extractor.extract_content(
             pdf_path = file,
             strategy="hi_res",
@@ -87,16 +69,17 @@ for idx, file in enumerate(files):
             extract_tables=False)
 
     print(f"Extracted content: {xtractor}")
-    xtractd_path = os.listdir("./extracted_pdfs/")[idx]
-    data_path = "./extracted_pdfs/"+xtractd_path+"/text"
+
+    # xtractd_path = os.listdir("./extracted_pdfs/"+fname)
+    data_path = "./extracted_pdfs/"+fname+"/text"
     data_ = glob.glob(data_path+"/narrativetext_*.txt")
     data_content = sorted(data_, \
             key=lambda f: (extract_trailing_number(f) is None, \
             extract_trailing_number(f)))
     text = read_files_as_string(data_content)
-    xtrctd_txt[xtractd_path] = text
+    xtrctd_txt[fname] = text
     print(f"Key: \
-          {xtractd_path}")
+          {fname}")
 
 print(f"Successfully extracted all the pdf contents . . .")
 

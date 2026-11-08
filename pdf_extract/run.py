@@ -51,37 +51,43 @@ def read_files_as_string(file_paths, encoding='utf-8'):
     return "".join(combined_content)
 
 
+def preprocess_data(path_to_pdfs, output_dir="extracted_pdfs"):
 
-files = glob.glob("../datasrc/*.pdf")
-extractor = PDFExtractor(output_base_dir="extracted_pdfs")
-xtrctd_txt = dict()
 
-for idx, file in enumerate(files):
-    print(f"FILE:\n{file}")
+    files = glob.glob("../datasrc/*.pdf")
+    extractor = PDFExtractor(output_base_dir=output_dir)
 
-    fname_ = file.split('/')[-1]
-    fname = fname_.split('.')[0]
 
-    xtractor = extractor.extract_content(
-            pdf_path = file,
-            strategy="hi_res",
-            extract_images=False,
-            extract_tables=False)
+    xtrctd_txt = dict()
 
-    print(f"Extracted content: {xtractor}")
+    for idx, file in enumerate(files):
+        print(f"FILE:\n{file}")
 
-    # xtractd_path = os.listdir("./extracted_pdfs/"+fname)
-    data_path = "./extracted_pdfs/"+fname+"/text"
-    data_ = glob.glob(data_path+"/narrativetext_*.txt")
-    data_content = sorted(data_, \
+        fname_ = file.split('/')[-1]
+        fname = fname_.split('.')[0]
+
+        xtractor = extractor.extract_content(
+                pdf_path = file,
+                strategy="hi_res",
+                extract_images=False,
+                extract_tables=False)
+
+        print(f"Extracted content: {xtractor}")
+
+        # xtractd_path = os.listdir("./extracted_pdfs/"+fname)
+        data_path = "./extracted_pdfs/"+fname+"/text"
+        data_ = glob.glob(data_path+"/narrativetext_*.txt")
+        data_content = sorted(data_, \
             key=lambda f: (extract_trailing_number(f) is None, \
             extract_trailing_number(f)))
-    text = read_files_as_string(data_content)
-    xtrctd_txt[fname] = text
-    print(f"Key: \
-          {fname}")
+        text = read_files_as_string(data_content)
+        xtrctd_txt[fname] = text
+        print(f"Key: {fname}")
 
-print(f"Successfully extracted all the pdf contents . . .")
+    print(f"Successfully extracted all the pdf contents . . .")
+    print(f"Keys in xtracted text: {xtrctd_txt}")
 
+    return xtrctd_txt
 
-print(f"Keys in xtracted text: {xtrctd_txt.keys()}")
+mm = preprocess_data("../datasrc/*.pdf")
+print(f"Keys: {xtrctd_txt}")

@@ -11,7 +11,6 @@ import numpy as np
 
 from sentence_transformers import SentenceTransformer
 from nltk.tokenize import sent_tokenize
-from tika import parser
 
 from llama_index.core import StorageContext, Settings
 from llama_index.vector_stores.faiss import FaissVectorStore
@@ -39,7 +38,8 @@ except LookupError:
 
 
 # Configure Tika to use the Docker container
-os.environ["TIKA_SERVER_ENDPOINT"] = "http://server:9998"
+os.environ["TIKA_SERVER_ENDPOINT"] = "http://tika:9998"
+from tika import parser
 
 def extract_text_and_metadata(file_path):
     """
@@ -95,6 +95,10 @@ def preprocess_data(path_to_pdfs):
         fname = fname_.split('.')[0]
 
         text, metadata = extract_text_and_metadata(file)
+
+        if not isinstance(text.get("tk:content"), str):# or not text.strip():
+            raise ValueError(f"No text extracted from {file}")
+
         print(f"\n\META-DATS: \n\n{metadata.keys()}")
 
         sentences_chunks = chunk_sentences(metadata.get("tk:content"))

@@ -4,58 +4,126 @@ from sanic.response import json, text
 import os 
 import faiss
 import aiohttp
+import glob
+import nltk
+import sys
+import numpy as np
 
 from sentence_transformers import SentenceTransformer
+from nltk.tokenize import sent_tokenize
+from tika import parser
 
 from llama_index.core import StorageContext, Settings
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.vector_stores.faiss import FaissVectorStore
-from llama_index.core.ingestion import IngestionPipeline
-from llama_index.core.node_parser import SentenceSplitter
-from llama_index.core.extractors import TitleExtractor
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.readers.file import PDFReader
-
 
 MAX_CTX_TOKENS=2048
 # DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
 DOCS_DIR="/app/datasrc"
 EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 
+print("cwd =", os.getcwd())
+print("DOCS_DIR =", DOCS_DIR)
+pathie = DOCS_DIR+"/*.pdf"
+print(f"PATH: {pathie}")
+# print("files =", glob.glob(pathie))
 
 # Load embedding model
 embedder = SentenceTransformer(EMBED_MODEL_NAME)
 
-def load_pdfs(path_name: str) -> dict:
-    docs = []
-    for file in os.listdir(path_name):
-        path = os.path.join(path_name, file)
-        if file.lower().endswith(".pdf"):
-            docs.extend(PDFReader().load_data(file=path))
-        else:
-            docs.extend(SimpleDirectoryReader(input_files=[path]).load_data())
-    return docs
 
-# Process document text as json
-docs_ = load_pdfs(DOCS_DIR)
-documents_ = [dc.json() for dc in docs_]
-documents = [' '.join(dcs) for dcs in documents_]
+# Ensure required NLTK is downloaded
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
+
+# Configure Tika to use the Docker container
+os.environ["TIKA_SERVER_ENDPOINT"] = "http://server:9998"
+
+def extract_text_and_metadata(file_path):
+    """
+    Extract text and metadata from a file using Apache Tika running in Docker.
+    """
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(f"File not found: {file_path}")
+
+    parsed = parser.from_file(file_path)
+
+    text = parsed.get("metadata", "")#.strip()
+    print(f"TEXT INSIDE xtract_metadata: {text}")
+    metadata = parsed.get("metadata", {})
+
+    return text, metadata
+
+
+def chunk_sentences(text):
+    """
+    Splits the given text into sentences.
+
+    Args:
+        text (str):  Input text to split.
+
+    Returns:
+        list: List of sentences.
+    """
+    if not isinstance(text, str):
+        raise TypeError("Input must be a string")
+    if not text.strip():
+        return [] # Empty string returns empty list
+
+    # Sentence tokenization
+    sentences = sent_tokenize(text)
+    return sentences
+
+
+
+def preprocess_data(path_to_pdfs):
+    """
+    Extract data (text, tables, images) from pdfs and returns them as json
+    """
+
+    files = glob.glob(path_to_pdfs)
+    print(f"GLOB FILES: {files}")
+
+    xtractd_txt = []
+
+    for idx, file in enumerate(files):
+        print(f"FILE:\t{file}")
+
+        fname_ = file.split('/')[-1]
+        fname = fname_.split('.')[0]
+
+        text, metadata = extract_text_and_metadata(file)
+        print(f"\n\META-DATS: \n\n{metadata.keys()}")
+
+        sentences_chunks = chunk_sentences(metadata.get("tk:content"))
+        xtractd_txt += sentences_chunks 
+        # xtractd_txt[fname] = embedder.encode(sentences_chunks,
+        #                                      convert_to_numpy=True, 
+        #                                      normalize_embeddings=True)
+
+    return xtractd_txt
+
+
+
+extracts = preprocess_data(pathie)
+print(f"Extracts: {extracts[:10]}")
+
+# Extracting dimensions
+if extracts:
+    documents = extracts
+else:
+    documents = ("")  # use your embedding width
 
 doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
                                  normalize_embeddings=True)
 
-# Settings Sentence splitter
-Settings.text_splitter = SentenceSplitter(
-        chunk_size=512,
-        chunk_overlap=32,
-        separator=" ",
-        paragraph_separator="\n\n")
-
-# Settings embedding
-# Settings.embed_model = SentenceTransformer(EMBED_MODEL_NAME)
-
+print(f"Doc Embeddings: {doc_embeddings}")
+# doc_embeddings = np.concatenate([v for k, v in extracts.items()])
+# print(f"\n\n\ndoc_embeddings: {np.concatenate(doc_embeddings).shape}\n\n\n")
 # Faiss vector store initialization
-dimension = 384
+dimension = 384; #doc_embeddings.shape[1] # all-MiniLM-L6-v2
 faiss_index = faiss.IndexFlatIP(dimension)
 faiss_index.add(doc_embeddings)
 
@@ -71,8 +139,8 @@ storage_context = StorageContext.from_defaults(
 # Sanic application
 app = Sanic("SanicFAISS")
 
-app.config.RESPONSE_TIMEOUT = 240
-app.config.REQUEST_TIMEOUT = 240
+app.config.RESPONSE_TIMEOUT = 900
+app.config.REQUEST_TIMEOUT = 900
 
 @app.post("/faiss")
 async def search_faiss(request):
@@ -99,6 +167,7 @@ async def search_faiss(request):
     Answer"""
     async with aiohttp.ClientSession() as session:
         async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
+        # async with session.post("http://localhost:8001/infer", json={"query": prompt}) as resp:
             result = await resp.json()
             print(f"RESULT: {context}")
 
@@ -107,3 +176,34 @@ async def search_faiss(request):
 # Execute the application
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8002, single_process=True, debug=True) 
+
+"""
+def load_pdfs(path_name: str) -> dict:
+    docs = []
+    for file in os.listdir(path_name):
+        path = os.path.join(path_name, file)
+        if file.lower().endswith(".pdf"):
+            docs.extend(PDFReader().load_data(file=path))
+        else:
+            docs.extend(SimpleDirectoryReader(input_files=[path]).load_data())
+    return docs
+
+
+# Process document text as json
+docs_ = load_pdfs(DOCS_DIR)
+documents_ = [dc.json() for dc in docs_]
+documents = [' '.join(dcs) for dcs in documents_]
+
+doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
+                                 normalize_embeddings=True)
+
+# Settings Sentence splitter
+Settings.text_splitter = SentenceSplitter(
+        chunk_size=512,
+        chunk_overlap=32,
+        separator=" ",
+        paragraph_separator="\n\n")
+
+# Settings embedding
+# Settings.embed_model = SentenceTransformer(EMBED_MODEL_NAME)
+"""

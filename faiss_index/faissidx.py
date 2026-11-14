@@ -103,9 +103,6 @@ def preprocess_data(path_to_pdfs):
 
         sentences_chunks = chunk_sentences(metadata.get("tk:content"))
         xtractd_txt += sentences_chunks 
-        # xtractd_txt[fname] = embedder.encode(sentences_chunks,
-        #                                      convert_to_numpy=True, 
-        #                                      normalize_embeddings=True)
 
     return xtractd_txt
 
@@ -124,10 +121,7 @@ doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
                                  normalize_embeddings=True)
 
 print(f"Doc Embeddings: {doc_embeddings}")
-# doc_embeddings = np.concatenate([v for k, v in extracts.items()])
-# print(f"\n\n\ndoc_embeddings: {np.concatenate(doc_embeddings).shape}\n\n\n")
-# Faiss vector store initialization
-dimension = 384; #doc_embeddings.shape[1] # all-MiniLM-L6-v2
+dimension = doc_embeddings.shape[1] # all-MiniLM-L6-v2
 faiss_index = faiss.IndexFlatIP(dimension)
 faiss_index.add(doc_embeddings)
 
@@ -143,8 +137,8 @@ storage_context = StorageContext.from_defaults(
 # Sanic application
 app = Sanic("SanicFAISS")
 
-app.config.RESPONSE_TIMEOUT = 900
-app.config.REQUEST_TIMEOUT = 900
+app.config.RESPONSE_TIMEOUT = 300
+app.config.REQUEST_TIMEOUT = 300
 
 @app.post("/faiss")
 async def search_faiss(request):
@@ -152,7 +146,7 @@ async def search_faiss(request):
     print(f"Query: {query}")
     query_embedding = embedder.encode(
             [query], convert_to_numpy=True, normalize_embeddings=True)
-    scores, indices = faiss_index.search(query_embedding, 3)
+    scores, indices = faiss_index.search(query_embedding, 3) # K = 3
     retrieved_docs = [documents[i][:MAX_CTX_TOKENS] for i in indices[0]]
     print(f"\n\n{indices[0]}\n\n")
     # Build prompt
@@ -180,34 +174,3 @@ async def search_faiss(request):
 # Execute the application
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8002, single_process=True, debug=True) 
-
-"""
-def load_pdfs(path_name: str) -> dict:
-    docs = []
-    for file in os.listdir(path_name):
-        path = os.path.join(path_name, file)
-        if file.lower().endswith(".pdf"):
-            docs.extend(PDFReader().load_data(file=path))
-        else:
-            docs.extend(SimpleDirectoryReader(input_files=[path]).load_data())
-    return docs
-
-
-# Process document text as json
-docs_ = load_pdfs(DOCS_DIR)
-documents_ = [dc.json() for dc in docs_]
-documents = [' '.join(dcs) for dcs in documents_]
-
-doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
-                                 normalize_embeddings=True)
-
-# Settings Sentence splitter
-Settings.text_splitter = SentenceSplitter(
-        chunk_size=512,
-        chunk_overlap=32,
-        separator=" ",
-        paragraph_separator="\n\n")
-
-# Settings embedding
-# Settings.embed_model = SentenceTransformer(EMBED_MODEL_NAME)
-"""

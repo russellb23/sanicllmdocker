@@ -20,8 +20,8 @@ from llama_index.core.node_parser import SentenceSplitter
 
 
 MAX_CTX_TOKENS=8192
-DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
-# DOCS_DIR="/app/datasrc"
+# DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
+DOCS_DIR="/app/datasrc"
 # EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 EMBED_MODEL_NAME="BAAI/bge-small-en-v1.5"
 # EMBED_MODEL_NAME="perplexity-ai/pplx-embed-v2-context-9b"
@@ -40,7 +40,7 @@ except LookupError:
 
 
 # Configure Tika to use the Docker container
-os.environ["TIKA_SERVER_ENDPOINT"] = "http://localhost:9998"
+os.environ["TIKA_SERVER_ENDPOINT"] = "http://tika:9998"
 from tika import parser
 
 def extract_text_and_metadata(file_path):
@@ -76,6 +76,7 @@ def chunk_sentences(text):
     # Sentence tokenization
     sentences = sent_tokenize(text)
     return sentences
+
 
 def semantic_chunking(text):
     """
@@ -117,13 +118,15 @@ def preprocess_data(path_to_pdfs):
         fname_ = file.split('/')[-1]
         fname = fname_.split('.')[0]
 
+        print(f"FILENAME: {file}")
+
         text, metadata = extract_text_and_metadata(file)
 
         if not isinstance(text.get("tk:content"), str):# or not text.strip():
             raise ValueError(f"No text extracted from {file}")
 
         # sentences_chunks = chunk_sentences(metadata.get("tk:content"))
-        semantic_chunks = semantic_chunking(metadata.get("tk:content"))
+        semantic_chunks = chunk_sentences(metadata.get("tk:content"))
         xtractd_txt += semantic_chunks 
 
     return xtractd_txt
@@ -175,7 +178,7 @@ else:
 doc_embeddings = embedder.encode(documents, convert_to_numpy=True, \
                                  normalize_embeddings=True)
 
-print(f"Doc Embeddings: {doc_embeddings}")
+print(f"Doc Embeddings: {doc_embeddings.shape}")
 dimension = doc_embeddings.shape[1] # all-MiniLM-L6-v2
 faiss_index = faiss.IndexFlatIP(dimension)
 faiss_index.add(doc_embeddings)
@@ -215,8 +218,8 @@ async def search_faiss(request):
     Question: {query}
     Answer"""
     async with aiohttp.ClientSession() as session:
-        # async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
-        async with session.post("http://localhost:8001/infer", json={"query": prompt}) as resp:
+        async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
+        # async with session.post("http://localhost:8001/infer", json={"query": prompt}) as resp:
             result = await resp.json()
             print(f"RESULT: {context}")
 

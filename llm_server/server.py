@@ -4,6 +4,7 @@ from sanic.response import json, text
 from llama_cpp import Llama
 
 MODEL_PATH="/models/meta-llama-3.1-8b-instruct-q4_k_m.gguf"
+# MODEL_PATH="/opt/llamacpp/meta-llama-3.1-8b-instruct-q4_k_m.gguf"
 
 print("[INFO] Loading local LLaMA model . . .")
 llm = Llama(
@@ -11,7 +12,12 @@ llm = Llama(
         n_gpu_layers=-1,
         n_ctx=8192,
         device_map="0:cuda",
-        verbose=False)
+        verbose=False,
+        params = {
+            "temperature":0.8,
+            "top_p":0.94,
+            "repeat_penalty":1.0
+            })
 
 
 app = Sanic("SanicLLM")

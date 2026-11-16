@@ -136,38 +136,6 @@ def preprocess_data(path_to_pdfs):
 extracts = preprocess_data(pathie)
 print(f"Extracts: {extracts[:10]}")
 
-"""
-###################################### Evaluation routine ####################
-eval_documents = extracts
-data_generator = DatasetGenerator.from_documents(eval_documents)
-eval_questions = data_generator.generate_questions_from_nodes()
-
-print(f"Evaluation questions:\n\n{eval_questions}")
-
-from sentence_transformers import SentenceTransformer, util
-
-def relevance_score(query, retrieved_texts):
-    query_emb = model.encode(query, convert_to_tensor=True)
-    scores = []
-    for text in retrieved_texts:
-        text_emb = model.encode(text, convert_to_tensor=True)
-        scores.append(util.cos_sim(query_emb, text_emb).item())
-    return sum(scores) / len(scores)
-
-def faithfulness_score(answer, retrieved_texts):
-    context = "\n".join(retrieved_texts)
-    prompt = f"Check if the answer is fully \
-            supported by the context.\nContext:\n{context}\nAnswer: \
-            \n{answer}\nReturn a score 0-1."
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": prompt}]
-    )
-    return float(response.choices[0].message['content'])
-
-
-#############################################################################
-"""
 
 # Extracting dimensions
 if extracts:

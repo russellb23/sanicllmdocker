@@ -7,28 +7,29 @@ import aiohttp
 import glob
 import nltk
 import sys
+import openai
 import numpy as np
 
 from sentence_transformers import SentenceTransformer
 from nltk.tokenize import sent_tokenize
 
-from llama_index.core import StorageContext, Settings
+from llama_index.core import StorageContext, Settings, Document
 from llama_index.vector_stores.faiss import FaissVectorStore
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.core.node_parser import SentenceSplitter
 
-MAX_CTX_TOKENS=2048
-# DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
-DOCS_DIR="/app/datasrc"
-EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 
-print("cwd =", os.getcwd())
-print("DOCS_DIR =", DOCS_DIR)
+MAX_CTX_TOKENS=8192
+DOCS_DIR="/home/russellb/developments/DeepLearningNLP/sanicllmdocker/datasrc"
+# DOCS_DIR="/app/datasrc"
+# EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
+EMBED_MODEL_NAME="BAAI/bge-small-en-v1.5"
+# EMBED_MODEL_NAME="perplexity-ai/pplx-embed-v2-context-9b"
+
 pathie = DOCS_DIR+"/*.pdf"
-print(f"PATH: {pathie}")
-# print("files =", glob.glob(pathie))
 
 # Load embedding model
 embedder = SentenceTransformer(EMBED_MODEL_NAME)
-
 
 # Ensure required NLTK is downloaded
 try:
@@ -37,8 +38,9 @@ except LookupError:
     nltk.download('punkt')
 
 
+
 # Configure Tika to use the Docker container
-os.environ["TIKA_SERVER_ENDPOINT"] = "http://tika:9998"
+os.environ["TIKA_SERVER_ENDPOINT"] = "http://localhost:9998"
 from tika import parser
 
 def extract_text_and_metadata(file_path):
@@ -51,7 +53,6 @@ def extract_text_and_metadata(file_path):
     parsed = parser.from_file(file_path)
 
     text = parsed.get("metadata", "")#.strip()
-    print(f"TEXT INSIDE xtract_metadata: {text}")
     metadata = parsed.get("metadata", {})
 
     return text, metadata
@@ -76,6 +77,30 @@ def chunk_sentences(text):
     sentences = sent_tokenize(text)
     return sentences
 
+def semantic_chunking(text):
+    """
+    Splits text using semantics
+    Args:
+        text (str): Outout of Tika server
+    Returns:
+        list: List of semantic sentences
+    """
+    try:
+
+        if not isinstance(text, str):
+            raise TypeError("Input must be a string")
+        if not text.strip():
+            return []
+        # Create a Document object
+        doc = Document(text=text)
+        # Semantic chunking
+        chunker = SentenceSplitter(chunk_size=512, chunk_overlap=64)
+        chunks = chunker.split_text(text)
+        return chunks
+
+    except Exception as e:
+        raise RuntimeError(f"Error chunking text: {e}")
+
 
 
 def preprocess_data(path_to_pdfs):
@@ -84,12 +109,10 @@ def preprocess_data(path_to_pdfs):
     """
 
     files = glob.glob(path_to_pdfs)
-    print(f"GLOB FILES: {files}")
 
     xtractd_txt = []
 
     for idx, file in enumerate(files):
-        print(f"FILE:\t{file}")
 
         fname_ = file.split('/')[-1]
         fname = fname_.split('.')[0]
@@ -99,10 +122,9 @@ def preprocess_data(path_to_pdfs):
         if not isinstance(text.get("tk:content"), str):# or not text.strip():
             raise ValueError(f"No text extracted from {file}")
 
-        print(f"\n\META-DATS: \n\n{metadata.keys()}")
-
-        sentences_chunks = chunk_sentences(metadata.get("tk:content"))
-        xtractd_txt += sentences_chunks 
+        # sentences_chunks = chunk_sentences(metadata.get("tk:content"))
+        semantic_chunks = semantic_chunking(metadata.get("tk:content"))
+        xtractd_txt += semantic_chunks 
 
     return xtractd_txt
 
@@ -110,6 +132,39 @@ def preprocess_data(path_to_pdfs):
 
 extracts = preprocess_data(pathie)
 print(f"Extracts: {extracts[:10]}")
+
+"""
+###################################### Evaluation routine ####################
+eval_documents = extracts
+data_generator = DatasetGenerator.from_documents(eval_documents)
+eval_questions = data_generator.generate_questions_from_nodes()
+
+print(f"Evaluation questions:\n\n{eval_questions}")
+
+from sentence_transformers import SentenceTransformer, util
+
+def relevance_score(query, retrieved_texts):
+    query_emb = model.encode(query, convert_to_tensor=True)
+    scores = []
+    for text in retrieved_texts:
+        text_emb = model.encode(text, convert_to_tensor=True)
+        scores.append(util.cos_sim(query_emb, text_emb).item())
+    return sum(scores) / len(scores)
+
+def faithfulness_score(answer, retrieved_texts):
+    context = "\n".join(retrieved_texts)
+    prompt = f"Check if the answer is fully \
+            supported by the context.\nContext:\n{context}\nAnswer: \
+            \n{answer}\nReturn a score 0-1."
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return float(response.choices[0].message['content'])
+
+
+#############################################################################
+"""
 
 # Extracting dimensions
 if extracts:
@@ -129,10 +184,6 @@ vector_store = FaissVectorStore(faiss_index=faiss_index)
 storage_context = StorageContext.from_defaults(
         vector_store=vector_store)
 
-# Index construction
-# index = VectorStoreIndex.from_documents(docs_,
-#                         storage_context=storage_context)
-
 
 # Sanic application
 app = Sanic("SanicFAISS")
@@ -146,7 +197,7 @@ async def search_faiss(request):
     print(f"Query: {query}")
     query_embedding = embedder.encode(
             [query], convert_to_numpy=True, normalize_embeddings=True)
-    scores, indices = faiss_index.search(query_embedding, 3) # K = 3
+    scores, indices = faiss_index.search(query_embedding, 1) # K = 10
     retrieved_docs = [documents[i][:MAX_CTX_TOKENS] for i in indices[0]]
     print(f"\n\n{indices[0]}\n\n")
     # Build prompt
@@ -154,7 +205,7 @@ async def search_faiss(request):
 
     # Constructing prompt
     prompt=f"""You are a helpful scientific assistant. Use the following
-    scientific context and only the context to answer the following question.
+    scientific context to answer the following question.
     If the answer is not in the given context say I could not find the answer
     in the context.
 
@@ -164,8 +215,8 @@ async def search_faiss(request):
     Question: {query}
     Answer"""
     async with aiohttp.ClientSession() as session:
-        async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
-        # async with session.post("http://localhost:8001/infer", json={"query": prompt}) as resp:
+        # async with session.post("http://server:8001/infer", json={"query": prompt}) as resp:
+        async with session.post("http://localhost:8001/infer", json={"query": prompt}) as resp:
             result = await resp.json()
             print(f"RESULT: {context}")
 

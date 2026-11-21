@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 SERVER="./llm_server"
-FAISS="./faiss_index"
+FAISS="./docprocess"
 TIKA="./tika_server"
 
 # Stop and remove containers before starting
@@ -10,25 +10,25 @@ echo `docker container stop tika`
 echo `docker container rm tika` 
 echo `docker container stop server` 
 echo `docker container rm server` 
-echo `docker container stop faiss` 
-echo `docker container rm faiss`
+# echo `docker container stop faiss` 
+# echo `docker container rm faiss`
 
-echo "Stopping network if in use already ..."
-echo `docker network rm llm-net`
+# echo "Stopping network if in use already ..."
+# echo `docker network rm llm-net`
 
-echo "Creating network ..."
-echo `docker network create llm-net`
+# echo "Creating network ..."
+# echo `docker network create llm-net`
 
 # BUild and run docker for server
 echo "Building server..."
 cd $SERVER
 echo `docker build -t llm-gpu-image . \
-	&& docker run --name server --network llm-net \
+	&& docker run --name server \
 	-v /opt/llamacpp:/models \
 	-p 8001:8001 -d llm-gpu-image`
 cd ../
 
-sleep 10
+sleep 60
 
 # Start TIKA server
 echo "Starting tika server . . ."
@@ -36,7 +36,7 @@ echo "Starting tika server . . ."
 # echo `docker build -t tikaserver . \
 # 	&& docker run -d --name tika -p 9998:9998 tikaserver`
 echo `docker pull apache/tika:latest \
-	&& docker run -d --name tika --network llm-net \
+	&& docker run -d --name tika \
 	-p 9998:9998 apache/tika:latest`
 # cd ../
 sleep 10
@@ -52,10 +52,11 @@ sleep 10
 
 echo "Extracting pdf contents and Building faiss index ..."
 cd $FAISS
-echo `docker build -t sanic-image . \
-	&& docker run --name faiss --network llm-net \
-	-v /home/russellb/developments/DeepLearningNLP/sanicllmdocker/:/app \
-	-p 8002:8002 -d sanic-image`
+echo `python3 docchroma.py`
+# echo `docker build -t sanic-image . \
+# 	&& docker run --name chroma \
+# 	-v /home/russellb/developments/DeepLearningNLP/sanicllmdocker/:/app \
+# 	-p 8002:8002 -d sanic-image`
 
 sleep 300
 
